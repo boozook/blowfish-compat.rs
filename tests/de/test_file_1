@@ -1,0 +1,9242 @@
+/*************************************************************
+**
+** Gruntz attributes file
+**
+**
+*/
+
+
+/*************************************************
+* Rez File Sync and Version values
+*/
+[General]
+        RezSync						= (DWORD)3
+        RezVersion					= 3
+
+[Optionz]
+MinScrollSpeed						= 250
+MaxScrollSpeed						= 2000
+
+[Cheatz]
+NumCheatz							= 70
+
+[Cheat1]
+Text								= "äçâÇëêâåîêëíÉÉíç"	// explode
+Value								= 33351
+
+[Cheat2]
+Text								= "äçêëÇçÜëíç"			// nextlev
+Value								= 32782
+
+[Cheat3]
+Text								= "äçêëÇçÜëÅåîã"				// prevlev
+Value								= 32783
+
+[Cheat4]
+Text								= "äçÄÖÇ~ëÄÖÇ~ëÄÖÇ~ë"		// complete
+Value								= 33193
+
+[Cheat5]
+Text								= "äçà~äÜà~óÇ"			// Bombz
+Value								= 32997
+
+[Cheat6]
+Text								= "äçèÇäåëÇÄåãëèåâ"	// Boomerangz
+Value								= 32998
+
+[Cheat7]
+Text								= "äçÖåäÇÜäçèåìÇäÇãë"	// Brickz
+Value								= 32999
+
+[Cheat8]
+Text								= "äçíãÑ~íãÑ~"			// Clubz
+Value								= 33000
+
+[Cheat9]
+Text								= "äçè~êêàãíÄàâÇó"		// Gauntletz
+Value								= 33001
+
+[Cheat10]
+Text								= "äççíãÄÖåíë"			// Glovez
+Value								= 33002
+
+[Cheat11]
+Text								= "äçèÇ~âäÇãÅåãëíêÇêëè~îó"			// Gooberz
+Value								= 33003
+
+[Cheat12]
+Text								= "äçÖÜëåçó"	// GravityBootz
+Value								= 33004
+
+[Cheat13]
+Text								= "äçÖ~èÅÖ~ëä~Äà"			// Gunhatz
+Value								= 33005
+
+[Cheat14]
+Text								= "äçÉÜèÇçåîÇè"		// NerfGunz
+Value								= 33006
+
+[Cheat15]
+Text								= "äçèåÄàåã"			// Rockz
+Value								= 33007
+
+[Cheat16]
+Text								= "äçëèåá~ã"		// Shieldz
+Value								= 33008
+
+[Cheat17]
+Text								= "äçÉíãÜãëÖÇ~èã"		// Shovelz
+Value								= 33009
+
+[Cheat18]
+Text								= "äçàÜãÇëÜÄ"			// Springz
+Value								= 33010
+
+[Cheat19]
+Text								= "äçïÉÜâÇó"			// Spyz
+Value								= 33011
+
+[Cheat20]
+Text								= "äç~èèèèèèè"		// Swordz
+Value								= 33012
+
+[Cheat21]
+Text								= "äççâ~êëÜéíÇó"	// Timebombz
+Value								= 33013
+
+[Cheat22]
+Text								= "äçéí~Äà~ÑÇ"			// Toobz
+Value								= 33014
+
+[Cheat23]
+Text								= "äçÄåççÇèÉÜÇâÅ"			// Wandz
+Value								= 33015
+
+[Cheat25]
+Text								= "äçì~êÉâ~ä"		// Welderz
+Value								= 33017
+
+[Cheat26]
+Text								= "äçÉÇ~èåÉÉâñÜãÑ"			// Wingz
+Value								= 33018
+
+[Cheat27]
+Text								= "äçÑÇèÇè"		// Babywalkerz
+Value								= 33019
+
+[Cheat28]
+Text								= "äçëÖÇ~ââ"		// Beachballz
+Value								= 33020
+
+[Cheat29]
+Text								= "äçîÖÇÇâÜÇó"			// wheelz
+Value								= 33021
+
+[Cheat30]
+Text								= "äçä~âÜíÑè~ãÅçèÜï"			// gokartz
+Value								= 33022
+
+[Cheat31]
+Text								= "äçíâëÜä~ëÇÄÖÇÇêÇíèÑÇè"		// jack
+Value								= 33023
+
+[Cheat32]
+Text								= "äçÑÇëÜãêÖ~çÇ"			// jump
+Value								= 33024
+
+[Cheat33]
+Text								= "äçåÜãÑÇÇ"		// pogo
+Value								= 33025
+
+[Cheat34]
+Text								= "äçä~ÑÜÄç~çÇè"			// scroll
+Value								= 33026
+
+[Cheat35]
+Text								= "äçäåíêÇñ"		// squeaktoy
+Value								= 33027
+
+[Cheat36]
+Text								= "äçâ~äÇëåñ"				// yoyo
+Value								= 33028
+
+[Cheat37]
+Text								= "äçëÜäÇè"				// timer
+Value								= 33031
+
+[Cheat38]
+Text								= "äçâ~ÄàèÜÄà"		// blackbrick
+Value								= 33064
+
+[Cheat39]
+Text								= "äçÑåâÅèÜÄà"			// goldbrick
+Value								= 33065
+
+[Cheat40]
+Text								= "äçâíÇèÜÄà"			// bluebrick
+Value								= 33066
+
+[Cheat41]
+Text								= "äçèÇÅèÜÄà"			// redbrick
+Value								= 33067
+
+[Cheat42]
+Text								= "äçÜââÑ~ëÇó"		// conver
+Value								= 33072
+
+[Cheat43]
+Text								= "äçåÖäñÑåÅëÖÇñàÜââÇÅàÇããñ"	// deatht
+Value								= 33073
+
+[Cheat44]
+Text								= "äçÄâå~àÜãÑÅÇìÜÄÇ"			// ghost
+Value								= 32909
+
+[Cheat45]
+Text								= "äçÖÜÑÖâ~ãÅÇè"	// invul
+Value								= 33074
+
+[Cheat46]
+Text								= "äççâíêÉÜìÇä~ÑÜÄ~âçâ~ëÇ"		// react
+Value								= 33075
+
+[Cheat47]
+Text								= "äçÄèÇ~ëÜãÇ"				// roid
+Value								= 33076
+
+[Cheat48]
+Text								= "äçäÇÇçäÇÇç"				// supersp
+Value								= 33077
+
+[Cheat49]
+Text								= "äççÜÄ~êêå"		// randomcolorcurse
+Value								= 33078
+
+[Cheat50]
+Text								= "äçêÇÜóíèÇ"		// screenshake
+Value								= 33079
+
+[Cheat51]
+Text								= "äçâÜÑÖëóåíë"		// blackscreen
+Value								= 33080
+
+[Cheat52]
+Text								= "äçÄâåêëèåçÖåÜ~"		// minicam
+Value								= 33081
+
+[Cheat53]
+Text								= "äçÉ~åêÄÖî~èëó"	// randomtoyspell
+Value								= 33082
+
+[Cheat54]
+Text								= "äçÜãÅÜ~ã~áåãÇó"		// rollingballspell
+Value								= 33083
+
+[Cheat55]
+Text								= "äçÄÖÜââåíë"		// freezespell
+Value								= 33084
+
+[Cheat56]
+Text								= "äçë~ÄåÇââ"		// healthspell
+Value								= 33085
+
+[Cheat57]
+Text								= "äç~ÄàoâÜÉÇ"		// ressurect
+Value								= 33086
+
+[Cheat58]
+Text								= "äçÇâÇçÖ~ãëçåèà"		// teleport
+Value								= 33087
+
+[Cheat59]
+Text								= "äçèÜåèÜå"			// area 3
+NonCheat							= 1
+Value								= 33344
+
+[Cheat60]
+Text								= "äçâÇäåãíëëÇèÄèÇäÇó"	// area 4
+NonCheat							= 1
+Value								= 33345
+
+[Cheat61]
+Text								= "äçñåíèÇêåäåãÇñ"		// area 5
+NonCheat							= 1
+Value								= 33346
+
+[Cheat62]
+Text								= "äçä~àÇäÇêåäÇçÜÇ"		// area 6
+NonCheat							= 1
+Value								= 33347
+
+[Cheat63]
+Text								= "äçÑåâÉ~ãÅÑ~äÇó"		// area 7
+NonCheat							= 1
+Value								= 33348
+
+[Cheat64]
+Text								= "äçíêÇëÖÇÉåèÄÇ"		// area 8
+NonCheat							= 1
+Value								= 33349
+
+[Cheat65]
+Text								= "äçëÇï~êëÇ~"			// fullwell
+Value								= 33188
+
+[Cheat66]
+Text								= "äçÜâåìÇëÖÜêÑ~äÇ"				// creation
+Value								= 33189
+
+[Cheat67]
+Text								= "äçÜÖ~ëÇëÖÜêÑ~äÇ"				// destruction
+Value								= 33190
+
+[Cheat68]
+Text								= "äçëè~Üëåè"			// traitor
+NonCheat							= 1
+Value								= 32835
+
+[Cheat69]
+Text								= "äçåä~ÑÇ"			// bombage
+NonCheat							= 1
+Value								= 33030
+
+[Cheat70]
+Text								= "äçÄè~êÖ"				// crash
+NonCheat							= 1
+Value								= 33238
+
+[BootyCheatz]
+A1C1								= 59
+A1C2								= 68
+A1C3								= 69
+A2C1								= 60
+A2C2								= 48
+A2C3								= 57
+A3C1								= 61
+A3C2								= 44
+A3C3								= 56
+A4C1								= 62
+A4C2								= 43
+A4C3								= 55
+A5C1								= 63
+A5C2								= 47
+A5C3								= 53
+A6C1								= 64
+A6C2								= 45
+A6C3								= 54
+A7C1								= 46
+A7C2								= 42
+A7C3								= 58
+A8C1								= 36
+A8C2								= 20
+A8C3								= 26
+A9C1								= 66
+
+[World]
+BigActWidth							= 96
+BigActHeight						= 96
+
+[Font]
+TrainingFont						= "TURKEY SANDWICH"
+TrainingFontWidth					= 16
+TrainingFontHeight					= 36
+MessageFont							= "TURKEY SANDWICH"
+MessageFontWidth					= 23
+MessageFontHeight					= 55
+TextLeftEdge						= 10
+TextRightEdge						= 10
+TextTopEdge							= 8
+TextBottomEdge						= 8
+
+[Menu]
+BrightnessPercent					= 30
+
+[BackPlane]
+ScrollTime							= (DWORD)60
+ScrollDistX							= (DWORD)1
+ScrollDistY							= (DWORD)0
+
+[StatusBar]
+GruntOvenDelay						= (DWORD)200
+LeftMachineSnoozingDelay			= (DWORD)100
+LeftMachineWakingDelay				= (DWORD)100
+LeftMachineTurningWheelDelay		= (DWORD)100
+LeftMachineLeverDelay				= (DWORD)100
+RightMachineRunningDelay			= (DWORD)125
+RightMachineSpewingDelay			= (DWORD)200
+FallingItemSpeed					= 8
+FallingItemShredderSpeed			= 2
+FallingItemDelay					= (DWORD)35
+FallingItemShredderDelay			= (DWORD)100
+NextItemDelay						= (DWORD)50
+NextItemSpeed						= 2
+NextItemInMachineTime				= (DWORD)2000
+NextItemWaitTime					= (DWORD)1000
+ConveyorBeltDelay					= (DWORD)35
+ConveyorBeltHoldDownDelay			= (DWORD)500
+ConveyorBeltHoldInDelay				= (DWORD)500
+DestructButtonWarningDelay			= (DWORD)50
+
+[WarpStone]
+FlyTime								= (DWORD)1500
+Level1								= 1
+Level2								= 2
+Level3								= 3
+Level4								= 4
+Level5								= 1
+Level6								= 2
+Level7								= 3
+Level8								= 4
+Level9								= 1
+Level10								= 2
+Level11								= 3
+Level12								= 4
+Level13								= 1
+Level14								= 2
+Level15								= 3
+Level16								= 4
+Level17								= 1
+Level18								= 2
+Level19								= 3
+Level20								= 4
+Level21								= 1
+Level22								= 2
+Level23								= 3
+Level24								= 4
+Level25								= 1
+Level26								= 2
+Level27								= 3
+Level28								= 4
+Level29								= 1
+Level30								= 2
+Level31								= 3
+Level32								= 4
+Level37								= 1
+Level38								= 2
+Level39								= 3
+Level40								= 4
+
+[NORMALGRUNT]
+AttackDowntime						= (DWORD)2000
+TimePerTile							= (DWORD)600
+ToolAA								= 1
+
+[REAPERGRUNT]
+AttackDowntime						= (DWORD)0
+TimePerTile							= (DWORD)800
+
+[HAREKRISHNAGRUNT]
+AttackDowntime						= (DWORD)0
+TimePerTile							= (DWORD)600
+
+[BOMBGRUNT]
+AttackDowntime						= (DWORD)2000
+TimePerTile							= (DWORD)600
+RunningTimePerTile					= (DWORD)200
+ToolAA								= 1
+
+[BOOMERANGGRUNT]
+AttackDowntime						= (DWORD)6000
+TimePerTile							= (DWORD)600
+ToolAA								= 5
+
+[BRICKGRUNT]
+AttackDowntime						= (DWORD)2500
+ItemDowntime						= (DWORD)15000
+TimePerTile							= (DWORD)600
+ToolAA								= 1
+
+[CLUBGRUNT]
+AttackDowntime						= (DWORD)3500
+TimePerTile							= (DWORD)600
+ToolAA								= 1
+
+[GAUNTLETZGRUNT]
+AttackDowntime						= (DWORD)2750
+ItemDowntime						= (DWORD)2750
+TimePerTile							= (DWORD)600
+ToolAA								= 1
+
+[GLOVEZGRUNT]
+AttackDowntime						= (DWORD)2000
+TimePerTile							= (DWORD)600
+ToolAA								= 1
+
+[GOOBERGRUNT]
+AttackDowntime						= (DWORD)2250
+ItemDowntime						= (DWORD)2250
+TimePerTile							= (DWORD)600
+ToolAA								= 1
+
+[GRAVITYBOOTZGRUNT]
+AttackDowntime						= (DWORD)2250
+TimePerTile							= (DWORD)600
+ToolAA								= 1
+
+[GUNHATGRUNT]
+AttackDowntime						= (DWORD)10000
+TimePerTile							= (DWORD)600
+ToolAA								= 6
+
+[NERFGUNGRUNT]
+AttackDowntime						= (DWORD)5000
+TimePerTile							= (DWORD)600
+ToolAA								= 5
+
+[ROCKGRUNT]
+AttackDowntime						= (DWORD)8000
+TimePerTile							= (DWORD)600
+ToolAA								= 4
+
+[SHIELDGRUNT]
+AttackDowntime						= (DWORD)2000
+TimePerTile							= (DWORD)600
+ToolAA								= 1
+
+[SHOVELGRUNT]
+AttackDowntime						= (DWORD)3000
+ItemDowntime						= (DWORD)3000
+TimePerTile							= (DWORD)600
+ToolAA								= 1
+
+[SPRINGGRUNT]
+AttackDowntime						= (DWORD)2750
+TimePerTile							= (DWORD)800
+ToolAA								= 1
+
+[SPYGRUNT]
+AttackDowntime						= (DWORD)2500
+ItemDowntime						= (DWORD)5000
+TimePerTile							= (DWORD)500
+ToolAA								= 1
+
+[SWORDGRUNT]
+AttackDowntime						= (DWORD)4000
+TimePerTile							= (DWORD)600
+ToolAA								= 1
+
+[TIMEBOMBGRUNT]
+AttackDowntime						= (DWORD)8000
+TimePerTile							= (DWORD)600
+ToolAA								= 1
+
+[TOOBGRUNT]
+AttackDowntime						= (DWORD)2250
+TimePerTile							= (DWORD)600
+ToolAA								= 1
+
+[TOOBWATERGRUNT]
+AttackDowntime						= (DWORD)2250
+ToolAA								= 1
+
+[WANDGRUNT]
+AttackDowntime						= (DWORD)2000
+ItemDowntime						= (DWORD)15000
+TimePerTile							= (DWORD)600
+HealthLoss							= 25
+ToolAA								= 1
+
+[WARPSTONEGRUNT]
+AttackDowntime						= (DWORD)2000
+TimePerTile							= (DWORD)800
+ToolAA								= 1
+
+[WELDERGRUNT]
+AttackDowntime						= (DWORD)15000
+TimePerTile							= (DWORD)600
+ToolAA								= 4
+
+[WINGZGRUNT]
+AttackDowntime						= (DWORD)5000
+TimePerTile							= (DWORD)600
+ToolAA								= 4
+
+[BABYWALKERGRUNT]
+ToyTime								= (DWORD)5000
+TimePerTile							= (DWORD)1200
+ToyTiles							= (DWORD)1
+
+[BEACHBALLGRUNT]
+ToyTime								= (DWORD)25000
+
+[BIGWHEELGRUNT]
+ToyTime								= (DWORD)15000
+TimePerTile							= (DWORD)600
+ToyTiles							= (DWORD)3
+
+[GOKARTGRUNT]
+ToyTime								= (DWORD)20000
+TimePerTile							= (DWORD)600
+ToyTiles							= (DWORD)4
+
+[JACKINTHEBOXGRUNT]
+ToyTime								= (DWORD)20000
+
+[JUMPROPEGRUNT]
+ToyTime								= (DWORD)15000
+
+[POGOSTICKGRUNT]
+ToyTime								= (DWORD)10000
+TimePerTile							= (DWORD)600
+ToyTiles							= (DWORD)2
+
+[SCROLLGRUNT]
+ToyTime								= (DWORD)500
+
+[SQUEAKTOYGRUNT]
+ToyTime								= (DWORD)10000
+
+[YOYOGRUNT]
+ToyTime								= (DWORD)5000
+
+[Projectile]
+RockProjectileTimePerTile			= (DWORD)1000
+GunhatProjectileTimePerTile			= (DWORD)1500
+BoomerangProjectileTimePerTile		= (DWORD)200
+NerfGunProjectileTimePerTile		= (DWORD)1500
+WelderProjectileTimePerTile			= (DWORD)1500
+WingzProjectileTimePerTile			= (DWORD)500
+TimeBombSlowTime					= (DWORD)4000
+TimeBombFastTime					= (DWORD)1000
+
+[Hazardz]
+CrumbleTileDelay					= (DWORD)1000
+RollingBallTimePerTile				= (DWORD)1000
+ObjectDropperTimePerTile			= (DWORD)600 // 300
+ObjectDropperDelay					= (DWORD)5000
+DroppedObjectTimePerTile			= (DWORD)200 // 100
+DroppedObjectYOffset				= 160
+SpotLightHazardTime					= (DWORD)3000
+SpotLightHazardStopTime				= (DWORD)3000
+UFOSpotLightHazardStopTime			= (DWORD)500
+KitchenSlimeTimePerTile				= (DWORD)2000
+RainCloudFlashTime					= (DWORD)2000
+AniPad								= 500
+
+[Grunt]
+IdleDelay							= (DWORD)32000
+CombatTimeout						= (DWORD)5000
+KnockBackTimePerTile				= (DWORD)150
+RessurectAIType						= 4 // Defender
+RessurectAIRadius					= 2
+DecayTime							= (DWORD)3000
+SafeFlashTime						= 30
+EntranceSafeTime					= (DWORD)7000
+MovingDeathTime						= (DWORD)1000
+FadeTransparency					= 128
+AccelerateFlash						= 0
+PlayerDefenderRadius				= 2
+
+[Warlordz]
+MoveTime							= (DWORD)5000
+PanicRadius							= 64
+NotifyTimer							= 30000
+NotifyString						= "ALERT - Your Fort is under attack!"
+
+[Powerupz]
+Health1								= 25
+Health2								= 50
+Health3								= 100
+GhostTime							= (DWORD)20000
+InvulnerabilityTime					= (DWORD)20000
+DeathTouchTime						= (DWORD)20000
+ReactiveArmorTime					= (DWORD)20000
+SuperSpeedTime						= (DWORD)20000
+ConversionTime						= (DWORD)500
+RoidzTime							= (DWORD)20000
+GhostTransparencyOn					= 224
+StopwatchMinutes					= 1
+StopwatchSeconds					= 0
+CoveredTimeBombTime					= (DWORD)2000
+
+[Spellz]
+FreezeRadius						= 8
+HealthRadius						= 8
+TeleportRadius						= 8
+ToyzRadius							= 8
+FreezeDelay							= (DWORD)10000
+RollingBallzTime					= (DWORD)5000
+RollingBallzSpeed					= (DWORD)300
+SpellRadius							= 8
+
+[Brickz]
+Brown								= 20
+Red									= 20
+Blue								= 20
+Gold								= 20
+Black								= 20
+
+[Multiplayer]
+StartingGruntz						= 0
+TimePerGoo							= (DWORD)600
+TimePerResource						= (DWORD)15000
+
+ToolzPercent						= 60
+ToyzPercent							= 30
+BrickzPercent						= 10
+
+RedBrick							= 25
+BlueBrick							= 25
+GoldBrick							= 25
+BlackBrick							= 25
+
+BabyWalkerz							= 10
+BeachBallz							= 10
+BigWheelz							= 10
+GoKartz								= 10
+JackInTheBoxz						= 10
+JumpRopez							= 10
+PogoStickz							= 10
+Scrollz								= 10
+SqueakToyz							= 10
+Yoyoz								= 10
+
+Bombz								= 125
+Boomerangz							= 60
+Brickz								= 100
+Clubz								= 100
+Gauntletz							= 200
+Glovez								= 100
+Gooberz								= 200
+GravityBootz						= 100
+GunHatz								= 60
+NerfGunz							= 75
+Rockz								= 60
+Shieldz								= 100
+Shovelz								= 200
+Springz								= 100
+Spyz								= 100
+Swordz								= 75
+TimeBombz							= 100
+Toobz								= 100
+Wandz								= 60
+Welderz								= 60
+Wingz								= 60
+
+[Battlez]
+StartingGruntz						= 0
+GruntRatio							= (DWORD)25
+DefenderChance						= (DWORD)25
+DefaultMaxGruntz					= (DWORD)8
+MaxGruntz							= (DWORD)15
+GruntCreationTime					= (DWORD)15000
+ResourceCreationTime				= (DWORD)1750
+
+EasyDifficulty						= 100
+MediumDifficulty					= 66
+HardDifficulty						= 33
+
+ToolzPercent						= 65
+ToyzPercent							= 25
+BrickzPercent						= 10
+
+RedBrick							= 25
+BlueBrick							= 25
+GoldBrick							= 25
+BlackBrick							= 25
+
+BabyWalkerz							= 10
+BeachBallz							= 10
+BigWheelz							= 10
+GoKartz								= 10
+JackInTheBoxz						= 10
+JumpRopez							= 10
+PogoStickz							= 10
+Scrollz								= 10
+SqueakToyz							= 10
+Yoyoz								= 10
+
+Bombz								= 100
+Boomerangz							= 100
+Brickz								= 100
+Clubz								= 100
+Gauntletz							= 100
+Glovez								= 100
+Gooberz								= 100
+GravityBootz						= 100
+GunHatz								= 100
+NerfGunz							= 100
+Rockz								= 100
+Shieldz								= 100
+Shovelz								= 100
+Springz								= 100
+Spyz								= 100
+Swordz								= 100
+TimeBombz							= 100
+Toobz								= 100
+Wandz								= 100
+Welderz								= 100
+Wingz								= 100
+
+[Wormhole]
+SecretColor							= 1
+SingleUseColor						= 6
+NormalColor							= 2
+EntranceColor						= 6
+//LMCT_LIGHT		0
+//LMCT_RED			1
+//LMCT_GREEN		2
+//LMCT_BLUE			3
+//LMCT_YELLOW		4
+//LMCT_BLACK		5
+//LMCT_LTBLUE		6
+
+//GRUNT DIALOGUE
+
+[GruntPriority]
+G1									= 30 // attack
+G2									= 30 // attackidle
+G3									= 190 // death
+G4									= 40 // idle1
+G5									= 40 // idle2
+G6									= 40 // idle3
+G7									= 30 // struck
+G8									= 90 // item
+G9									= 140 // walk
+G10									= 60 // toy1
+G11									= 60 // toy2
+G12									= 70 // toybreak
+G13									= 60 // toywalk
+G14									= 195 // loseitem
+
+[GruntPercent]
+G1									= 10 // attack
+G2									= 100 // attackidle
+G3									= 100 // death
+G4									= 100 // idle1
+G5									= 100 // idle2
+G6									= 100 // idle3
+G7									= 10 // struck
+G8									= 50 // item
+G9									= 100 // walk
+G10									= 50 // toy1
+G11									= 50 // toy2
+G12									= 100 // toybreak
+G13									= 100 // toywalk
+G14									= 100 // loseitem
+
+//BABYWALKERGRUNT
+
+[SG12]  // BABYWALKERGRUNT_TOYBREAK
+DIR="GRUNTZ_BABYWALKERGRUNT"
+S1="BreakA"
+S2="BreakB"
+S3="BreakC"
+S4="BreakD"
+S5="BreakE"
+S6="BreakF"
+S7="BreakV1"
+S8="BreakV2"
+S9="BreakV3"
+S10="BreakV4"
+S11="BreakV5"
+S12="BreakV6"
+S13="BreakV7"
+S14="BreakV8"
+S15="BreakV9"
+S16="BreakV10"
+
+[SG13]  // BABYWALKERGRUNT_TOYWALK
+DIR="GRUNTZ_BABYWALKERGRUNT"
+S1="ToyB"
+S2="ToyC"
+S3="ToyD"
+S4="ToyE"
+S5="ToyG"
+S6="ToyV1"
+S7="ToyV2"
+S8="ToyV3"
+S9="ToyV4"
+S10="ToyV5"
+S11="ToyV6"
+S12="ToyV7"
+S13="ToyV8"
+S14="ToyV9"
+S15="ToyV10"
+
+//BEACHBALLGRUNT
+
+[SG30]  // BEACHBALLGRUNT_TOY1
+DIR="GRUNTZ_BEACHBALLGRUNT"
+S1="Toy1A"
+S2="Toy1B"
+S3="Toy1C"
+S4="Toy1D"
+S5="Toy1E"
+S6="Toy1F"
+S7="Toy1G"
+S8="Toy1V1"
+S9="Toy1V2"
+S10="Toy1V3"
+S11="Toy1V4"
+S12="Toy1V5"
+S13="Toy1V6"
+S14="Toy1V7"
+S15="Toy1V8"
+S16="Toy1V9"
+S17="Toy1V10"
+
+[SG31]  // BEACHBALLGRUNT_TOY2
+DIR="GRUNTZ_BEACHBALLGRUNT"
+S1="Toy2A"
+S2="Toy2B"
+S3="Toy2D"
+S4="Toy2E"
+S5="Toy2F"
+S6="Toy2V1"
+S7="Toy2V2"
+S8="Toy2V3"
+S9="Toy2V4"
+S10="Toy2V5"
+S11="Toy2V6"
+S12="Toy2V7"
+S13="Toy2V8"
+S14="Toy2V9"
+S15="Toy2V10"
+
+[SG32]  // BEACHBALLGRUNT_TOYBREAK
+DIR="GRUNTZ_BEACHBALLGRUNT"
+S1="BreakB"
+S2="BreakC"
+S3="BreakD"
+S4="BreakE"
+S5="BreakF"
+S6="BreakV1"
+S7="BreakV2"
+S8="BreakV3"
+S9="BreakV4"
+S10="BreakV5"
+S11="BreakV6"
+S12="BreakV7"
+S13="BreakV8"
+S14="BreakV9"
+S15="BreakV10"
+
+//BIGWHEELGRUNT
+
+[SG52]  // BIGWHEELGRUNT_TOYBREAK
+DIR="GRUNTZ_BIGWHEELGRUNT"
+S1="BreakC"
+S2="BreakD"
+S3="BreakE"
+S4="BreakV1"
+S5="BreakV2"
+S6="BreakV3"
+S7="BreakV4"
+S8="BreakV5"
+S9="BreakV6"
+S10="BreakV7"
+S11="BreakV8"
+S12="BreakV9"
+S13="BreakV10"
+
+[SG53]  // BIGWHEELGRUNT_TOYWALK
+DIR="GRUNTZ_BIGWHEELGRUNT"
+S1="ToyA"
+S2="ToyB"
+S3="ToyC"
+S4="ToyD"
+S5="ToyE"
+S6="ToyF"
+S7="ToyG"
+S8="ToyH"
+S9="ToyV1"
+S10="ToyV2"
+S11="ToyV3"
+S12="ToyV4"
+S13="ToyV5"
+S14="ToyV6"
+S15="ToyV7"
+S16="ToyV8"
+S17="ToyV9"
+S18="ToyV10"
+
+//BOMBGRUNT
+
+[SG63]  // BOMBGRUNT_DEATH
+DIR="DEATHZ"
+S1="ExplodeA"
+S2="ExplodeB"
+S3="ExplodeC"
+S4="ExplodeD"
+S5="ExplodeE"
+S6="ExplodeF"
+S7="ExplodeV1"
+S8="ExplodeV2"
+S9="ExplodeV3"
+S10="ExplodeV4"
+S11="ExplodeV5"
+S12="ExplodeV6"
+S13="ExplodeV7"
+S14="ExplodeV8"
+S15="ExplodeV9"
+S16="ExplodeV10"
+
+[SG64]  // BOMBGRUNT_IDLE1
+DIR="GRUNTZ_NORMALGRUNT"
+S1="Idle1A"
+S2="Idle1B"
+S3="Idle1C"
+S4="Idle1D"
+S5="Idle1E"
+S6="Idle1F"
+S7="Idle1G"
+S8="Idle1H"
+S9="Idle1I"
+S10="Idle1J"
+S11="Idle1V1"
+S12="Idle1V2"
+S13="Idle1V3"
+S14="Idle1V4"
+S15="Idle1V5"
+S16="Idle1V6"
+S17="Idle1V7"
+S18="Idle1V8"
+S19="Idle1V9"
+S20="Idle1V10"
+
+[SG65]  // BOMBGRUNT_IDLE2
+DIR="GRUNTZ_BOMBGRUNT"
+S1="Idle2A"
+S2="Idle2B"
+S3="Idle2C"
+S4="Idle2D"
+S5="Idle2V1"
+S6="Idle2V2"
+S7="Idle2V3"
+S8="Idle2V4"
+S9="Idle2V5"
+S10="Idle2V6"
+S11="Idle2V7"
+S12="Idle2V8"
+S13="Idle2V9"
+S14="Idle2V10"
+
+[SG66]  // BOMBGRUNT_IDLE3
+DIR="GRUNTZ_BOMBGRUNT"
+S1="Idle3A"
+S2="Idle3B"
+S3="Idle3C"
+S4="Idle3D"
+S5="Idle3V1"
+S6="Idle3V2"
+S7="Idle3V3"
+S8="Idle3V4"
+S9="Idle3V5"
+S10="Idle3V6"
+S11="Idle3V7"
+S12="Idle3V8"
+S13="Idle3V9"
+S14="Idle3V10"
+
+[SG68]  // BOMBGRUNT_ITEM
+DIR="GRUNTZ_BOMBGRUNT"
+Per=100
+Pri=185
+S1="ItemA"
+S2="ItemB"
+S3="ItemC"
+S4="ItemD"
+S5="ItemE"
+S6="ItemF"
+S7="ItemG"
+S8="ItemH"
+S9="ItemI"
+S10="ItemV1"
+S11="ItemV2"
+S12="ItemV3"
+S13="ItemV4"
+S14="ItemV5"
+S15="ItemV6"
+S16="ItemV7"
+S17="ItemV8"
+S18="ItemV9"
+S19="ItemV10"
+
+[SG69]  // BOMBGRUNT_WALK
+DIR="GRUNTZ_BOMBGRUNT"
+S1="WalkA"
+S2="WalkC"
+S3="WalkV1"
+S4="WalkV2"
+S5="WalkV3"
+S6="WalkV4"
+S7="WalkV5"
+S8="WalkV6"
+S9="WalkV7"
+S10="WalkV8"
+S11="WalkV9"
+S12="WalkV10"
+
+//BOOMERANGGRUNT
+
+[SG81]  // BOOMERANGGRUNT_ATTACK
+DIR="GRUNTZ_BOOMERANGGRUNT"
+S1="AttackA"
+S2="AttackB"
+S3="AttackD"
+S4="AttackE"
+S5="AttackF"
+S6="AttackV1"
+S7="AttackV2"
+S8="AttackV3"
+S9="AttackV4"
+S10="AttackV5"
+S11="AttackV6"
+S12="AttackV7"
+S13="AttackV8"
+S14="AttackV9"
+S15="AttackV10"
+
+[SG83]  // BOOMERANGGRUNT_DEATH
+DIR="GRUNTZ_NORMALGRUNT"
+S1="DeathA"
+S2="DeathB"
+S3="DeathC"
+S4="DeathD"
+S5="DeathE"
+S6="DeathF"
+S7="DeathG"
+S8="DeathH"
+S9="DeathI"
+S10="DeathJ"
+S11="DeathK"
+S12="DeathL"
+S13="DeathM"
+S14="DeathN"
+S15="DeathO"
+S16="DeathP"
+S17="DeathQ"
+S18="DeathR"
+S19="DeathS"
+S21="DeathU"
+S22="DeathV"
+S23="DeathW"
+S24="DeathX"
+S25="DeathY"
+S26="DeathZ"
+S27="DeathZ1"
+S28="DeathZ2"
+S29="SoundDeathA"
+S30="SoundDeathB"
+S31="SoundDeathC"
+S32="SoundDeathD"
+S33="SoundDeathE"
+S34="SoundDeathF"
+S35="SoundDeathG"
+S36="SoundDeathH"
+S37="SoundDeathI"
+S38="SoundDeathJ"
+S39="SoundDeathK"
+S40="SoundDeathL"
+S41="SoundDeathM"
+S42="SoundDeathN"
+S43="SoundDeathO"
+S44="SoundDeathP"
+S45="DeathV1"
+S46="DeathV2"
+S47="DeathV3"
+S48="DeathV4"
+S49="DeathV5"
+S50="DeathV6"
+S51="DeathV7"
+S52="DeathV8"
+S53="DeathV9"
+S54="DeathV10"
+
+[SG84]  // BOOMERANGGRUNT_IDLE1
+DIR="GRUNTZ_NORMALGRUNT"
+S1="Idle1A"
+S2="Idle1B"
+S3="Idle1C"
+S4="Idle1D"
+S5="Idle1E"
+S6="Idle1F"
+S7="Idle1G"
+S8="Idle1H"
+S9="Idle1I"
+S10="Idle1J"
+S11="Idle1V1"
+S12="Idle1V2"
+S13="Idle1V3"
+S14="Idle1V4"
+S15="Idle1V5"
+S16="Idle1V6"
+S17="Idle1V7"
+S18="Idle1V8"
+S19="Idle1V9"
+S20="Idle1V10"
+
+[SG85]  // BOOMERANGGRUNT_IDLE2
+DIR="GRUNTZ_BOOMERANGGRUNT"
+S1="Idle2A"
+S2="Idle2B"
+S3="Idle2C"
+S4="Idle2D"
+S5="Idle2E"
+S6="Idle2F"
+S7="Idle2V1"
+S8="Idle2V2"
+S9="Idle2V3"
+S10="Idle2V4"
+S11="Idle2V5"
+S12="Idle2V6"
+S13="Idle2V7"
+S14="Idle2V8"
+S15="Idle2V9"
+S16="Idle2V10"
+
+[SG86]  // BOOMERANGGRUNT_STRUCK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="StruckA"
+S2="StruckA1"
+S3="StruckA2"
+S4="StruckA3"
+S5="StruckB"
+S6="StruckB1"
+S7="StruckB2"
+S8="StruckB3"
+S9="StruckC"
+S10="StruckC1"
+S11="StruckC2"
+S12="StruckC3"
+S13="StruckD"
+S14="StruckD1"
+S15="StruckD2"
+S16="StruckD3"
+S17="StruckE"
+S18="StruckE1"
+S19="StruckE2"
+S20="StruckE3"
+S21="StruckF"
+S22="StruckF1"
+S23="StruckF2"
+S24="StruckG"
+S25="StruckG1"
+S26="StruckG2"
+S27="StruckH"
+S28="StruckH1"
+S29="StruckH2"
+S30="StruckJ"
+S31="StruckJ1"
+S32="StruckJ2"
+S33="StruckK"
+S34="StruckL"
+S35="StruckM"
+S36="StruckN"
+S37="StruckO"
+S38="StruckP"
+S39="StruckQ"
+S40="StruckR"
+S41="StruckS"
+S42="StruckT"
+S43="StruckU"
+S44="StruckV"
+S45="StruckW"
+S46="StruckX"
+S47="StruckY"
+S48="StruckZ"
+S49="StruckZA"
+S50="StruckZC"
+S51="StruckZD"
+S52="StruckZE"
+S53="StruckV1"
+S54="StruckV2"
+S55="StruckV3"
+S56="StruckV4"
+S57="StruckV5"
+S58="StruckV6"
+S59="StruckV7"
+S60="StruckV8"
+S61="StruckV9"
+S62="StruckV10"
+
+[SG89]  // BOOMERANGGRUNT_WALK
+DIR="GRUNTZ_BOOMERANGGRUNT"
+S1="WalkA"
+S2="WalkB"
+S3="WalkV1"
+S4="WalkV2"
+S5="WalkV3"
+S6="WalkV4"
+S7="WalkV5"
+S8="WalkV6"
+S9="WalkV7"
+S10="WalkV8"
+S11="WalkV9"
+S12="WalkV10"
+
+//BRICKGRUNT
+
+[SG101]  // BRICKGRUNT_ATTACK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="AttackA"
+S2="AttackC"
+S3="AttackD"
+S4="AttackE"
+S5="AttackF"
+S6="AttackG"
+S7="AttackH"
+S8="AttackJ"
+S9="AttackL"
+S10="AttackM"
+S11="AttackN"
+S12="AttackO"
+S13="AttackP"
+S14="AttackQ"
+S15="AttackR"
+S16="AttackS"
+S17="AttackT"
+S18="AttackU"
+S19="AttackV"
+S20="AttackW"
+S21="AttackV1"
+S22="AttackV2"
+S23="AttackV3"
+S24="AttackV4"
+S25="AttackV5"
+S26="AttackV6"
+S27="AttackV7"
+S28="AttackV8"
+S29="AttackV9"
+S30="AttackV10"
+
+[SG103]  // BRICKGRUNT_DEATH
+DIR="GRUNTZ_NORMALGRUNT"
+S1="DeathA"
+S2="DeathB"
+S3="DeathC"
+S4="DeathD"
+S5="DeathE"
+S6="DeathF"
+S7="DeathG"
+S8="DeathH"
+S9="DeathI"
+S10="DeathJ"
+S11="DeathK"
+S12="DeathL"
+S13="DeathM"
+S14="DeathN"
+S15="DeathO"
+S16="DeathP"
+S17="DeathQ"
+S18="DeathR"
+S19="DeathS"
+S21="DeathU"
+S22="DeathV"
+S23="DeathW"
+S24="DeathX"
+S25="DeathY"
+S26="DeathZ"
+S27="DeathZ1"
+S28="DeathZ2"
+S29="SoundDeathA"
+S30="SoundDeathB"
+S31="SoundDeathC"
+S32="SoundDeathD"
+S33="SoundDeathE"
+S34="SoundDeathF"
+S35="SoundDeathG"
+S36="SoundDeathH"
+S37="SoundDeathI"
+S38="SoundDeathJ"
+S39="SoundDeathK"
+S40="SoundDeathL"
+S41="SoundDeathM"
+S42="SoundDeathN"
+S43="SoundDeathO"
+S44="SoundDeathP"
+S45="DeathV1"
+S46="DeathV2"
+S47="DeathV3"
+S48="DeathV4"
+S49="DeathV5"
+S50="DeathV6"
+S51="DeathV7"
+S52="DeathV8"
+S53="DeathV9"
+S54="DeathV10"
+
+[SG104]  // BRICKGRUNT_IDLE1
+DIR="GRUNTZ_NORMALGRUNT"
+S1="Idle1A"
+S2="Idle1B"
+S3="Idle1C"
+S4="Idle1D"
+S5="Idle1E"
+S6="Idle1F"
+S7="Idle1G"
+S8="Idle1H"
+S9="Idle1I"
+S10="Idle1J"
+S11="Idle1V1"
+S12="Idle1V2"
+S13="Idle1V3"
+S14="Idle1V4"
+S15="Idle1V5"
+S16="Idle1V6"
+S17="Idle1V7"
+S18="Idle1V8"
+S19="Idle1V9"
+S20="Idle1V10"
+
+[SG105]  // BRICKGRUNT_IDLE2
+DIR="GRUNTZ_BRICKGRUNT"
+S1="Idle2A"
+S2="Idle2B"
+S3="Idle2C"
+S4="Idle2D"
+S5="Idle2E"
+S6="Idle2F"
+S7="Idle2V1"
+S8="Idle2V2"
+S9="Idle2V3"
+S10="Idle2V4"
+S11="Idle2V5"
+S12="Idle2V6"
+S13="Idle2V7"
+S14="Idle2V8"
+S15="Idle2V9"
+S16="Idle2V10"
+
+[SG106]  // BRICKGRUNT_IDLE3
+DIR="GRUNTZ_BRICKGRUNT"
+S1="Idle3A"
+S2="Idle3B"
+S3="Idle3C"
+S4="Idle3D"
+S5="Idle3E"
+S6="Idle3F"
+S7="Idle3F2"
+S8="Idle3G"
+S9="Idle3V1"
+S10="Idle3V2"
+S11="Idle3V3"
+S12="Idle3V4"
+S13="Idle3V5"
+S14="Idle3V6"
+S15="Idle3V7"
+S16="Idle3V8"
+S17="Idle3V9"
+S18="Idle3V10"
+
+[SG107]  // BRICKGRUNT_STRUCK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="StruckA"
+S2="StruckA1"
+S3="StruckA2"
+S4="StruckA3"
+S5="StruckB"
+S6="StruckB1"
+S7="StruckB2"
+S8="StruckB3"
+S9="StruckC"
+S10="StruckC1"
+S11="StruckC2"
+S12="StruckC3"
+S13="StruckD"
+S14="StruckD1"
+S15="StruckD2"
+S16="StruckD3"
+S17="StruckE"
+S18="StruckE1"
+S19="StruckE2"
+S20="StruckE3"
+S21="StruckF"
+S22="StruckF1"
+S23="StruckF2"
+S24="StruckG"
+S25="StruckG1"
+S26="StruckG2"
+S27="StruckH"
+S28="StruckH1"
+S29="StruckH2"
+S30="StruckJ"
+S31="StruckJ1"
+S32="StruckJ2"
+S33="StruckK"
+S34="StruckL"
+S35="StruckM"
+S36="StruckN"
+S37="StruckO"
+S38="StruckP"
+S39="StruckQ"
+S40="StruckR"
+S41="StruckS"
+S42="StruckT"
+S43="StruckU"
+S44="StruckV"
+S45="StruckW"
+S46="StruckX"
+S47="StruckY"
+S48="StruckZ"
+S49="StruckZA"
+S50="StruckZC"
+S51="StruckZD"
+S52="StruckZE"
+S53="StruckV1"
+S54="StruckV2"
+S55="StruckV3"
+S56="StruckV4"
+S57="StruckV5"
+S58="StruckV6"
+S59="StruckV7"
+S60="StruckV8"
+S61="StruckV9"
+S62="StruckV10"
+
+[SG108]  // BRICKGRUNT_ITEM
+DIR="GRUNTZ_BRICKGRUNT"
+S1="ItemA"
+S2="ItemB"
+S3="ItemC"
+S4="ItemD"
+S5="ItemE"
+S6="ItemF"
+S7="ItemG"
+S8="ItemH"
+S9="ItemI"
+S10="ItemJ"
+S11="ItemK"
+S12="ItemL"
+S13="ItemM"
+S14="ItemN"
+S15="ItemO"
+S16="ItemP"
+S17="ItemQ"
+S18="ItemR"
+S19="ItemV1"
+S20="ItemV2"
+S21="ItemV3"
+S22="ItemV4"
+S23="ItemV5"
+S24="ItemV6"
+S25="ItemV7"
+S26="ItemV8"
+S27="ItemV9"
+S28="ItemV10"
+
+[SG109]  // BRICKGRUNT_WALK
+DIR="GRUNTZ_BRICKGRUNT"
+S1="WalkA"
+S2="WalkB"
+S3="WalkV1"
+S4="WalkV2"
+S5="WalkV3"
+S6="WalkV4"
+S7="WalkV5"
+S8="WalkV6"
+S9="WalkV7"
+S10="WalkV8"
+S11="WalkV9"
+S12="WalkV10"
+
+//CLUBGRUNT
+
+[SG121]  // CLUBGRUNT_ATTACK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="AttackA"
+S2="AttackC"
+S3="AttackD"
+S4="AttackE"
+S5="AttackF"
+S6="AttackG"
+S7="AttackH"
+S8="AttackJ"
+S9="AttackL"
+S10="AttackM"
+S11="AttackN"
+S12="AttackO"
+S13="AttackP"
+S14="AttackQ"
+S15="AttackR"
+S16="AttackS"
+S17="AttackT"
+S18="AttackU"
+S19="AttackV"
+S20="AttackW"
+S21="AttackV1"
+S22="AttackV2"
+S23="AttackV3"
+S24="AttackV4"
+S25="AttackV5"
+S26="AttackV6"
+S27="AttackV7"
+S28="AttackV8"
+S29="AttackV9"
+S30="AttackV10"
+
+[SG123]  // CLUBGRUNT_DEATH
+DIR="GRUNTZ_NORMALGRUNT"
+S1="DeathA"
+S2="DeathB"
+S3="DeathC"
+S4="DeathD"
+S5="DeathE"
+S6="DeathF"
+S7="DeathG"
+S8="DeathH"
+S9="DeathI"
+S10="DeathJ"
+S11="DeathK"
+S12="DeathL"
+S13="DeathM"
+S14="DeathN"
+S15="DeathO"
+S16="DeathP"
+S17="DeathQ"
+S18="DeathR"
+S19="DeathS"
+S21="DeathU"
+S22="DeathV"
+S23="DeathW"
+S24="DeathX"
+S25="DeathY"
+S26="DeathZ"
+S27="DeathZ1"
+S28="DeathZ2"
+S29="SoundDeathA"
+S30="SoundDeathB"
+S31="SoundDeathC"
+S32="SoundDeathD"
+S33="SoundDeathE"
+S34="SoundDeathF"
+S35="SoundDeathG"
+S36="SoundDeathH"
+S37="SoundDeathI"
+S38="SoundDeathJ"
+S39="SoundDeathK"
+S40="SoundDeathL"
+S41="SoundDeathM"
+S42="SoundDeathN"
+S43="SoundDeathO"
+S44="SoundDeathP"
+S45="DeathV1"
+S46="DeathV2"
+S47="DeathV3"
+S48="DeathV4"
+S49="DeathV5"
+S50="DeathV6"
+S51="DeathV7"
+S52="DeathV8"
+S53="DeathV9"
+S54="DeathV10"
+
+[SG124]  // CLUBGRUNT_IDLE1
+DIR="GRUNTZ_NORMALGRUNT"
+S1="Idle1A"
+S2="Idle1B"
+S3="Idle1C"
+S4="Idle1D"
+S5="Idle1E"
+S6="Idle1F"
+S7="Idle1G"
+S8="Idle1H"
+S9="Idle1I"
+S10="Idle1J"
+S11="Idle1V1"
+S12="Idle1V2"
+S13="Idle1V3"
+S14="Idle1V4"
+S15="Idle1V5"
+S16="Idle1V6"
+S17="Idle1V7"
+S18="Idle1V8"
+S19="Idle1V9"
+S20="Idle1V10"
+
+[SG125]  // CLUBGRUNT_IDLE2
+DIR="GRUNTZ_CLUBGRUNT"
+S1="Idle2A"
+S2="Idle2B"
+S3="Idle2B2"
+S4="Idle2C"
+S5="Idle2D"
+S6="Idle2F"
+S7="Idle2V1"
+S8="Idle2V2"
+S9="Idle2V3"
+S10="Idle2V4"
+S11="Idle2V5"
+S12="Idle2V6"
+S13="Idle2V7"
+S14="Idle2V8"
+S15="Idle2V9"
+S16="Idle2V10"
+
+[SG126]  // CLUBGRUNT_IDLE3
+DIR="GRUNTZ_CLUBGRUNT"
+S1="Idle3A"
+S2="Idle3B"
+S3="Idle3C"
+S4="Idle3D"
+S5="Idle3E"
+S6="Idle3F"
+S7="Idle3V1"
+S8="Idle3V2"
+S9="Idle3V3"
+S10="Idle3V4"
+S11="Idle3V5"
+S12="Idle3V6"
+S13="Idle3V7"
+S14="Idle3V8"
+S15="Idle3V9"
+S16="Idle3V10"
+
+[SG127]  // CLUBGRUNT_STRUCK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="StruckA"
+S2="StruckA1"
+S3="StruckA2"
+S4="StruckA3"
+S5="StruckB"
+S6="StruckB1"
+S7="StruckB2"
+S8="StruckB3"
+S9="StruckC"
+S10="StruckC1"
+S11="StruckC2"
+S12="StruckC3"
+S13="StruckD"
+S14="StruckD1"
+S15="StruckD2"
+S16="StruckD3"
+S17="StruckE"
+S18="StruckE1"
+S19="StruckE2"
+S20="StruckE3"
+S21="StruckF"
+S22="StruckF1"
+S23="StruckF2"
+S24="StruckG"
+S25="StruckG1"
+S26="StruckG2"
+S27="StruckH"
+S28="StruckH1"
+S29="StruckH2"
+S30="StruckJ"
+S31="StruckJ1"
+S32="StruckJ2"
+S33="StruckK"
+S34="StruckL"
+S35="StruckM"
+S36="StruckN"
+S37="StruckO"
+S38="StruckP"
+S39="StruckQ"
+S40="StruckR"
+S41="StruckS"
+S42="StruckT"
+S43="StruckU"
+S44="StruckV"
+S45="StruckW"
+S46="StruckX"
+S47="StruckY"
+S48="StruckZ"
+S49="StruckZA"
+S50="StruckZC"
+S51="StruckZD"
+S52="StruckZE"
+S53="StruckV1"
+S54="StruckV2"
+S55="StruckV3"
+S56="StruckV4"
+S57="StruckV5"
+S58="StruckV6"
+S59="StruckV7"
+S60="StruckV8"
+S61="StruckV9"
+S62="StruckV10"
+
+[SG129]  // CLUBGRUNT_WALK
+DIR="GRUNTZ_CLUBGRUNT"
+S1="WalkA"
+S2="WalkB"
+S3="WalkV1"
+S4="WalkV2"
+S5="WalkV3"
+S6="WalkV4"
+S7="WalkV5"
+S8="WalkV6"
+S9="WalkV7"
+S10="WalkV8"
+S11="WalkV9"
+S12="WalkV10"
+
+//GAUNTLETZGRUNT
+
+[SG141]  // GAUNTLETZGRUNT_ATTACK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="AttackA"
+S2="AttackC"
+S3="AttackD"
+S4="AttackE"
+S5="AttackF"
+S6="AttackG"
+S7="AttackH"
+S8="AttackJ"
+S9="AttackL"
+S10="AttackM"
+S11="AttackN"
+S12="AttackO"
+S13="AttackP"
+S14="AttackQ"
+S15="AttackR"
+S16="AttackS"
+S17="AttackT"
+S18="AttackU"
+S19="AttackV"
+S20="AttackW"
+S21="AttackV1"
+S22="AttackV2"
+S23="AttackV3"
+S24="AttackV4"
+S25="AttackV5"
+S26="AttackV6"
+S27="AttackV7"
+S28="AttackV8"
+S29="AttackV9"
+S30="AttackV10"
+
+[SG143]  // GAUNTLETZGRUNT_DEATH
+DIR="GRUNTZ_NORMALGRUNT"
+S1="DeathA"
+S2="DeathB"
+S3="DeathC"
+S4="DeathD"
+S5="DeathE"
+S6="DeathF"
+S7="DeathG"
+S8="DeathH"
+S9="DeathI"
+S10="DeathJ"
+S11="DeathK"
+S12="DeathL"
+S13="DeathM"
+S14="DeathN"
+S15="DeathO"
+S16="DeathP"
+S17="DeathQ"
+S18="DeathR"
+S19="DeathS"
+S21="DeathU"
+S22="DeathV"
+S23="DeathW"
+S24="DeathX"
+S25="DeathY"
+S26="DeathZ"
+S27="DeathZ1"
+S28="DeathZ2"
+S29="SoundDeathA"
+S30="SoundDeathB"
+S31="SoundDeathC"
+S32="SoundDeathD"
+S33="SoundDeathE"
+S34="SoundDeathF"
+S35="SoundDeathG"
+S36="SoundDeathH"
+S37="SoundDeathI"
+S38="SoundDeathJ"
+S39="SoundDeathK"
+S40="SoundDeathL"
+S41="SoundDeathM"
+S42="SoundDeathN"
+S43="SoundDeathO"
+S44="SoundDeathP"
+S45="DeathV1"
+S46="DeathV2"
+S47="DeathV3"
+S48="DeathV4"
+S49="DeathV5"
+S50="DeathV6"
+S51="DeathV7"
+S52="DeathV8"
+S53="DeathV9"
+S54="DeathV10"
+
+[SG144]  // GAUNTLETZGRUNT_IDLE1
+DIR="GRUNTZ_NORMALGRUNT"
+S1="Idle1A"
+S2="Idle1B"
+S3="Idle1C"
+S4="Idle1D"
+S5="Idle1E"
+S6="Idle1F"
+S7="Idle1G"
+S8="Idle1H"
+S9="Idle1I"
+S10="Idle1J"
+S11="Idle1V1"
+S12="Idle1V2"
+S13="Idle1V3"
+S14="Idle1V4"
+S15="Idle1V5"
+S16="Idle1V6"
+S17="Idle1V7"
+S18="Idle1V8"
+S19="Idle1V9"
+S20="Idle1V10"
+
+[SG145]  // GAUNTLETZGRUNT_IDLE2
+DIR="GRUNTZ_GAUNTLETZGRUNT"
+S1="Idle2B"
+S2="Idle2C"
+S3="Idle2D"
+S4="Idle2V1"
+S5="Idle2V2"
+S6="Idle2V3"
+S7="Idle2V4"
+S8="Idle2V5"
+S9="Idle2V6"
+S10="Idle2V7"
+S11="Idle2V8"
+S12="Idle2V9"
+S13="Idle2V10"
+
+[SG146]  // GAUNTLETZGRUNT_IDLE3
+DIR="GRUNTZ_GAUNTLETZGRUNT"
+S1="Idle3A"
+S2="Idle3B"
+S3="Idle3C"
+S4="Idle3D"
+S5="Idle3E"
+S6="Idle3F"
+S7="Idle3V1"
+S8="Idle3V2"
+S9="Idle3V3"
+S10="Idle3V4"
+S11="Idle3V5"
+S12="Idle3V6"
+S13="Idle3V7"
+S14="Idle3V8"
+S15="Idle3V9"
+S16="Idle3V10"
+
+[SG147]  // GAUNTLETZGRUNT_STRUCK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="StruckA"
+S2="StruckA1"
+S3="StruckA2"
+S4="StruckA3"
+S5="StruckB"
+S6="StruckB1"
+S7="StruckB2"
+S8="StruckB3"
+S9="StruckC"
+S10="StruckC1"
+S11="StruckC2"
+S12="StruckC3"
+S13="StruckD"
+S14="StruckD1"
+S15="StruckD2"
+S16="StruckD3"
+S17="StruckE"
+S18="StruckE1"
+S19="StruckE2"
+S20="StruckE3"
+S21="StruckF"
+S22="StruckF1"
+S23="StruckF2"
+S24="StruckG"
+S25="StruckG1"
+S26="StruckG2"
+S27="StruckH"
+S28="StruckH1"
+S29="StruckH2"
+S30="StruckJ"
+S31="StruckJ1"
+S32="StruckJ2"
+S33="StruckK"
+S34="StruckL"
+S35="StruckM"
+S36="StruckN"
+S37="StruckO"
+S38="StruckP"
+S39="StruckQ"
+S40="StruckR"
+S41="StruckS"
+S42="StruckT"
+S43="StruckU"
+S44="StruckV"
+S45="StruckW"
+S46="StruckX"
+S47="StruckY"
+S48="StruckZ"
+S49="StruckZA"
+S50="StruckZC"
+S51="StruckZD"
+S52="StruckZE"
+S53="StruckV1"
+S54="StruckV2"
+S55="StruckV3"
+S56="StruckV4"
+S57="StruckV5"
+S58="StruckV6"
+S59="StruckV7"
+S60="StruckV8"
+S61="StruckV9"
+S62="StruckV10"
+
+[SG148]  // GAUNTLETZGRUNT_ITEM
+DIR="GRUNTZ_GAUNTLETZGRUNT"
+S1="ItemA"
+S2="ItemB"
+S3="ItemC"
+S4="ItemD"
+S5="ItemE"
+S6="ItemF"
+S7="ItemG"
+S8="ItemH"
+S9="ItemI"
+S10="ItemJ"
+S11="ItemK"
+S12="ItemL"
+S13="ItemM"
+S14="ItemN"
+S15="ItemO"
+S16="ItemP"
+S17="ItemV1"
+S18="ItemV2"
+S19="ItemV3"
+S20="ItemV4"
+S21="ItemV5"
+S22="ItemV6"
+S23="ItemV7"
+S24="ItemV8"
+S25="ItemV9"
+S26="ItemV10"
+
+[SG149]  // GAUNTLETZGRUNT_WALK
+DIR="GRUNTZ_GAUNTLETZGRUNT"
+S1="WalkA"
+S2="WalkB"
+S3="WalkV1"
+S4="WalkV2"
+S5="WalkV3"
+S6="WalkV4"
+S7="WalkV5"
+S8="WalkV6"
+S9="WalkV7"
+S10="WalkV8"
+S11="WalkV9"
+S12="WalkV10"
+
+//GLOVEZGRUNT
+
+[SG161]  // GLOVEZGRUNT_ATTACK
+DIR="GRUNTZ_GLOVEZGRUNT"
+Pri=100
+S1="AttackA"
+S2="AttackB"
+S3="AttackC"
+S4="AttackD"
+S5="AttackE"
+S6="AttackF"
+S7="AttackG"
+S8="AttackH"
+S9="AttackI"
+S10="AttackJ"
+S11="AttackK"
+S12="AttackL"
+S13="AttackV1"
+S14="AttackV2"
+S15="AttackV3"
+S16="AttackV4"
+S17="AttackV5"
+S18="AttackV6"
+S19="AttackV7"
+S20="AttackV8"
+S21="AttackV9"
+S22="AttackV10"
+
+[SG162]  // GLOVEZGRUNT_ATTACKIDLE
+DIR="GRUNTZ_GLOVEZGRUNT"
+S1="AttackIdleA"
+S2="AttackIdleB"
+S3="AttackIdleC"
+S4="AttackIdleD"
+S5="AttackIdleE"
+S6="AttackIdleF"
+S7="AttackIdleV1"
+S8="AttackIdleV2"
+S9="AttackIdleV3"
+S10="AttackIdleV4"
+S11="AttackIdleV5"
+S12="AttackIdleV6"
+S13="AttackIdleV7"
+S14="AttackIdleV8"
+S15="AttackIdleV9"
+S16="AttackIdleV10"
+
+[SG163]  // GLOVEZGRUNT_DEATH
+DIR="GRUNTZ_GLOVEZGRUNT"
+S1="DeathA"
+S2="DeathB"
+S3="DeathC"
+S4="DeathD"
+S5="DeathE"
+S6="DeathF"
+S7="DeathG"
+S8="DeathV1"
+S9="DeathV2"
+S10="DeathV3"
+S11="DeathV4"
+S12="DeathV5"
+S13="DeathV6"
+S14="DeathV7"
+S15="DeathV8"
+S16="DeathV9"
+S17="DeathV10"
+
+[SG164]  // GLOVEZGRUNT_IDLE1
+DIR="GRUNTZ_NORMALGRUNT"
+S1="Idle1A"
+S2="Idle1B"
+S3="Idle1C"
+S4="Idle1D"
+S5="Idle1E"
+S6="Idle1F"
+S7="Idle1G"
+S8="Idle1H"
+S9="Idle1I"
+S10="Idle1J"
+S11="Idle1V1"
+S12="Idle1V2"
+S13="Idle1V3"
+S14="Idle1V4"
+S15="Idle1V5"
+S16="Idle1V6"
+S17="Idle1V7"
+S18="Idle1V8"
+S19="Idle1V9"
+S20="Idle1V10"
+
+[SG165]  // GLOVEZGRUNT_IDLE2
+DIR="GRUNTZ_GLOVEZGRUNT"
+S1="Idle2A"
+S2="Idle2B"
+S3="Idle2C"
+S4="Idle2D"
+S5="Idle2E"
+S6="Idle2F"
+S7="Idle2V1"
+S8="Idle2V2"
+S9="Idle2V3"
+S10="Idle2V4"
+S11="Idle2V5"
+S12="Idle2V6"
+S13="Idle2V7"
+S14="Idle2V8"
+S15="Idle2V9"
+S16="Idle2V10"
+
+[SG166]  // GLOVEZGRUNT_IDLE3
+DIR="GRUNTZ_GLOVEZGRUNT"
+S1="Idle3A"
+S2="Idle3B"
+S3="Idle3C"
+S4="Idle3D"
+S5="Idle3E"
+S6="Idle3V1"
+S7="Idle3V2"
+S8="Idle3V3"
+S9="Idle3V4"
+S10="Idle3V5"
+S11="Idle3V6"
+S12="Idle3V7"
+S13="Idle3V8"
+S14="Idle3V9"
+S15="Idle3V10"
+
+[SG167]  // GLOVEZGRUNT_STRUCK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="StruckA"
+S2="StruckA1"
+S3="StruckA2"
+S4="StruckA3"
+S5="StruckB"
+S6="StruckB1"
+S7="StruckB2"
+S8="StruckB3"
+S9="StruckC"
+S10="StruckC1"
+S11="StruckC2"
+S12="StruckC3"
+S13="StruckD"
+S14="StruckD1"
+S15="StruckD2"
+S16="StruckD3"
+S17="StruckE"
+S18="StruckE1"
+S19="StruckE2"
+S20="StruckE3"
+S21="StruckF"
+S22="StruckF1"
+S23="StruckF2"
+S24="StruckG"
+S25="StruckG1"
+S26="StruckG2"
+S27="StruckH"
+S28="StruckH1"
+S29="StruckH2"
+S30="StruckJ"
+S31="StruckJ1"
+S32="StruckJ2"
+S33="StruckK"
+S34="StruckL"
+S35="StruckM"
+S36="StruckN"
+S37="StruckO"
+S38="StruckP"
+S39="StruckQ"
+S40="StruckR"
+S41="StruckS"
+S42="StruckT"
+S43="StruckU"
+S44="StruckV"
+S45="StruckW"
+S46="StruckX"
+S47="StruckY"
+S48="StruckZ"
+S49="StruckZA"
+S50="StruckZC"
+S51="StruckZD"
+S52="StruckZE"
+S53="StruckV1"
+S54="StruckV2"
+S55="StruckV3"
+S56="StruckV4"
+S57="StruckV5"
+S58="StruckV6"
+S59="StruckV7"
+S60="StruckV8"
+S61="StruckV9"
+S62="StruckV10"
+
+[SG169]  // GLOVEZGRUNT_WALK
+DIR="GRUNTZ_GLOVEZGRUNT"
+S1="WalkA"
+S2="WalkB"
+S3="WalkV1"
+S4="WalkV2"
+S5="WalkV3"
+S6="WalkV4"
+S7="WalkV5"
+S8="WalkV6"
+S9="WalkV7"
+S10="WalkV8"
+S11="WalkV9"
+S12="WalkV10"
+
+//GOKARTGRUNT
+
+[SG192]  // GOKARTGRUNT_TOYBREAK
+DIR="GRUNTZ_GOKARTGRUNT"
+S1="BreakB1"
+S2="BreakB3"
+S3="BreakC1"
+S4="BreakC2"
+S5="BreakD1"
+S6="BreakD2"
+S7="BreakV1"
+S8="BreakV2"
+S9="BreakV3"
+S10="BreakV4"
+S11="BreakV5"
+S12="BreakV6"
+S13="BreakV7"
+S14="BreakV8"
+S15="BreakV9"
+S16="BreakV10"
+
+[SG193]  // GOKARTGRUNT_TOYWALK
+DIR="GRUNTZ_GOKARTGRUNT"
+S1="ToyA2"
+S2="ToyA4"
+S3="ToyB3"
+S4="ToyB5"
+S5="ToyC1"
+S6="ToyC3"
+S7="ToyD1"
+S8="ToyD3"
+S9="ToyE2"
+S10="ToyV1"
+S11="ToyV2"
+S12="ToyV3"
+S13="ToyV4"
+S14="ToyV5"
+S15="ToyV6"
+S16="ToyV7"
+S17="ToyV8"
+S18="ToyV9"
+S19="ToyV10"
+
+//GOOBERGRUNT
+
+[SG201]  // GOOBERGRUNT_ATTACK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="AttackA"
+S2="AttackC"
+S3="AttackD"
+S4="AttackE"
+S5="AttackF"
+S6="AttackG"
+S7="AttackH"
+S8="AttackJ"
+S9="AttackL"
+S10="AttackM"
+S11="AttackN"
+S12="AttackO"
+S13="AttackP"
+S14="AttackQ"
+S15="AttackR"
+S16="AttackS"
+S17="AttackT"
+S18="AttackU"
+S19="AttackV"
+S20="AttackW"
+S21="AttackV1"
+S22="AttackV2"
+S23="AttackV3"
+S24="AttackV4"
+S25="AttackV5"
+S26="AttackV6"
+S27="AttackV7"
+S28="AttackV8"
+S29="AttackV9"
+S30="AttackV10"
+
+[SG203]  // GOOBERGRUNT_DEATH
+DIR="GRUNTZ_NORMALGRUNT"
+S1="DeathA"
+S2="DeathB"
+S3="DeathC"
+S4="DeathD"
+S5="DeathE"
+S6="DeathF"
+S7="DeathG"
+S8="DeathH"
+S9="DeathI"
+S10="DeathJ"
+S11="DeathK"
+S12="DeathL"
+S13="DeathM"
+S14="DeathN"
+S15="DeathO"
+S16="DeathP"
+S17="DeathQ"
+S18="DeathR"
+S19="DeathS"
+S21="DeathU"
+S22="DeathV"
+S23="DeathW"
+S24="DeathX"
+S25="DeathY"
+S26="DeathZ"
+S27="DeathZ1"
+S28="DeathZ2"
+S29="SoundDeathA"
+S30="SoundDeathB"
+S31="SoundDeathC"
+S32="SoundDeathD"
+S33="SoundDeathE"
+S34="SoundDeathF"
+S35="SoundDeathG"
+S36="SoundDeathH"
+S37="SoundDeathI"
+S38="SoundDeathJ"
+S39="SoundDeathK"
+S40="SoundDeathL"
+S41="SoundDeathM"
+S42="SoundDeathN"
+S43="SoundDeathO"
+S44="SoundDeathP"
+S45="DeathV1"
+S46="DeathV2"
+S47="DeathV3"
+S48="DeathV4"
+S49="DeathV5"
+S50="DeathV6"
+S51="DeathV7"
+S52="DeathV8"
+S53="DeathV9"
+S54="DeathV10"
+
+[SG204]  // GOOBERGRUNT_IDLE1
+DIR="GRUNTZ_NORMALGRUNT"
+S1="Idle1A"
+S2="Idle1B"
+S3="Idle1C"
+S4="Idle1D"
+S5="Idle1E"
+S6="Idle1F"
+S7="Idle1G"
+S8="Idle1H"
+S9="Idle1I"
+S10="Idle1J"
+S11="Idle1V1"
+S12="Idle1V2"
+S13="Idle1V3"
+S14="Idle1V4"
+S15="Idle1V5"
+S16="Idle1V6"
+S17="Idle1V7"
+S18="Idle1V8"
+S19="Idle1V9"
+S20="Idle1V10"
+
+[SG205]  // GOOBERGRUNT_IDLE2
+DIR="GRUNTZ_GOOBERGRUNT"
+S1="Idle2A"
+S2="Idle2B"
+S3="Idle2D"
+S4="Idle2E"
+S5="Idle2F"
+S6="Idle2V1"
+S7="Idle2V2"
+S8="Idle2V3"
+S9="Idle2V4"
+S10="Idle2V5"
+S11="Idle2V6"
+S12="Idle2V7"
+S13="Idle2V8"
+S14="Idle2V9"
+S15="Idle2V10"
+
+[SG206]  // GOOBERGRUNT_IDLE3
+DIR="GRUNTZ_GOOBERGRUNT"
+S1="Idle3A"
+S2="Idle3B"
+S3="Idle3C"
+S4="Idle3D"
+S5="Idle3E"
+S6="Idle3F"
+S7="Idle3V1"
+S8="Idle3V2"
+S9="Idle3V3"
+S10="Idle3V4"
+S11="Idle3V5"
+S12="Idle3V6"
+S13="Idle3V7"
+S14="Idle3V8"
+S15="Idle3V9"
+S16="Idle3V10"
+
+[SG207]  // GOOBERGRUNT_STRUCK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="StruckA"
+S2="StruckA1"
+S3="StruckA2"
+S4="StruckA3"
+S5="StruckB"
+S6="StruckB1"
+S7="StruckB2"
+S8="StruckB3"
+S9="StruckC"
+S10="StruckC1"
+S11="StruckC2"
+S12="StruckC3"
+S13="StruckD"
+S14="StruckD1"
+S15="StruckD2"
+S16="StruckD3"
+S17="StruckE"
+S18="StruckE1"
+S19="StruckE2"
+S20="StruckE3"
+S21="StruckF"
+S22="StruckF1"
+S23="StruckF2"
+S24="StruckG"
+S25="StruckG1"
+S26="StruckG2"
+S27="StruckH"
+S28="StruckH1"
+S29="StruckH2"
+S30="StruckJ"
+S31="StruckJ1"
+S32="StruckJ2"
+S33="StruckK"
+S34="StruckL"
+S35="StruckM"
+S36="StruckN"
+S37="StruckO"
+S38="StruckP"
+S39="StruckQ"
+S40="StruckR"
+S41="StruckS"
+S42="StruckT"
+S43="StruckU"
+S44="StruckV"
+S45="StruckW"
+S46="StruckX"
+S47="StruckY"
+S48="StruckZ"
+S49="StruckZA"
+S50="StruckZC"
+S51="StruckZD"
+S52="StruckZE"
+S53="StruckV1"
+S54="StruckV2"
+S55="StruckV3"
+S56="StruckV4"
+S57="StruckV5"
+S58="StruckV6"
+S59="StruckV7"
+S60="StruckV8"
+S61="StruckV9"
+S62="StruckV10"
+
+[SG208]  // GOOBERGRUNT_ITEM
+DIR="GRUNTZ_GOOBERGRUNT"
+S1="ItemA"
+S2="ItemB"
+S3="ItemC"
+S4="ItemD"
+S5="ItemE"
+S6="ItemF"
+S7="ItemG"
+S8="ItemH"
+S9="ItemI"
+S10="ItemJ"
+S11="ItemK"
+S12="ItemM"
+S13="ItemN1"
+S14="ItemN3"
+S15="ItemO2"
+S16="ItemO3"
+S17="ItemP1"
+S18="ItemP2"
+S19="ItemP3"
+S20="ItemV1"
+S21="ItemV2"
+S22="ItemV3"
+S23="ItemV4"
+S24="ItemV5"
+S25="ItemV6"
+S26="ItemV7"
+S27="ItemV8"
+S28="ItemV9"
+S29="ItemV10"
+
+
+[SG209]  // GOOBERGRUNT_WALK
+DIR="GRUNTZ_GOOBERGRUNT"
+S1="WalkA"
+S2="WalkB"
+S3="WalkV1"
+S4="WalkV2"
+S5="WalkV3"
+S6="WalkV4"
+S7="WalkV5"
+S8="WalkV6"
+S9="WalkV7"
+S10="WalkV8"
+S11="WalkV9"
+S12="WalkV10"
+
+//GRAVITYBOOTZGRUNT
+
+[SG221]  // GRAVITYBOOTZGRUNT_ATTACK
+DIR="GRUNTZ_GRAVITYBOOTZGRUNT"
+S1="AttackA"
+S2="AttackB"
+S3="AttackC"
+S4="AttackD"
+S5="AttackE"
+S6="AttackF"
+S7="AttackV1"
+S8="AttackV2"
+S9="AttackV3"
+S10="AttackV4"
+S11="AttackV5"
+S12="AttackV6"
+S13="AttackV7"
+S14="AttackV8"
+S15="AttackV9"
+S16="AttackV10"
+
+[SG223]  // GRAVITYBOOTZGRUNT_DEATH
+DIR="GRUNTZ_NORMALGRUNT"
+S1="DeathA"
+S2="DeathB"
+S3="DeathC"
+S4="DeathD"
+S5="DeathE"
+S6="DeathF"
+S7="DeathG"
+S8="DeathH"
+S9="DeathI"
+S10="DeathJ"
+S11="DeathK"
+S12="DeathL"
+S13="DeathM"
+S14="DeathN"
+S15="DeathO"
+S16="DeathP"
+S17="DeathQ"
+S18="DeathR"
+S19="DeathS"
+S21="DeathU"
+S22="DeathV"
+S23="DeathW"
+S24="DeathX"
+S25="DeathY"
+S26="DeathZ"
+S27="DeathZ1"
+S28="DeathZ2"
+S29="SoundDeathA"
+S30="SoundDeathB"
+S31="SoundDeathC"
+S32="SoundDeathD"
+S33="SoundDeathE"
+S34="SoundDeathF"
+S35="SoundDeathG"
+S36="SoundDeathH"
+S37="SoundDeathI"
+S38="SoundDeathJ"
+S39="SoundDeathK"
+S40="SoundDeathL"
+S41="SoundDeathM"
+S42="SoundDeathN"
+S43="SoundDeathO"
+S44="SoundDeathP"
+S45="DeathV1"
+S46="DeathV2"
+S47="DeathV3"
+S48="DeathV4"
+S49="DeathV5"
+S50="DeathV6"
+S51="DeathV7"
+S52="DeathV8"
+S53="DeathV9"
+S54="DeathV10"
+
+[SG224]  // GRAVITYBOOTZGRUNT_IDLE1
+DIR="GRUNTZ_NORMALGRUNT"
+S1="Idle1A"
+S2="Idle1B"
+S3="Idle1C"
+S4="Idle1D"
+S5="Idle1E"
+S6="Idle1F"
+S7="Idle1G"
+S8="Idle1H"
+S9="Idle1I"
+S10="Idle1J"
+S11="Idle1V1"
+S12="Idle1V2"
+S13="Idle1V3"
+S14="Idle1V4"
+S15="Idle1V5"
+S16="Idle1V6"
+S17="Idle1V7"
+S18="Idle1V8"
+S19="Idle1V9"
+S20="Idle1V10"
+
+[SG225]  // GRAVITYBOOTZGRUNT_IDLE2
+DIR="GRUNTZ_GRAVITYBOOTZGRUNT"
+S1="Idle2A"
+S2="Idle2B"
+S3="Idle2V1"
+S4="Idle2V2"
+S5="Idle2V3"
+S6="Idle2V4"
+S7="Idle2V5"
+S8="Idle2V6"
+S9="Idle2V7"
+S10="Idle2V8"
+S11="Idle2V9"
+S12="Idle2V10"
+
+[SG226]  // GRAVITYBOOTZGRUNT_IDLE3
+DIR="GRUNTZ_GRAVITYBOOTZGRUNT"
+S1="Idle3A"
+S2="Idle3B"
+S3="Idle3C"
+S4="Idle3D"
+S5="Idle3E"
+S6="Idle3F"
+S7="Idle3V1"
+S8="Idle3V2"
+S9="Idle3V3"
+S10="Idle3V4"
+S11="Idle3V5"
+S12="Idle3V6"
+S13="Idle3V7"
+S14="Idle3V8"
+S15="Idle3V9"
+S16="Idle3V10"
+
+[SG227]  // GRAVITYBOOTZGRUNT_STRUCK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="StruckA"
+S2="StruckA1"
+S3="StruckA2"
+S4="StruckA3"
+S5="StruckB"
+S6="StruckB1"
+S7="StruckB2"
+S8="StruckB3"
+S9="StruckC"
+S10="StruckC1"
+S11="StruckC2"
+S12="StruckC3"
+S13="StruckD"
+S14="StruckD1"
+S15="StruckD2"
+S16="StruckD3"
+S17="StruckE"
+S18="StruckE1"
+S19="StruckE2"
+S20="StruckE3"
+S21="StruckF"
+S22="StruckF1"
+S23="StruckF2"
+S24="StruckG"
+S25="StruckG1"
+S26="StruckG2"
+S27="StruckH"
+S28="StruckH1"
+S29="StruckH2"
+S30="StruckJ"
+S31="StruckJ1"
+S32="StruckJ2"
+S33="StruckK"
+S34="StruckL"
+S35="StruckM"
+S36="StruckN"
+S37="StruckO"
+S38="StruckP"
+S39="StruckQ"
+S40="StruckR"
+S41="StruckS"
+S42="StruckT"
+S43="StruckU"
+S44="StruckV"
+S45="StruckW"
+S46="StruckX"
+S47="StruckY"
+S48="StruckZ"
+S49="StruckZA"
+S50="StruckZC"
+S51="StruckZD"
+S52="StruckZE"
+S53="StruckV1"
+S54="StruckV2"
+S55="StruckV3"
+S56="StruckV4"
+S57="StruckV5"
+S58="StruckV6"
+S59="StruckV7"
+S60="StruckV8"
+S61="StruckV9"
+S62="StruckV10"
+
+[SG229]  // GRAVITYBOOTZGRUNT_WALK
+DIR="GRUNTZ_GRAVITYBOOTZGRUNT"
+S1="WalkA"
+S2="WalkB"
+S3="WalkC"
+S4="WalkV1"
+S5="WalkV2"
+S6="WalkV3"
+S7="WalkV4"
+S8="WalkV5"
+S9="WalkV6"
+S10="WalkV7"
+S11="WalkV8"
+S12="WalkV9"
+S13="WalkV10"
+
+//GUNHATGRUNT
+
+[SG241]  // GUNHATGRUNT_ATTACK
+DIR="GRUNTZ_GUNHATGRUNT"
+S1="AttackA"
+S2="AttackB"
+S3="AttackC"
+S4="AttackD"
+S5="AttackE"
+S6="AttackF"
+S7="AttackV1"
+S8="AttackV2"
+S9="AttackV3"
+S10="AttackV4"
+S11="AttackV5"
+S12="AttackV6"
+S13="AttackV7"
+S14="AttackV8"
+S15="AttackV9"
+S16="AttackV10"
+
+[SG242]  // GUNHATGRUNT_ATTACKIDLE
+DIR="GRUNTZ_GUNHATGRUNT"
+S1="AttackIdleA"
+S2="AttackIdleB"
+S3="AttackIdleD"
+S4="AttackIdleE"
+S5="AttackIdleV1"
+S6="AttackIdleV2"
+S7="AttackIdleV3"
+S8="AttackIdleV4"
+S9="AttackIdleV5"
+S10="AttackIdleV6"
+S11="AttackIdleV7"
+S12="AttackIdleV8"
+S13="AttackIdleV9"
+S14="AttackIdleV10"
+
+[SG243]  // GUNHATGRUNT_DEATH
+DIR="GRUNTZ_NORMALGRUNT"
+S1="DeathA"
+S2="DeathB"
+S3="DeathC"
+S4="DeathD"
+S5="DeathE"
+S6="DeathF"
+S7="DeathG"
+S8="DeathH"
+S9="DeathI"
+S10="DeathJ"
+S11="DeathK"
+S12="DeathL"
+S13="DeathM"
+S14="DeathN"
+S15="DeathO"
+S16="DeathP"
+S17="DeathQ"
+S18="DeathR"
+S19="DeathS"
+S21="DeathU"
+S22="DeathV"
+S23="DeathW"
+S24="DeathX"
+S25="DeathY"
+S26="DeathZ"
+S27="DeathZ1"
+S28="DeathZ2"
+S29="SoundDeathA"
+S30="SoundDeathB"
+S31="SoundDeathC"
+S32="SoundDeathD"
+S33="SoundDeathE"
+S34="SoundDeathF"
+S35="SoundDeathG"
+S36="SoundDeathH"
+S37="SoundDeathI"
+S38="SoundDeathJ"
+S39="SoundDeathK"
+S40="SoundDeathL"
+S41="SoundDeathM"
+S42="SoundDeathN"
+S43="SoundDeathO"
+S44="SoundDeathP"
+S45="DeathV1"
+S46="DeathV2"
+S47="DeathV3"
+S48="DeathV4"
+S49="DeathV5"
+S50="DeathV6"
+S51="DeathV7"
+S52="DeathV8"
+S53="DeathV9"
+S54="DeathV10"
+
+[SG244]  // GUNHATGRUNT_IDLE1
+DIR="GRUNTZ_NORMALGRUNT"
+S1="Idle1A"
+S2="Idle1B"
+S3="Idle1C"
+S4="Idle1D"
+S5="Idle1E"
+S6="Idle1F"
+S7="Idle1G"
+S8="Idle1H"
+S9="Idle1I"
+S10="Idle1J"
+S11="Idle1V1"
+S12="Idle1V2"
+S13="Idle1V3"
+S14="Idle1V4"
+S15="Idle1V5"
+S16="Idle1V6"
+S17="Idle1V7"
+S18="Idle1V8"
+S19="Idle1V9"
+S20="Idle1V10"
+
+[SG245]  // GUNHATGRUNT_IDLE2
+DIR="GRUNTZ_GUNHATGRUNT"
+S1="Idle2A"
+S2="Idle2B"
+S3="Idle2C"
+S4="Idle2D"
+S5="Idle2E"
+S6="Idle2F"
+S7="Idle2V1"
+S8="Idle2V2"
+S9="Idle2V3"
+S10="Idle2V4"
+S11="Idle2V5"
+S12="Idle2V6"
+S13="Idle2V7"
+S14="Idle2V8"
+S15="Idle2V9"
+S16="Idle2V10"
+
+[SG246]  // GUNHATGRUNT_IDLE3
+DIR="GRUNTZ_GUNHATGRUNT"
+S1="Idle3A"
+S2="Idle3B"
+S3="Idle3D"
+S4="Idle3E"
+S5="Idle3F"
+S6="Idle3G"
+S7="Idle3H"
+S8="Idle3V1"
+S9="Idle3V2"
+S10="Idle3V3"
+S11="Idle3V4"
+S12="Idle3V5"
+S13="Idle3V6"
+S14="Idle3V7"
+S15="Idle3V8"
+S16="Idle3V9"
+S17="Idle3V10"
+
+[SG247]  // GUNHATGRUNT_STRUCK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="StruckA"
+S2="StruckA1"
+S3="StruckA2"
+S4="StruckA3"
+S5="StruckB"
+S6="StruckB1"
+S7="StruckB2"
+S8="StruckB3"
+S9="StruckC"
+S10="StruckC1"
+S11="StruckC2"
+S12="StruckC3"
+S13="StruckD"
+S14="StruckD1"
+S15="StruckD2"
+S16="StruckD3"
+S17="StruckE"
+S18="StruckE1"
+S19="StruckE2"
+S20="StruckE3"
+S21="StruckF"
+S22="StruckF1"
+S23="StruckF2"
+S24="StruckG"
+S25="StruckG1"
+S26="StruckG2"
+S27="StruckH"
+S28="StruckH1"
+S29="StruckH2"
+S30="StruckJ"
+S31="StruckJ1"
+S32="StruckJ2"
+S33="StruckK"
+S34="StruckL"
+S35="StruckM"
+S36="StruckN"
+S37="StruckO"
+S38="StruckP"
+S39="StruckQ"
+S40="StruckR"
+S41="StruckS"
+S42="StruckT"
+S43="StruckU"
+S44="StruckV"
+S45="StruckW"
+S46="StruckX"
+S47="StruckY"
+S48="StruckZ"
+S49="StruckZA"
+S50="StruckZC"
+S51="StruckZD"
+S52="StruckZE"
+S53="StruckV1"
+S54="StruckV2"
+S55="StruckV3"
+S56="StruckV4"
+S57="StruckV5"
+S58="StruckV6"
+S59="StruckV7"
+S60="StruckV8"
+S61="StruckV9"
+S62="StruckV10"
+
+[SG249]  // GUNHATGRUNT_WALK
+DIR="GRUNTZ_GUNHATGRUNT"
+S1="WalkA"
+S2="WalkV1"
+S3="WalkV2"
+S4="WalkV3"
+S5="WalkV4"
+S6="WalkV5"
+S7="WalkV6"
+S8="WalkV7"
+S9="WalkV8"
+S10="WalkV9"
+S11="WalkV10"
+
+//HAREKRISHNAGRUNT
+
+[SG261]  // HAREKRISHNAGRUNT_ATTACK
+Per=100
+DIR="GRUNTZ_HAREKRISHNAGRUNT"
+S1="AttackA"
+S2="AttackB"
+S3="AttackC"
+S4="AttackV1"
+S5="AttackV2"
+S6="AttackV3"
+S7="AttackV4"
+S8="AttackV5"
+S9="AttackV6"
+S10="AttackV7"
+S11="AttackV8"
+S12="AttackV9"
+S13="AttackV10"
+
+[SG263]  // HAREKRISHNAGRUNT_DEATH
+DIR="GRUNTZ_HAREKRISHNAGRUNT"
+S1="DeathA"
+S2="DeathB"
+S3="DeathC"
+S4="DeathD"
+S5="DeathV1"
+S6="DeathV2"
+S7="DeathV3"
+S8="DeathV4"
+S9="DeathV5"
+S10="DeathV6"
+S11="DeathV7"
+S12="DeathV8"
+S13="DeathV9"
+S14="DeathV10"
+
+[SG267]  // HAREKRISHNAGRUNT_STRUCK
+Per=100
+DIR="GRUNTZ_HAREKRISHNAGRUNT"
+S1="StruckA"
+S2="StruckB"
+S3="StruckV1"
+S4="StruckV2"
+S5="StruckV3"
+S6="StruckV4"
+S7="StruckV5"
+S8="StruckV6"
+S9="StruckV7"
+S10="StruckV8"
+S11="StruckV9"
+S12="StruckV10"
+
+[SG269]  // HAREKRISHNAGRUNT_WALK
+DIR="GRUNTZ_HAREKRISHNAGRUNT"
+S1="WalkA"
+S2="WalkB"
+S3="WalkV1"
+S4="WalkV2"
+S5="WalkV3"
+S6="WalkV4"
+S7="WalkV5"
+S8="WalkV6"
+S9="WalkV7"
+S10="WalkV8"
+S11="WalkV9"
+S12="WalkV10"
+
+//JACKINTHEBOXGRUNT
+
+[SG290]  // JACKINTHEBOXGRUNT_TOY1
+DIR="GRUNTZ_JACKINTHEBOXGRUNT"
+S1="Toy1A"
+S2="Toy1B"
+S3="Toy1C"
+S4="Toy1D"
+S5="Toy1E"
+S6="Toy1F"
+S7="Toy1V1"
+S8="Toy1V2"
+S9="Toy1V3"
+S10="Toy1V4"
+S11="Toy1V5"
+S12="Toy1V6"
+S13="Toy1V7"
+S14="Toy1V8"
+S15="Toy1V9"
+S16="Toy1V10"
+
+[SG292]  // JACKINTHEBOXGRUNT_TOYBREAK
+DIR="GRUNTZ_JACKINTHEBOXGRUNT"
+S1="BreakA"
+S2="BreakB"
+S3="BreakC"
+S4="BreakD"
+S5="BreakE"
+S6="BreakF"
+S7="BreakV1"
+S8="BreakV2"
+S9="BreakV3"
+S10="BreakV4"
+S11="BreakV5"
+S12="BreakV6"
+S13="BreakV7"
+S14="BreakV8"
+S15="BreakV9"
+S16="BreakV10"
+
+//JUMPROPEGRUNT
+
+[SG310]  // JUMPROPEGRUNT_TOY1
+DIR="GRUNTZ_JUMPROPEGRUNT"
+S1="Toy1A"
+S2="Toy1B"
+S3="Toy1C"
+S4="Toy1D"
+S5="Toy1E"
+S6="Toy1F"
+S7="Toy1V1"
+S8="Toy1V2"
+S9="Toy1V3"
+S10="Toy1V4"
+S11="Toy1V5"
+S12="Toy1V6"
+S13="Toy1V7"
+S14="Toy1V8"
+S15="Toy1V9"
+S16="Toy1V10"
+
+[SG311]  // JUMPROPEGRUNT_TOY2
+DIR="GRUNTZ_JUMPROPEGRUNT"
+S1="Toy2C"
+S2="Toy2E"
+S3="Toy2F"
+S4="Toy2V1"
+S5="Toy2V2"
+S6="Toy2V3"
+S7="Toy2V4"
+S8="Toy2V5"
+S9="Toy2V6"
+S10="Toy2V7"
+S11="Toy2V8"
+S12="Toy2V9"
+S13="Toy2V10"
+
+[SG312]  // JUMPROPEGRUNT_TOYBREAK
+DIR="GRUNTZ_JUMPROPEGRUNT"
+S1="BreakA"
+S2="BreakB"
+S3="BreakC"
+S4="BreakD"
+S5="BreakE"
+S6="BreakF"
+S7="BreakV1"
+S8="BreakV2"
+S9="BreakV3"
+S10="BreakV4"
+S11="BreakV5"
+S12="BreakV6"
+S13="BreakV7"
+S14="BreakV8"
+S15="BreakV9"
+S16="BreakV10"
+
+//NERFGUNGRUNT
+
+[SG321]  // NERFGUNGRUNT_ATTACK
+DIR="GRUNTZ_NERFGUNGRUNT"
+S1="AttackB"
+S2="AttackD"
+S3="AttackF"
+S4="AttackV1"
+S5="AttackV2"
+S6="AttackV3"
+S7="AttackV4"
+S8="AttackV5"
+S9="AttackV6"
+S10="AttackV7"
+S11="AttackV8"
+S12="AttackV9"
+S13="AttackV10"
+
+[SG322]  // NERFGUNGRUNT_ATTACKIDLE
+DIR="GRUNTZ_NERFGUNGRUNT"
+S1="AttackIdleA"
+S2="AttackIdleC"
+S3="AttackIdleD"
+S4="AttackIdleE"
+S5="AttackIdleV1"
+S6="AttackIdleV2"
+S7="AttackIdleV3"
+S8="AttackIdleV4"
+S9="AttackIdleV5"
+S10="AttackIdleV6"
+S11="AttackIdleV7"
+S12="AttackIdleV8"
+S13="AttackIdleV9"
+S14="AttackIdleV10"
+
+[SG323]  // NERFGUNGRUNT_DEATH
+DIR="GRUNTZ_NORMALGRUNT"
+S1="DeathA"
+S2="DeathB"
+S3="DeathC"
+S4="DeathD"
+S5="DeathE"
+S6="DeathF"
+S7="DeathG"
+S8="DeathH"
+S9="DeathI"
+S10="DeathJ"
+S11="DeathK"
+S12="DeathL"
+S13="DeathM"
+S14="DeathN"
+S15="DeathO"
+S16="DeathP"
+S17="DeathQ"
+S18="DeathR"
+S19="DeathS"
+S21="DeathU"
+S22="DeathV"
+S23="DeathW"
+S24="DeathX"
+S25="DeathY"
+S26="DeathZ"
+S27="DeathZ1"
+S28="DeathZ2"
+S29="SoundDeathA"
+S30="SoundDeathB"
+S31="SoundDeathC"
+S32="SoundDeathD"
+S33="SoundDeathE"
+S34="SoundDeathF"
+S35="SoundDeathG"
+S36="SoundDeathH"
+S37="SoundDeathI"
+S38="SoundDeathJ"
+S39="SoundDeathK"
+S40="SoundDeathL"
+S41="SoundDeathM"
+S42="SoundDeathN"
+S43="SoundDeathO"
+S44="SoundDeathP"
+S45="DeathV1"
+S46="DeathV2"
+S47="DeathV3"
+S48="DeathV4"
+S49="DeathV5"
+S50="DeathV6"
+S51="DeathV7"
+S52="DeathV8"
+S53="DeathV9"
+S54="DeathV10"
+
+[SG324]  // NERFGUNGRUNT_IDLE1
+DIR="GRUNTZ_NORMALGRUNT"
+S1="Idle1A"
+S2="Idle1B"
+S3="Idle1C"
+S4="Idle1D"
+S5="Idle1E"
+S6="Idle1F"
+S7="Idle1G"
+S8="Idle1H"
+S9="Idle1I"
+S10="Idle1J"
+S11="Idle1V1"
+S12="Idle1V2"
+S13="Idle1V3"
+S14="Idle1V4"
+S15="Idle1V5"
+S16="Idle1V6"
+S17="Idle1V7"
+S18="Idle1V8"
+S19="Idle1V9"
+S20="Idle1V10"
+
+[SG325]  // NERFGUNGRUNT_IDLE2
+DIR="GRUNTZ_NERFGUNGRUNT"
+S1="Idle2A"
+S2="Idle2B"
+S3="Idle2C"
+S4="Idle2D"
+S5="Idle2E"
+S6="Idle2F"
+S7="Idle2V1"
+S8="Idle2V2"
+S9="Idle2V3"
+S10="Idle2V4"
+S11="Idle2V5"
+S12="Idle2V6"
+S13="Idle2V7"
+S14="Idle2V8"
+S15="Idle2V9"
+S16="Idle2V10"
+
+[SG326]  // NERFGUNGRUNT_IDLE3
+DIR="GRUNTZ_NERFGUNGRUNT"
+S1="Idle3A1"
+S2="Idle3A2"
+S3="Idle3A3"
+S4="Idle3B1"
+S5="Idle3B2"
+S6="Idle3B3"
+S7="Idle3C1"
+S8="Idle3C2"
+S9="Idle3C3"
+S10="Idle3D1"
+S11="Idle3V1"
+S12="Idle3V2"
+S13="Idle3V3"
+S14="Idle3V4"
+S15="Idle3V5"
+S16="Idle3V6"
+S17="Idle3V7"
+S18="Idle3V8"
+S19="Idle3V9"
+S20="Idle3V10"
+
+[SG327]  // NERFGUNGRUNT_STRUCK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="StruckA"
+S2="StruckA1"
+S3="StruckA2"
+S4="StruckA3"
+S5="StruckB"
+S6="StruckB1"
+S7="StruckB2"
+S8="StruckB3"
+S9="StruckC"
+S10="StruckC1"
+S11="StruckC2"
+S12="StruckC3"
+S13="StruckD"
+S14="StruckD1"
+S15="StruckD2"
+S16="StruckD3"
+S17="StruckE"
+S18="StruckE1"
+S19="StruckE2"
+S20="StruckE3"
+S21="StruckF"
+S22="StruckF1"
+S23="StruckF2"
+S24="StruckG"
+S25="StruckG1"
+S26="StruckG2"
+S27="StruckH"
+S28="StruckH1"
+S29="StruckH2"
+S30="StruckJ"
+S31="StruckJ1"
+S32="StruckJ2"
+S33="StruckK"
+S34="StruckL"
+S35="StruckM"
+S36="StruckN"
+S37="StruckO"
+S38="StruckP"
+S39="StruckQ"
+S40="StruckR"
+S41="StruckS"
+S42="StruckT"
+S43="StruckU"
+S44="StruckV"
+S45="StruckW"
+S46="StruckX"
+S47="StruckY"
+S48="StruckZ"
+S49="StruckZA"
+S50="StruckZC"
+S51="StruckZD"
+S52="StruckZE"
+S53="StruckV1"
+S54="StruckV2"
+S55="StruckV3"
+S56="StruckV4"
+S57="StruckV5"
+S58="StruckV6"
+S59="StruckV7"
+S60="StruckV8"
+S61="StruckV9"
+S62="StruckV10"
+
+[SG329]  // NERFGUNGRUNT_WALK
+DIR="GRUNTZ_NERFGUNGRUNT"
+S1="WalkA"
+S2="WalkB"
+S3="WalkV1"
+S4="WalkV2"
+S5="WalkV3"
+S6="WalkV4"
+S7="WalkV5"
+S8="WalkV6"
+S9="WalkV7"
+S10="WalkV8"
+S11="WalkV9"
+S12="WalkV10"
+
+//NORMALGRUNT
+
+[SG341]  // NORMALGRUNT_ATTACK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="AttackA"
+S2="AttackC"
+S3="AttackD"
+S4="AttackE"
+S5="AttackF"
+S6="AttackG"
+S7="AttackH"
+S8="AttackJ"
+S9="AttackL"
+S10="AttackM"
+S11="AttackN"
+S12="AttackO"
+S13="AttackP"
+S14="AttackQ"
+S15="AttackR"
+S16="AttackS"
+S17="AttackT"
+S18="AttackU"
+S19="AttackV"
+S20="AttackW"
+S21="AttackV1"
+S22="AttackV2"
+S23="AttackV3"
+S24="AttackV4"
+S25="AttackV5"
+S26="AttackV6"
+S27="AttackV7"
+S28="AttackV8"
+S29="AttackV9"
+S30="AttackV10"
+
+[SG343]  // NORMALGRUNT_DEATH
+DIR="GRUNTZ_NORMALGRUNT"
+S1="DeathA"
+S2="DeathB"
+S3="DeathC"
+S4="DeathD"
+S5="DeathE"
+S6="DeathF"
+S7="DeathG"
+S8="DeathH"
+S9="DeathI"
+S10="DeathJ"
+S11="DeathK"
+S12="DeathL"
+S13="DeathM"
+S14="DeathN"
+S15="DeathO"
+S16="DeathP"
+S17="DeathQ"
+S18="DeathR"
+S19="DeathS"
+S21="DeathU"
+S22="DeathV"
+S23="DeathW"
+S24="DeathX"
+S25="DeathY"
+S26="DeathZ"
+S27="DeathZ1"
+S28="DeathZ2"
+S29="SoundDeathA"
+S30="SoundDeathB"
+S31="SoundDeathC"
+S32="SoundDeathD"
+S33="SoundDeathE"
+S34="SoundDeathF"
+S35="SoundDeathG"
+S36="SoundDeathH"
+S37="SoundDeathI"
+S38="SoundDeathJ"
+S39="SoundDeathK"
+S40="SoundDeathL"
+S41="SoundDeathM"
+S42="SoundDeathN"
+S43="SoundDeathO"
+S44="SoundDeathP"
+S45="DeathV1"
+S46="DeathV2"
+S47="DeathV3"
+S48="DeathV4"
+S49="DeathV5"
+S50="DeathV6"
+S51="DeathV7"
+S52="DeathV8"
+S53="DeathV9"
+S54="DeathV10"
+
+[SG344]  // NORMALGRUNT_IDLE1
+DIR="GRUNTZ_NORMALGRUNT"
+S1="Idle1A"
+S2="Idle1B"
+S3="Idle1C"
+S4="Idle1D"
+S5="Idle1E"
+S6="Idle1F"
+S7="Idle1G"
+S8="Idle1H"
+S9="Idle1I"
+S10="Idle1J"
+S11="Idle1V1"
+S12="Idle1V2"
+S13="Idle1V3"
+S14="Idle1V4"
+S15="Idle1V5"
+S16="Idle1V6"
+S17="Idle1V7"
+S18="Idle1V8"
+S19="Idle1V9"
+S20="Idle1V10"
+
+[SG345] // NORMALGRUNT_IDLE2
+DIR="GRUNTZ_NORMALGRUNT"
+S1="Idle1A"
+S2="Idle1B"
+S3="Idle1C"
+S4="Idle1D"
+S5="Idle1E"
+S6="Idle1F"
+S7="Idle1G"
+S8="Idle1H"
+S9="Idle1I"
+S10="Idle1J"
+S11="Idle1V1"
+S12="Idle1V2"
+S13="Idle1V3"
+S14="Idle1V4"
+S15="Idle1V5"
+S16="Idle1V6"
+S17="Idle1V7"
+S18="Idle1V8"
+S19="Idle1V9"
+S20="Idle1V10"
+
+[SG346] // NORMALGRUNT_IDLE3
+DIR="GRUNTZ_NORMALGRUNT"
+S1="Idle1A"
+S2="Idle1B"
+S3="Idle1C"
+S4="Idle1D"
+S5="Idle1E"
+S6="Idle1F"
+S7="Idle1G"
+S8="Idle1H"
+S9="Idle1I"
+S10="Idle1J"
+S11="Idle1V1"
+S12="Idle1V2"
+S13="Idle1V3"
+S14="Idle1V4"
+S15="Idle1V5"
+S16="Idle1V6"
+S17="Idle1V7"
+S18="Idle1V8"
+S19="Idle1V9"
+S20="Idle1V10"
+
+[SG347]  // NORMALGRUNT_STRUCK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="StruckA"
+S2="StruckA1"
+S3="StruckA2"
+S4="StruckA3"
+S5="StruckB"
+S6="StruckB1"
+S7="StruckB2"
+S8="StruckB3"
+S9="StruckC"
+S10="StruckC1"
+S11="StruckC2"
+S12="StruckC3"
+S13="StruckD"
+S14="StruckD1"
+S15="StruckD2"
+S16="StruckD3"
+S17="StruckE"
+S18="StruckE1"
+S19="StruckE2"
+S20="StruckE3"
+S21="StruckF"
+S22="StruckF1"
+S23="StruckF2"
+S24="StruckG"
+S25="StruckG1"
+S26="StruckG2"
+S27="StruckH"
+S28="StruckH1"
+S29="StruckH2"
+S30="StruckJ"
+S31="StruckJ1"
+S32="StruckJ2"
+S33="StruckK"
+S34="StruckL"
+S35="StruckM"
+S36="StruckN"
+S37="StruckO"
+S38="StruckP"
+S39="StruckQ"
+S40="StruckR"
+S41="StruckS"
+S42="StruckT"
+S43="StruckU"
+S44="StruckV"
+S45="StruckW"
+S46="StruckX"
+S47="StruckY"
+S48="StruckZ"
+S49="StruckZA"
+S50="StruckZC"
+S51="StruckZD"
+S52="StruckZE"
+S53="StruckV1"
+S54="StruckV2"
+S55="StruckV3"
+S56="StruckV4"
+S57="StruckV5"
+S58="StruckV6"
+S59="StruckV7"
+S60="StruckV8"
+S61="StruckV9"
+S62="StruckV10"
+
+[SG349]  // NORMALGRUNT_WALK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="WalkA"
+S2="WalkB"
+S3="WalkC"
+S4="WalkD"
+S5="WalkE"
+S6="WalkF"
+S7="WalkG"
+S8="WalkH"
+S9="WalkI"
+S10="WalkJ"
+S11="WalkK"
+S12="WalkL"
+S13="WalkM"
+S14="WalkV1"
+S15="WalkV2"
+S16="WalkV3"
+S17="WalkV4"
+S18="WalkV5"
+S19="WalkV6"
+S20="WalkV7"
+S21="WalkV8"
+S22="WalkV9"
+S23="WalkV10"
+
+//POGOSTICKGRUNT
+
+[SG372]  // POGOSTICKGRUNT_TOYBREAK
+DIR="GRUNTZ_POGOSTICKGRUNT"
+S1="BreakA1"
+S2="BreakA2"
+S3="BreakA3"
+S4="BreakA4"
+S5="BreakA5"
+S6="BreakA6"
+S7="BreakB1"
+S8="BreakB2"
+S9="BreakC1"
+S10="BreakC2"
+S11="BreakV1"
+S12="BreakV2"
+S13="BreakV3"
+S14="BreakV4"
+S15="BreakV5"
+S16="BreakV6"
+S17="BreakV7"
+S18="BreakV8"
+S19="BreakV9"
+S20="BreakV10"
+
+[SG373]  // POGOSTICKGRUNT_TOYWALK
+DIR="GRUNTZ_POGOSTICKGRUNT"
+S1="ToyB"
+S2="ToyC"
+S3="ToyD1"
+S4="ToyD2"
+S5="ToyE1"
+S6="ToyE2"
+S7="ToyF"
+S8="ToyV1"
+S9="ToyV2"
+S10="ToyV3"
+S11="ToyV4"
+S12="ToyV5"
+S13="ToyV6"
+S14="ToyV7"
+S15="ToyV8"
+S16="ToyV9"
+S17="ToyV10"
+
+//REAPERGRUNT
+
+[SG381]  // REAPERGRUNT_ATTACK
+Per=100
+DIR="GRUNTZ_REAPERGRUNT"
+S1="AttackA2"
+S2="AttackB2"
+S3="AttackC1"
+S4="AttackV1"
+S5="AttackV2"
+S6="AttackV3"
+S7="AttackV4"
+S8="AttackV5"
+S9="AttackV6"
+S10="AttackV7"
+S11="AttackV8"
+S12="AttackV9"
+S13="AttackV10"
+
+[SG383]  // REAPERGRUNT_DEATH
+DIR="GRUNTZ_REAPERGRUNT"
+S1="DeathA"
+S2="DeathB"
+S3="DeathC"
+S4="DeathV1"
+S5="DeathV2"
+S6="DeathV3"
+S7="DeathV4"
+S8="DeathV5"
+S9="DeathV6"
+S10="DeathV7"
+S11="DeathV8"
+S12="DeathV9"
+S13="DeathV10"
+
+[SG387]  // REAPERGRUNT_STRUCK
+Per=100
+DIR="GRUNTZ_REAPERGRUNT"
+S1="Struck1A"
+S2="Struck1B"
+
+[SG389]  // REAPERGRUNT_WALK
+DIR="GRUNTZ_REAPERGRUNT"
+S1="WalkA"
+S2="WalkV1"
+S3="WalkV2"
+S4="WalkV3"
+S5="WalkV4"
+S6="WalkV5"
+S7="WalkV6"
+S8="WalkV7"
+S9="WalkV8"
+S10="WalkV9"
+S11="WalkV10"
+
+//ROCKGRUNT
+
+[SG401]  // ROCKGRUNT_ATTACK
+DIR="GRUNTZ_ROCKGRUNT"
+S1="AttackA"
+S2="AttackB"
+S3="AttackC"
+S4="AttackD"
+S5="AttackE"
+S6="AttackF"
+S7="AttackV1"
+S8="AttackV2"
+S9="AttackV3"
+S10="AttackV4"
+S11="AttackV5"
+S12="AttackV6"
+S13="AttackV7"
+S14="AttackV8"
+S15="AttackV9"
+S16="AttackV10"
+
+[SG403]  // ROCKGRUNT_DEATH
+DIR="GRUNTZ_NORMALGRUNT"
+S1="DeathA"
+S2="DeathB"
+S3="DeathC"
+S4="DeathD"
+S5="DeathE"
+S6="DeathF"
+S7="DeathG"
+S8="DeathH"
+S9="DeathI"
+S10="DeathJ"
+S11="DeathK"
+S12="DeathL"
+S13="DeathM"
+S14="DeathN"
+S15="DeathO"
+S16="DeathP"
+S17="DeathQ"
+S18="DeathR"
+S19="DeathS"
+S21="DeathU"
+S22="DeathV"
+S23="DeathW"
+S24="DeathX"
+S25="DeathY"
+S26="DeathZ"
+S27="DeathZ1"
+S28="DeathZ2"
+S29="SoundDeathA"
+S30="SoundDeathB"
+S31="SoundDeathC"
+S32="SoundDeathD"
+S33="SoundDeathE"
+S34="SoundDeathF"
+S35="SoundDeathG"
+S36="SoundDeathH"
+S37="SoundDeathI"
+S38="SoundDeathJ"
+S39="SoundDeathK"
+S40="SoundDeathL"
+S41="SoundDeathM"
+S42="SoundDeathN"
+S43="SoundDeathO"
+S44="SoundDeathP"
+S45="DeathV1"
+S46="DeathV2"
+S47="DeathV3"
+S48="DeathV4"
+S49="DeathV5"
+S50="DeathV6"
+S51="DeathV7"
+S52="DeathV8"
+S53="DeathV9"
+S54="DeathV10"
+
+[SG404]  // ROCKGRUNT_IDLE1
+DIR="GRUNTZ_NORMALGRUNT"
+S1="Idle1A"
+S2="Idle1B"
+S3="Idle1C"
+S4="Idle1D"
+S5="Idle1E"
+S6="Idle1F"
+S7="Idle1G"
+S8="Idle1H"
+S9="Idle1I"
+S10="Idle1J"
+S11="Idle1V1"
+S12="Idle1V2"
+S13="Idle1V3"
+S14="Idle1V4"
+S15="Idle1V5"
+S16="Idle1V6"
+S17="Idle1V7"
+S18="Idle1V8"
+S19="Idle1V9"
+S20="Idle1V10"
+
+[SG405]  // ROCKGRUNT_IDLE2
+DIR="GRUNTZ_ROCKGRUNT"
+S1="Idle2A"
+S2="Idle2B"
+S3="Idle2D"
+S4="Idle2F"
+S5="Idle2G"
+S6="Idle2H"
+S7="Idle2V1"
+S8="Idle2V2"
+S9="Idle2V3"
+S10="Idle2V4"
+S11="Idle2V5"
+S12="Idle2V6"
+S13="Idle2V7"
+S14="Idle2V8"
+S15="Idle2V9"
+S16="Idle2V10"
+
+[SG406]  // ROCKGRUNT_IDLE3
+DIR="GRUNTZ_ROCKGRUNT"
+S1="Idle3C"
+S2="Idle3D"
+S3="Idle3E"
+S4="Idle3F"
+S5="Idle3V1"
+S6="Idle3V2"
+S7="Idle3V3"
+S8="Idle3V4"
+S9="Idle3V5"
+S10="Idle3V6"
+S11="Idle3V7"
+S12="Idle3V8"
+S13="Idle3V9"
+S14="Idle3V10"
+
+[SG407]  // ROCKGRUNT_STRUCK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="StruckA"
+S2="StruckA1"
+S3="StruckA2"
+S4="StruckA3"
+S5="StruckB"
+S6="StruckB1"
+S7="StruckB2"
+S8="StruckB3"
+S9="StruckC"
+S10="StruckC1"
+S11="StruckC2"
+S12="StruckC3"
+S13="StruckD"
+S14="StruckD1"
+S15="StruckD2"
+S16="StruckD3"
+S17="StruckE"
+S18="StruckE1"
+S19="StruckE2"
+S20="StruckE3"
+S21="StruckF"
+S22="StruckF1"
+S23="StruckF2"
+S24="StruckG"
+S25="StruckG1"
+S26="StruckG2"
+S27="StruckH"
+S28="StruckH1"
+S29="StruckH2"
+S30="StruckJ"
+S31="StruckJ1"
+S32="StruckJ2"
+S33="StruckK"
+S34="StruckL"
+S35="StruckM"
+S36="StruckN"
+S37="StruckO"
+S38="StruckP"
+S39="StruckQ"
+S40="StruckR"
+S41="StruckS"
+S42="StruckT"
+S43="StruckU"
+S44="StruckV"
+S45="StruckW"
+S46="StruckX"
+S47="StruckY"
+S48="StruckZ"
+S49="StruckZA"
+S50="StruckZC"
+S51="StruckZD"
+S52="StruckZE"
+S53="StruckV1"
+S54="StruckV2"
+S55="StruckV3"
+S56="StruckV4"
+S57="StruckV5"
+S58="StruckV6"
+S59="StruckV7"
+S60="StruckV8"
+S61="StruckV9"
+S62="StruckV10"
+
+[SG409]  // ROCKGRUNT_WALK
+DIR="GRUNTZ_ROCKGRUNT"
+S1="WalkA"
+S2="WalkC"
+S3="WalkV1"
+S4="WalkV2"
+S5="WalkV3"
+S6="WalkV4"
+S7="WalkV5"
+S8="WalkV6"
+S9="WalkV7"
+S10="WalkV8"
+S11="WalkV9"
+S12="WalkV10"
+
+//SHIELDGRUNT
+
+[SG441]  // SHIELDGRUNT_ATTACK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="AttackA"
+S2="AttackC"
+S3="AttackD"
+S4="AttackE"
+S5="AttackF"
+S6="AttackG"
+S7="AttackH"
+S8="AttackJ"
+S9="AttackL"
+S10="AttackM"
+S11="AttackN"
+S12="AttackO"
+S13="AttackP"
+S14="AttackQ"
+S15="AttackR"
+S16="AttackS"
+S17="AttackT"
+S18="AttackU"
+S19="AttackV"
+S20="AttackW"
+S21="AttackV1"
+S22="AttackV2"
+S23="AttackV3"
+S24="AttackV4"
+S25="AttackV5"
+S26="AttackV6"
+S27="AttackV7"
+S28="AttackV8"
+S29="AttackV9"
+S30="AttackV10"
+
+[SG443]  // SHIELDGRUNT_DEATH
+DIR="GRUNTZ_NORMALGRUNT"
+S1="DeathA"
+S2="DeathB"
+S3="DeathC"
+S4="DeathD"
+S5="DeathE"
+S6="DeathF"
+S7="DeathG"
+S8="DeathH"
+S9="DeathI"
+S10="DeathJ"
+S11="DeathK"
+S12="DeathL"
+S13="DeathM"
+S14="DeathN"
+S15="DeathO"
+S16="DeathP"
+S17="DeathQ"
+S18="DeathR"
+S19="DeathS"
+S21="DeathU"
+S22="DeathV"
+S23="DeathW"
+S24="DeathX"
+S25="DeathY"
+S26="DeathZ"
+S27="DeathZ1"
+S28="DeathZ2"
+S29="SoundDeathA"
+S30="SoundDeathB"
+S31="SoundDeathC"
+S32="SoundDeathD"
+S33="SoundDeathE"
+S34="SoundDeathF"
+S35="SoundDeathG"
+S36="SoundDeathH"
+S37="SoundDeathI"
+S38="SoundDeathJ"
+S39="SoundDeathK"
+S40="SoundDeathL"
+S41="SoundDeathM"
+S42="SoundDeathN"
+S43="SoundDeathO"
+S44="SoundDeathP"
+S45="DeathV1"
+S46="DeathV2"
+S47="DeathV3"
+S48="DeathV4"
+S49="DeathV5"
+S50="DeathV6"
+S51="DeathV7"
+S52="DeathV8"
+S53="DeathV9"
+S54="DeathV10"
+
+[SG444]  // SHIELDGRUNT_IDLE1
+DIR="GRUNTZ_NORMALGRUNT"
+S1="Idle1A"
+S2="Idle1B"
+S3="Idle1C"
+S4="Idle1D"
+S5="Idle1E"
+S6="Idle1F"
+S7="Idle1G"
+S8="Idle1H"
+S9="Idle1I"
+S10="Idle1J"
+S11="Idle1V1"
+S12="Idle1V2"
+S13="Idle1V3"
+S14="Idle1V4"
+S15="Idle1V5"
+S16="Idle1V6"
+S17="Idle1V7"
+S18="Idle1V8"
+S19="Idle1V9"
+S20="Idle1V10"
+
+[SG445]  // SHIELDGRUNT_IDLE2
+DIR="GRUNTZ_SHIELDGRUNT"
+S1="Idle2B"
+S2="Idle2C"
+S3="Idle2D"
+S4="Idle2F"
+S5="Idle2G"
+S6="Idle2V1"
+S7="Idle2V2"
+S8="Idle2V3"
+S9="Idle2V4"
+S10="Idle2V5"
+S11="Idle2V6"
+S12="Idle2V7"
+S13="Idle2V8"
+S14="Idle2V9"
+S15="Idle2V10"
+
+[SG446]  // SHIELDGRUNT_IDLE3
+DIR="GRUNTZ_SHIELDGRUNT"
+S1="Idle3A"
+S2="Idle3B"
+S3="Idle3C"
+S4="Idle3D"
+S5="Idle3E"
+S6="Idle3F"
+S7="Idle3V1"
+S8="Idle3V2"
+S9="Idle3V3"
+S10="Idle3V4"
+S11="Idle3V5"
+S12="Idle3V6"
+S13="Idle3V7"
+S14="Idle3V8"
+S15="Idle3V9"
+S16="Idle3V10"
+
+[SG447]  // SHIELDGRUNT_STRUCK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="StruckA"
+S2="StruckA1"
+S3="StruckA2"
+S4="StruckA3"
+S5="StruckB"
+S6="StruckB1"
+S7="StruckB2"
+S8="StruckB3"
+S9="StruckC"
+S10="StruckC1"
+S11="StruckC2"
+S12="StruckC3"
+S13="StruckD"
+S14="StruckD1"
+S15="StruckD2"
+S16="StruckD3"
+S17="StruckE"
+S18="StruckE1"
+S19="StruckE2"
+S20="StruckE3"
+S21="StruckF"
+S22="StruckF1"
+S23="StruckF2"
+S24="StruckG"
+S25="StruckG1"
+S26="StruckG2"
+S27="StruckH"
+S28="StruckH1"
+S29="StruckH2"
+S30="StruckJ"
+S31="StruckJ1"
+S32="StruckJ2"
+S33="StruckK"
+S34="StruckL"
+S35="StruckM"
+S36="StruckN"
+S37="StruckO"
+S38="StruckP"
+S39="StruckQ"
+S40="StruckR"
+S41="StruckS"
+S42="StruckT"
+S43="StruckU"
+S44="StruckV"
+S45="StruckW"
+S46="StruckX"
+S47="StruckY"
+S48="StruckZ"
+S49="StruckZA"
+S50="StruckZC"
+S51="StruckZD"
+S52="StruckZE"
+S53="StruckV1"
+S54="StruckV2"
+S55="StruckV3"
+S56="StruckV4"
+S57="StruckV5"
+S58="StruckV6"
+S59="StruckV7"
+S60="StruckV8"
+S61="StruckV9"
+S62="StruckV10"
+
+[SG449]  // SHIELDGRUNT_WALK
+DIR="GRUNTZ_SHIELDGRUNT"
+S1="WalkA"
+S2="WalkB"
+S3="WalkV1"
+S4="WalkV2"
+S5="WalkV3"
+S6="WalkV4"
+S7="WalkV5"
+S8="WalkV6"
+S9="WalkV7"
+S10="WalkV8"
+S11="WalkV9"
+S12="WalkV10"
+
+//SHOVELGRUNT
+
+[SG461]  // SHOVELGRUNT_ATTACK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="AttackA"
+S2="AttackC"
+S3="AttackD"
+S4="AttackE"
+S5="AttackF"
+S6="AttackG"
+S7="AttackH"
+S8="AttackJ"
+S9="AttackL"
+S10="AttackM"
+S11="AttackN"
+S12="AttackO"
+S13="AttackP"
+S14="AttackQ"
+S15="AttackR"
+S16="AttackS"
+S17="AttackT"
+S18="AttackU"
+S19="AttackV"
+S20="AttackW"
+S21="AttackV1"
+S22="AttackV2"
+S23="AttackV3"
+S24="AttackV4"
+S25="AttackV5"
+S26="AttackV6"
+S27="AttackV7"
+S28="AttackV8"
+S29="AttackV9"
+S30="AttackV10"
+
+[SG463]  // SHOVELGRUNT_DEATH
+DIR="GRUNTZ_NORMALGRUNT"
+S1="DeathA"
+S2="DeathB"
+S3="DeathC"
+S4="DeathD"
+S5="DeathE"
+S6="DeathF"
+S7="DeathG"
+S8="DeathH"
+S9="DeathI"
+S10="DeathJ"
+S11="DeathK"
+S12="DeathL"
+S13="DeathM"
+S14="DeathN"
+S15="DeathO"
+S16="DeathP"
+S17="DeathQ"
+S18="DeathR"
+S19="DeathS"
+S21="DeathU"
+S22="DeathV"
+S23="DeathW"
+S24="DeathX"
+S25="DeathY"
+S26="DeathZ"
+S27="DeathZ1"
+S28="DeathZ2"
+S29="SoundDeathA"
+S30="SoundDeathB"
+S31="SoundDeathC"
+S32="SoundDeathD"
+S33="SoundDeathE"
+S34="SoundDeathF"
+S35="SoundDeathG"
+S36="SoundDeathH"
+S37="SoundDeathI"
+S38="SoundDeathJ"
+S39="SoundDeathK"
+S40="SoundDeathL"
+S41="SoundDeathM"
+S42="SoundDeathN"
+S43="SoundDeathO"
+S44="SoundDeathP"
+S45="DeathV1"
+S46="DeathV2"
+S47="DeathV3"
+S48="DeathV4"
+S49="DeathV5"
+S50="DeathV6"
+S51="DeathV7"
+S52="DeathV8"
+S53="DeathV9"
+S54="DeathV10"
+
+[SG464]  // SHOVELGRUNT_IDLE1
+DIR="GRUNTZ_NORMALGRUNT"
+S1="Idle1A"
+S2="Idle1B"
+S3="Idle1C"
+S4="Idle1D"
+S5="Idle1E"
+S6="Idle1F"
+S7="Idle1G"
+S8="Idle1H"
+S9="Idle1I"
+S10="Idle1J"
+S11="Idle1V1"
+S12="Idle1V2"
+S13="Idle1V3"
+S14="Idle1V4"
+S15="Idle1V5"
+S16="Idle1V6"
+S17="Idle1V7"
+S18="Idle1V8"
+S19="Idle1V9"
+S20="Idle1V10"
+
+[SG465]  // SHOVELGRUNT_IDLE2
+DIR="GRUNTZ_SHOVELGRUNT"
+S1="Idle2A"
+S2="Idle2B"
+S3="Idle2C"
+S4="Idle2D"
+S5="Idle2E"
+S6="Idle2F"
+S7="Idle2V1"
+S8="Idle2V2"
+S9="Idle2V3"
+S10="Idle2V4"
+S11="Idle2V5"
+S12="Idle2V6"
+S13="Idle2V7"
+S14="Idle2V8"
+S15="Idle2V9"
+S16="Idle2V10"
+
+[SG466]  // SHOVELGRUNT_IDLE3
+DIR="GRUNTZ_SHOVELGRUNT"
+S1="Idle3A"
+S2="Idle3C"
+S3="Idle3C"
+S4="Idle3E"
+S5="Idle3F"
+S6="Idle3V1"
+S7="Idle3V2"
+S8="Idle3V3"
+S9="Idle3V4"
+S10="Idle3V5"
+S11="Idle3V6"
+S12="Idle3V7"
+S13="Idle3V8"
+S14="Idle3V9"
+S15="Idle3V10"
+
+[SG467]  // SHOVELGRUNT_STRUCK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="StruckA"
+S2="StruckA1"
+S3="StruckA2"
+S4="StruckA3"
+S5="StruckB"
+S6="StruckB1"
+S7="StruckB2"
+S8="StruckB3"
+S9="StruckC"
+S10="StruckC1"
+S11="StruckC2"
+S12="StruckC3"
+S13="StruckD"
+S14="StruckD1"
+S15="StruckD2"
+S16="StruckD3"
+S17="StruckE"
+S18="StruckE1"
+S19="StruckE2"
+S20="StruckE3"
+S21="StruckF"
+S22="StruckF1"
+S23="StruckF2"
+S24="StruckG"
+S25="StruckG1"
+S26="StruckG2"
+S27="StruckH"
+S28="StruckH1"
+S29="StruckH2"
+S30="StruckJ"
+S31="StruckJ1"
+S32="StruckJ2"
+S33="StruckK"
+S34="StruckL"
+S35="StruckM"
+S36="StruckN"
+S37="StruckO"
+S38="StruckP"
+S39="StruckQ"
+S40="StruckR"
+S41="StruckS"
+S42="StruckT"
+S43="StruckU"
+S44="StruckV"
+S45="StruckW"
+S46="StruckX"
+S47="StruckY"
+S48="StruckZ"
+S49="StruckZA"
+S50="StruckZC"
+S51="StruckZD"
+S52="StruckZE"
+S53="StruckV1"
+S54="StruckV2"
+S55="StruckV3"
+S56="StruckV4"
+S57="StruckV5"
+S58="StruckV6"
+S59="StruckV7"
+S60="StruckV8"
+S61="StruckV9"
+S62="StruckV10"
+
+[SG468]  // SHOVELGRUNT_ITEM
+DIR="GRUNTZ_SHOVELGRUNT"
+S1="ItemD"
+S2="ItemE"
+S3="ItemF1"
+S4="ItemF2"
+S5="ItemF3"
+S6="ItemF4"
+S7="ItemF5"
+S8="ItemF6"
+S9="ItemF7"
+S10="ItemG1"
+S11="ItemG2"
+S12="ItemH1"
+S13="ItemH2"
+S14="ItemI1"
+S15="ItemI2"
+S16="ItemL"
+S17="ItemM"
+S18="ItemN"
+S19="ItemO"
+S20="ItemV1"
+S21="ItemV2"
+S22="ItemV3"
+S23="ItemV4"
+S24="ItemV5"
+S25="ItemV6"
+S26="ItemV7"
+S27="ItemV8"
+S28="ItemV9"
+S29="ItemV10"
+
+[SG469]  // SHOVELGRUNT_WALK
+DIR="GRUNTZ_SHOVELGRUNT"
+S1="WalkA"
+S2="WalkV1"
+S3="WalkV2"
+S4="WalkV3"
+S5="WalkV4"
+S6="WalkV5"
+S7="WalkV6"
+S8="WalkV7"
+S9="WalkV8"
+S10="WalkV9"
+S11="WalkV10"
+
+//SPRINGGRUNT
+
+[SG481]  // SPRINGGRUNT_ATTACK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="AttackA"
+S2="AttackC"
+S3="AttackD"
+S4="AttackE"
+S5="AttackF"
+S6="AttackG"
+S7="AttackH"
+S8="AttackJ"
+S9="AttackL"
+S10="AttackM"
+S11="AttackN"
+S12="AttackO"
+S13="AttackP"
+S14="AttackQ"
+S15="AttackR"
+S16="AttackS"
+S17="AttackT"
+S18="AttackU"
+S19="AttackV"
+S20="AttackW"
+S21="AttackV1"
+S22="AttackV2"
+S23="AttackV3"
+S24="AttackV4"
+S25="AttackV5"
+S26="AttackV6"
+S27="AttackV7"
+S28="AttackV8"
+S29="AttackV9"
+S30="AttackV10"
+
+[SG483]  // SPRINGGRUNT_DEATH
+DIR="GRUNTZ_NORMALGRUNT"
+S1="DeathA"
+S2="DeathB"
+S3="DeathC"
+S4="DeathD"
+S5="DeathE"
+S6="DeathF"
+S7="DeathG"
+S8="DeathH"
+S9="DeathI"
+S10="DeathJ"
+S11="DeathK"
+S12="DeathL"
+S13="DeathM"
+S14="DeathN"
+S15="DeathO"
+S16="DeathP"
+S17="DeathQ"
+S18="DeathR"
+S19="DeathS"
+S21="DeathU"
+S22="DeathV"
+S23="DeathW"
+S24="DeathX"
+S25="DeathY"
+S26="DeathZ"
+S27="DeathZ1"
+S28="DeathZ2"
+S29="SoundDeathA"
+S30="SoundDeathB"
+S31="SoundDeathC"
+S32="SoundDeathD"
+S33="SoundDeathE"
+S34="SoundDeathF"
+S35="SoundDeathG"
+S36="SoundDeathH"
+S37="SoundDeathI"
+S38="SoundDeathJ"
+S39="SoundDeathK"
+S40="SoundDeathL"
+S41="SoundDeathM"
+S42="SoundDeathN"
+S43="SoundDeathO"
+S44="SoundDeathP"
+S45="DeathV1"
+S46="DeathV2"
+S47="DeathV3"
+S48="DeathV4"
+S49="DeathV5"
+S50="DeathV6"
+S51="DeathV7"
+S52="DeathV8"
+S53="DeathV9"
+S54="DeathV10"
+
+[SG484]  // SPRINGGRUNT_IDLE1
+DIR="GRUNTZ_NORMALGRUNT"
+S1="Idle1A"
+S2="Idle1B"
+S3="Idle1C"
+S4="Idle1D"
+S5="Idle1E"
+S6="Idle1F"
+S7="Idle1G"
+S8="Idle1H"
+S9="Idle1I"
+S10="Idle1J"
+S11="Idle1V1"
+S12="Idle1V2"
+S13="Idle1V3"
+S14="Idle1V4"
+S15="Idle1V5"
+S16="Idle1V6"
+S17="Idle1V7"
+S18="Idle1V8"
+S19="Idle1V9"
+S20="Idle1V10"
+
+[SG485]  // SPRINGGRUNT_IDLE2
+DIR="GRUNTZ_SPRINGGRUNT"
+S1="Idle2A1"
+S2="Idle2A2"
+S3="Idle2A3"
+S4="Idle2A4"
+S5="Idle2A5"
+S6="Idle2B1"
+S7="Idle2B2"
+S8="Idle2V1"
+S9="Idle2V2"
+S10="Idle2V3"
+S11="Idle2V4"
+S12="Idle2V5"
+S13="Idle2V6"
+S14="Idle2V7"
+S15="Idle2V8"
+S16="Idle2V9"
+S17="Idle2V10"
+
+[SG486]  // SPRINGGRUNT_IDLE3
+DIR="GRUNTZ_SPRINGGRUNT"
+S1="Idle3A1"
+S2="Idle3A2"
+S3="Idle3A3"
+S4="Idle3A4"
+S5="Idle3A5"
+S6="Idle3A6"
+S7="Idle3A7"
+S8="Idle3V1"
+S9="Idle3V2"
+S10="Idle3V3"
+S11="Idle3V4"
+S12="Idle3V5"
+S13="Idle3V6"
+S14="Idle3V7"
+S15="Idle3V8"
+S16="Idle3V9"
+S17="Idle3V10"
+
+[SG487]  // SPRINGGRUNT_STRUCK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="StruckA"
+S2="StruckA1"
+S3="StruckA2"
+S4="StruckA3"
+S5="StruckB"
+S6="StruckB1"
+S7="StruckB2"
+S8="StruckB3"
+S9="StruckC"
+S10="StruckC1"
+S11="StruckC2"
+S12="StruckC3"
+S13="StruckD"
+S14="StruckD1"
+S15="StruckD2"
+S16="StruckD3"
+S17="StruckE"
+S18="StruckE1"
+S19="StruckE2"
+S20="StruckE3"
+S21="StruckF"
+S22="StruckF1"
+S23="StruckF2"
+S24="StruckG"
+S25="StruckG1"
+S26="StruckG2"
+S27="StruckH"
+S28="StruckH1"
+S29="StruckH2"
+S30="StruckJ"
+S31="StruckJ1"
+S32="StruckJ2"
+S33="StruckK"
+S34="StruckL"
+S35="StruckM"
+S36="StruckN"
+S37="StruckO"
+S38="StruckP"
+S39="StruckQ"
+S40="StruckR"
+S41="StruckS"
+S42="StruckT"
+S43="StruckU"
+S44="StruckV"
+S45="StruckW"
+S46="StruckX"
+S47="StruckY"
+S48="StruckZ"
+S49="StruckZA"
+S50="StruckZC"
+S51="StruckZD"
+S52="StruckZE"
+S53="StruckV1"
+S54="StruckV2"
+S55="StruckV3"
+S56="StruckV4"
+S57="StruckV5"
+S58="StruckV6"
+S59="StruckV7"
+S60="StruckV8"
+S61="StruckV9"
+S62="StruckV10"
+
+[SG488]  // SPRINGGRUNT_ITEM
+DIR="GRUNTZ_SPRINGGRUNT"
+S1="ItemA"
+S2="ItemB"
+S3="ItemB2"
+S4="ItemC"
+S5="ItemC2"
+S6="ItemD"
+S7="ItemE"
+S8="ItemF"
+S9="ItemV1"
+S10="ItemV2"
+S11="ItemV3"
+S12="ItemV4"
+S13="ItemV5"
+S14="ItemV6"
+S15="ItemV7"
+S16="ItemV8"
+S17="ItemV9"
+S18="ItemV10"
+
+[SG489]  // SPRINGGRUNT_WALK
+DIR="GRUNTZ_SPRINGGRUNT"
+S1="WalkA"
+S2="WalkB"
+S3="WalkV1"
+S4="WalkV2"
+S5="WalkV3"
+S6="WalkV4"
+S7="WalkV5"
+S8="WalkV6"
+S9="WalkV7"
+S10="WalkV8"
+S11="WalkV9"
+S12="WalkV10"
+
+[SG494]  // SPRINGGRUNT_LOSEITEM
+DIR="GRUNTZ_SPRINGGRUNT"
+S1="LoseB"
+S2="LoseC"
+S3="LoseD"
+S4="LoseV1"
+S5="LoseV2"
+S6="LoseV3"
+S7="LoseV4"
+S8="LoseV5"
+S9="LoseV6"
+S10="LoseV7"
+S11="LoseV8"
+S12="LoseV9"
+S13="LoseV10"
+
+//SPYGRUNT
+
+[SG501]  // SPYGRUNT_ATTACK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="AttackA"
+S2="AttackC"
+S3="AttackD"
+S4="AttackE"
+S5="AttackF"
+S6="AttackG"
+S7="AttackH"
+S8="AttackJ"
+S9="AttackL"
+S10="AttackM"
+S11="AttackN"
+S12="AttackO"
+S13="AttackP"
+S14="AttackQ"
+S15="AttackR"
+S16="AttackS"
+S17="AttackT"
+S18="AttackU"
+S19="AttackV"
+S20="AttackW"
+S21="AttackV1"
+S22="AttackV2"
+S23="AttackV3"
+S24="AttackV4"
+S25="AttackV5"
+S26="AttackV6"
+S27="AttackV7"
+S28="AttackV8"
+S29="AttackV9"
+S30="AttackV10"
+
+[SG503]  // SPYGRUNT_DEATH
+DIR="GRUNTZ_NORMALGRUNT"
+S1="DeathA"
+S2="DeathB"
+S3="DeathC"
+S4="DeathD"
+S5="DeathE"
+S6="DeathF"
+S7="DeathG"
+S8="DeathH"
+S9="DeathI"
+S10="DeathJ"
+S11="DeathK"
+S12="DeathL"
+S13="DeathM"
+S14="DeathN"
+S15="DeathO"
+S16="DeathP"
+S17="DeathQ"
+S18="DeathR"
+S19="DeathS"
+S21="DeathU"
+S22="DeathV"
+S23="DeathW"
+S24="DeathX"
+S25="DeathY"
+S26="DeathZ"
+S27="DeathZ1"
+S28="DeathZ2"
+S29="SoundDeathA"
+S30="SoundDeathB"
+S31="SoundDeathC"
+S32="SoundDeathD"
+S33="SoundDeathE"
+S34="SoundDeathF"
+S35="SoundDeathG"
+S36="SoundDeathH"
+S37="SoundDeathI"
+S38="SoundDeathJ"
+S39="SoundDeathK"
+S40="SoundDeathL"
+S41="SoundDeathM"
+S42="SoundDeathN"
+S43="SoundDeathO"
+S44="SoundDeathP"
+S45="DeathV1"
+S46="DeathV2"
+S47="DeathV3"
+S48="DeathV4"
+S49="DeathV5"
+S50="DeathV6"
+S51="DeathV7"
+S52="DeathV8"
+S53="DeathV9"
+S54="DeathV10"
+
+[SG504]  // SPYGRUNT_IDLE1
+DIR="GRUNTZ_NORMALGRUNT"
+S1="Idle1A"
+S2="Idle1B"
+S3="Idle1C"
+S4="Idle1D"
+S5="Idle1E"
+S6="Idle1F"
+S7="Idle1G"
+S8="Idle1H"
+S9="Idle1I"
+S10="Idle1J"
+S11="Idle1V1"
+S12="Idle1V2"
+S13="Idle1V3"
+S14="Idle1V4"
+S15="Idle1V5"
+S16="Idle1V6"
+S17="Idle1V7"
+S18="Idle1V8"
+S19="Idle1V9"
+S20="Idle1V10"
+
+[SG505]  // SPYGRUNT_IDLE2
+DIR="GRUNTZ_SPYGRUNT"
+S1="Idle2A"
+S2="Idle2B"
+S3="Idle2C"
+S4="Idle2D"
+S5="Idle2E"
+S6="Idle2G"
+S7="Idle2V1"
+S8="Idle2V2"
+S9="Idle2V3"
+S10="Idle2V4"
+S11="Idle2V5"
+S12="Idle2V6"
+S13="Idle2V7"
+S14="Idle2V8"
+S15="Idle2V9"
+S16="Idle2V10"
+
+[SG506]  // SPYGRUNT_IDLE3
+DIR="GRUNTZ_SPYGRUNT"
+S1="Idle3A"
+S2="Idle3B"
+S3="Idle3C"
+S4="Idle3D"
+S5="Idle3E"
+S6="Idle3F"
+S7="Idle3V1"
+S8="Idle3V2"
+S9="Idle3V3"
+S10="Idle3V4"
+S11="Idle3V5"
+S12="Idle3V6"
+S13="Idle3V7"
+S14="Idle3V8"
+S15="Idle3V9"
+S16="Idle3V10"
+
+[SG507]  // SPYGRUNT_STRUCK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="StruckA"
+S2="StruckA1"
+S3="StruckA2"
+S4="StruckA3"
+S5="StruckB"
+S6="StruckB1"
+S7="StruckB2"
+S8="StruckB3"
+S9="StruckC"
+S10="StruckC1"
+S11="StruckC2"
+S12="StruckC3"
+S13="StruckD"
+S14="StruckD1"
+S15="StruckD2"
+S16="StruckD3"
+S17="StruckE"
+S18="StruckE1"
+S19="StruckE2"
+S20="StruckE3"
+S21="StruckF"
+S22="StruckF1"
+S23="StruckF2"
+S24="StruckG"
+S25="StruckG1"
+S26="StruckG2"
+S27="StruckH"
+S28="StruckH1"
+S29="StruckH2"
+S30="StruckJ"
+S31="StruckJ1"
+S32="StruckJ2"
+S33="StruckK"
+S34="StruckL"
+S35="StruckM"
+S36="StruckN"
+S37="StruckO"
+S38="StruckP"
+S39="StruckQ"
+S40="StruckR"
+S41="StruckS"
+S42="StruckT"
+S43="StruckU"
+S44="StruckV"
+S45="StruckW"
+S46="StruckX"
+S47="StruckY"
+S48="StruckZ"
+S49="StruckZA"
+S50="StruckZC"
+S51="StruckZD"
+S52="StruckZE"
+S53="StruckV1"
+S54="StruckV2"
+S55="StruckV3"
+S56="StruckV4"
+S57="StruckV5"
+S58="StruckV6"
+S59="StruckV7"
+S60="StruckV8"
+S61="StruckV9"
+S62="StruckV10"
+
+[SG508]  // SPYGRUNT_ITEM
+DIR="GRUNTZ_SPYGRUNT"
+S1="ItemA"
+S2="ItemB"
+S3="ItemC"
+S4="ItemD"
+S5="ItemE"
+S6="ItemF"
+S7="ItemG"
+S8="ItemH"
+S9="ItemI"
+S10="ItemJ"
+S11="ItemK"
+S12="ItemL"
+S13="ItemM"
+S14="ItemV1"
+S15="ItemV2"
+S16="ItemV3"
+S17="ItemV4"
+S18="ItemV5"
+S19="ItemV6"
+S20="ItemV7"
+S21="ItemV8"
+S22="ItemV9"
+S23="ItemV10"
+
+[SG509]  // SPYGRUNT_WALK
+DIR="GRUNTZ_SPYGRUNT"
+S1="WalkA"
+S2="WalkC"
+S3="WalkV1"
+S4="WalkV2"
+S5="WalkV3"
+S6="WalkV4"
+S7="WalkV5"
+S8="WalkV6"
+S9="WalkV7"
+S10="WalkV8"
+S11="WalkV9"
+S12="WalkV10"
+
+//SQUEAKTOYGRUNT
+
+[SG530]  // SQUEAKTOYGRUNT_TOY1
+DIR="GRUNTZ_SQUEAKTOYGRUNT"
+S1="Toy1A"
+S2="Toy1B"
+S3="Toy1C"
+S4="Toy1D"
+S5="Toy1E"
+S6="Toy1F"
+S7="Toy1V1"
+S8="Toy1V2"
+S9="Toy1V3"
+S10="Toy1V4"
+S11="Toy1V5"
+S12="Toy1V6"
+S13="Toy1V7"
+S14="Toy1V8"
+S15="Toy1V9"
+S16="Toy1V10"
+
+[SG531]  // SQUEAKTOYGRUNT_TOY2
+DIR="GRUNTZ_SQUEAKTOYGRUNT"
+S1="Toy2A1"
+S2="Toy2A2"
+S3="Toy2A3"
+S4="Toy2A4"
+S5="Toy2A5"
+S6="Toy2A6"
+S7="Toy2B1"
+S8="Toy2B2"
+S9="Toy2B3"
+S10="Toy2B4"
+S11="Toy2B5"
+S12="Toy2B6"
+S13="Toy2C1"
+S14="Toy2C2"
+S15="Toy2C3"
+S16="Toy2C4"
+S17="Toy2C5"
+S18="Toy2C6"
+S19="Toy2C7"
+S20="Toy2C8"
+S21="Toy2V1"
+S22="Toy2V2"
+S23="Toy2V3"
+S24="Toy2V4"
+S25="Toy2V5"
+S26="Toy2V6"
+S27="Toy2V7"
+S28="Toy2V8"
+S29="Toy2V9"
+S30="Toy2V10"
+
+[SG532]  // SQUEAKTOYGRUNT_BREAK
+DIR="GRUNTZ_SQUEAKTOYGRUNT"
+S1="BreakA1"
+S2="BreakA2"
+S3="BreakB3"
+S4="BreakC1"
+S5="BreakC2"
+S6="BreakC3"
+S7="BreakC4"
+S8="BreakC5"
+S9="BreakV1"
+S10="BreakV2"
+S11="BreakV3"
+S12="BreakV4"
+S13="BreakV5"
+S14="BreakV6"
+S15="BreakV7"
+S16="BreakV8"
+S17="BreakV9"
+S18="BreakV10"
+
+//SWORDGRUNT
+
+[SG541]  // SWORDGRUNT_ATTACK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="AttackA"
+S2="AttackC"
+S3="AttackD"
+S4="AttackE"
+S5="AttackF"
+S6="AttackG"
+S7="AttackH"
+S8="AttackJ"
+S9="AttackL"
+S10="AttackM"
+S11="AttackN"
+S12="AttackO"
+S13="AttackP"
+S14="AttackQ"
+S15="AttackR"
+S16="AttackS"
+S17="AttackT"
+S18="AttackU"
+S19="AttackV"
+S20="AttackW"
+S21="AttackV1"
+S22="AttackV2"
+S23="AttackV3"
+S24="AttackV4"
+S25="AttackV5"
+S26="AttackV6"
+S27="AttackV7"
+S28="AttackV8"
+S29="AttackV9"
+S30="AttackV10"
+
+[SG543]  // SWORDGRUNT_DEATH
+DIR="GRUNTZ_NORMALGRUNT"
+S1="DeathA"
+S2="DeathB"
+S3="DeathC"
+S4="DeathD"
+S5="DeathE"
+S6="DeathF"
+S7="DeathG"
+S8="DeathH"
+S9="DeathI"
+S10="DeathJ"
+S11="DeathK"
+S12="DeathL"
+S13="DeathM"
+S14="DeathN"
+S15="DeathO"
+S16="DeathP"
+S17="DeathQ"
+S18="DeathR"
+S19="DeathS"
+S21="DeathU"
+S22="DeathV"
+S23="DeathW"
+S24="DeathX"
+S25="DeathY"
+S26="DeathZ"
+S27="DeathZ1"
+S28="DeathZ2"
+S29="SoundDeathA"
+S30="SoundDeathB"
+S31="SoundDeathC"
+S32="SoundDeathD"
+S33="SoundDeathE"
+S34="SoundDeathF"
+S35="SoundDeathG"
+S36="SoundDeathH"
+S37="SoundDeathI"
+S38="SoundDeathJ"
+S39="SoundDeathK"
+S40="SoundDeathL"
+S41="SoundDeathM"
+S42="SoundDeathN"
+S43="SoundDeathO"
+S44="SoundDeathP"
+S45="DeathV1"
+S46="DeathV2"
+S47="DeathV3"
+S48="DeathV4"
+S49="DeathV5"
+S50="DeathV6"
+S51="DeathV7"
+S52="DeathV8"
+S53="DeathV9"
+S54="DeathV10"
+
+[SG544]  // SWORDGRUNT_IDLE1
+DIR="GRUNTZ_NORMALGRUNT"
+S1="Idle1A"
+S2="Idle1B"
+S3="Idle1C"
+S4="Idle1D"
+S5="Idle1E"
+S6="Idle1F"
+S7="Idle1G"
+S8="Idle1H"
+S9="Idle1I"
+S10="Idle1J"
+S11="Idle1V1"
+S12="Idle1V2"
+S13="Idle1V3"
+S14="Idle1V4"
+S15="Idle1V5"
+S16="Idle1V6"
+S17="Idle1V7"
+S18="Idle1V8"
+S19="Idle1V9"
+S20="Idle1V10"
+
+[SG545]  // SWORDGRUNT_IDLE2
+DIR="GRUNTZ_SWORDGRUNT"
+S1="Idle2A"
+S2="Idle2B"
+S3="Idle2C"
+S4="Idle2D"
+S5="Idle2V1"
+S6="Idle2V2"
+S7="Idle2V3"
+S8="Idle2V4"
+S9="Idle2V5"
+S10="Idle2V6"
+S11="Idle2V7"
+S12="Idle2V8"
+S13="Idle2V9"
+S14="Idle2V10"
+
+[SG546]  // SWORDGRUNT_IDLE3
+DIR="GRUNTZ_SWORDGRUNT"
+S1="Idle3A"
+S2="Idle3B"
+S3="Idle3C"
+S4="Idle3D1"
+S5="Idle3D2"
+S6="Idle3D3"
+S7="Idle3E1"
+S8="Idle3E2"
+S9="Idle3E3"
+S10="Idle3F1"
+S11="Idle3V1"
+S12="Idle3V2"
+S13="Idle3V3"
+S14="Idle3V4"
+S15="Idle3V5"
+S16="Idle3V6"
+S17="Idle3V7"
+S18="Idle3V8"
+S19="Idle3V9"
+S20="Idle3V10"
+
+[SG547]  // SWORDGRUNT_STRUCK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="StruckA"
+S2="StruckA1"
+S3="StruckA2"
+S4="StruckA3"
+S5="StruckB"
+S6="StruckB1"
+S7="StruckB2"
+S8="StruckB3"
+S9="StruckC"
+S10="StruckC1"
+S11="StruckC2"
+S12="StruckC3"
+S13="StruckD"
+S14="StruckD1"
+S15="StruckD2"
+S16="StruckD3"
+S17="StruckE"
+S18="StruckE1"
+S19="StruckE2"
+S20="StruckE3"
+S21="StruckF"
+S22="StruckF1"
+S23="StruckF2"
+S24="StruckG"
+S25="StruckG1"
+S26="StruckG2"
+S27="StruckH"
+S28="StruckH1"
+S29="StruckH2"
+S30="StruckJ"
+S31="StruckJ1"
+S32="StruckJ2"
+S33="StruckK"
+S34="StruckL"
+S35="StruckM"
+S36="StruckN"
+S37="StruckO"
+S38="StruckP"
+S39="StruckQ"
+S40="StruckR"
+S41="StruckS"
+S42="StruckT"
+S43="StruckU"
+S44="StruckV"
+S45="StruckW"
+S46="StruckX"
+S47="StruckY"
+S48="StruckZ"
+S49="StruckZA"
+S50="StruckZC"
+S51="StruckZD"
+S52="StruckZE"
+S53="StruckV1"
+S54="StruckV2"
+S55="StruckV3"
+S56="StruckV4"
+S57="StruckV5"
+S58="StruckV6"
+S59="StruckV7"
+S60="StruckV8"
+S61="StruckV9"
+S62="StruckV10"
+
+[SG549]  // SWORDGRUNT_WALK
+DIR="GRUNTZ_SWORDGRUNT"
+S1="WalkA"
+S2="WalkB"
+S3="WalkV1"
+S4="WalkV2"
+S5="WalkV3"
+S6="WalkV4"
+S7="WalkV5"
+S8="WalkV6"
+S9="WalkV7"
+S10="WalkV8"
+S11="WalkV9"
+S12="WalkV10"
+
+//TIMEBOMBGRUNT
+
+[SG561]  // TIMEBOMBGRUNT_ATTACK
+DIR="GRUNTZ_TIMEBOMBGRUNT"
+S1="AttackA"
+S2="AttackB"
+S3="AttackC"
+S4="AttackD"
+S5="AttackE"
+S6="AttackF"
+S7="AttackG"
+S8="AttackH"
+S9="AttackI"
+S10="AttackV1"
+S11="AttackV2"
+S12="AttackV3"
+S13="AttackV4"
+S14="AttackV5"
+S15="AttackV6"
+S16="AttackV7"
+S17="AttackV8"
+S18="AttackV9"
+S19="AttackV10"
+
+[SG563]  // TIMEBOMBGRUNT_DEATH
+DIR="GRUNTZ_NORMALGRUNT"
+S1="DeathA"
+S2="DeathB"
+S3="DeathC"
+S4="DeathD"
+S5="DeathE"
+S6="DeathF"
+S7="DeathG"
+S8="DeathH"
+S9="DeathI"
+S10="DeathJ"
+S11="DeathK"
+S12="DeathL"
+S13="DeathM"
+S14="DeathN"
+S15="DeathO"
+S16="DeathP"
+S17="DeathQ"
+S18="DeathR"
+S19="DeathS"
+S21="DeathU"
+S22="DeathV"
+S23="DeathW"
+S24="DeathX"
+S25="DeathY"
+S26="DeathZ"
+S27="DeathZ1"
+S28="DeathZ2"
+S29="SoundDeathA"
+S30="SoundDeathB"
+S31="SoundDeathC"
+S32="SoundDeathD"
+S33="SoundDeathE"
+S34="SoundDeathF"
+S35="SoundDeathG"
+S36="SoundDeathH"
+S37="SoundDeathI"
+S38="SoundDeathJ"
+S39="SoundDeathK"
+S40="SoundDeathL"
+S41="SoundDeathM"
+S42="SoundDeathN"
+S43="SoundDeathO"
+S44="SoundDeathP"
+S45="DeathV1"
+S46="DeathV2"
+S47="DeathV3"
+S48="DeathV4"
+S49="DeathV5"
+S50="DeathV6"
+S51="DeathV7"
+S52="DeathV8"
+S53="DeathV9"
+S54="DeathV10"
+
+[SG564]  // TIMEBOMBGRUNT_IDLE1
+DIR="GRUNTZ_NORMALGRUNT"
+S1="Idle1A"
+S2="Idle1B"
+S3="Idle1C"
+S4="Idle1D"
+S5="Idle1E"
+S6="Idle1F"
+S7="Idle1G"
+S8="Idle1H"
+S9="Idle1I"
+S10="Idle1J"
+S11="Idle1V1"
+S12="Idle1V2"
+S13="Idle1V3"
+S14="Idle1V4"
+S15="Idle1V5"
+S16="Idle1V6"
+S17="Idle1V7"
+S18="Idle1V8"
+S19="Idle1V9"
+S20="Idle1V10"
+
+[SG565]  // TIMEBOMBGRUNT_IDLE2
+DIR="GRUNTZ_TIMEBOMBGRUNT"
+S1="Idle2A"
+S2="Idle2B"
+S3="Idle2C"
+S4="Idle2D"
+S5="Idle2E"
+S6="Idle2F"
+S7="Idle2V1"
+S8="Idle2V2"
+S9="Idle2V3"
+S10="Idle2V4"
+S11="Idle2V5"
+S12="Idle2V6"
+S13="Idle2V7"
+S14="Idle2V8"
+S15="Idle2V9"
+S16="Idle2V10"
+
+[SG566]  // TIMEBOMBGRUNT_IDLE3
+DIR="GRUNTZ_TIMEBOMBGRUNT"
+S1="Idle3A"
+S2="Idle3C"
+S3="Idle3D"
+S4="Idle3E"
+S5="Idle3F"
+S6="Idle3V1"
+S7="Idle3V2"
+S8="Idle3V3"
+S9="Idle3V4"
+S10="Idle3V5"
+S11="Idle3V6"
+S12="Idle3V7"
+S13="Idle3V8"
+S14="Idle3V9"
+S15="Idle3V10"
+
+[SG567]  // TIMEBOMBGRUNT_STRUCK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="StruckA"
+S2="StruckA1"
+S3="StruckA2"
+S4="StruckA3"
+S5="StruckB"
+S6="StruckB1"
+S7="StruckB2"
+S8="StruckB3"
+S9="StruckC"
+S10="StruckC1"
+S11="StruckC2"
+S12="StruckC3"
+S13="StruckD"
+S14="StruckD1"
+S15="StruckD2"
+S16="StruckD3"
+S17="StruckE"
+S18="StruckE1"
+S19="StruckE2"
+S20="StruckE3"
+S21="StruckF"
+S22="StruckF1"
+S23="StruckF2"
+S24="StruckG"
+S25="StruckG1"
+S26="StruckG2"
+S27="StruckH"
+S28="StruckH1"
+S29="StruckH2"
+S30="StruckJ"
+S31="StruckJ1"
+S32="StruckJ2"
+S33="StruckK"
+S34="StruckL"
+S35="StruckM"
+S36="StruckN"
+S37="StruckO"
+S38="StruckP"
+S39="StruckQ"
+S40="StruckR"
+S41="StruckS"
+S42="StruckT"
+S43="StruckU"
+S44="StruckV"
+S45="StruckW"
+S46="StruckX"
+S47="StruckY"
+S48="StruckZ"
+S49="StruckZA"
+S50="StruckZC"
+S51="StruckZD"
+S52="StruckZE"
+S53="StruckV1"
+S54="StruckV2"
+S55="StruckV3"
+S56="StruckV4"
+S57="StruckV5"
+S58="StruckV6"
+S59="StruckV7"
+S60="StruckV8"
+S61="StruckV9"
+S62="StruckV10"
+
+[SG569]  // TIMEBOMBGRUNT_WALK
+DIR="GRUNTZ_TIMEBOMBGRUNT"
+S1="WalkA"
+S2="WalkB"
+S3="WalkV1"
+S4="WalkV2"
+S5="WalkV3"
+S6="WalkV4"
+S7="WalkV5"
+S8="WalkV6"
+S9="WalkV7"
+S10="WalkV8"
+S11="WalkV9"
+S12="WalkV10"
+
+//TOOBGRUNT
+
+[SG581]  // TOOBGRUNT_ATTACK
+DIR="GRUNTZ_TOOBGRUNT"
+S1="AttackD"
+S2="AttackE"
+S3="AttackF"
+S4="AttackV1"
+S5="AttackV2"
+S6="AttackV3"
+S7="AttackV4"
+S8="AttackV5"
+S9="AttackV6"
+S10="AttackV7"
+S11="AttackV8"
+S12="AttackV9"
+S13="AttackV10"
+
+[SG583]  // TOOBGRUNT_DEATH
+DIR="GRUNTZ_TOOBGRUNT"
+S1="DeathA1"
+S2="DeathA2"
+S3="DeathA3"
+S4="DeathB1"
+S5="DeathB2"
+S6="DeathC1"
+S7="DeathV1"
+S8="DeathV2"
+S9="DeathV3"
+S10="DeathV4"
+S11="DeathV5"
+S12="DeathV6"
+S13="DeathV7"
+S14="DeathV8"
+S15="DeathV9"
+S16="DeathV10"
+
+[SG584]  // TOOBGRUNTT_IDLE1
+DIR="GRUNTZ_NORMALGRUNT"
+S1="Idle1A"
+S2="Idle1B"
+S3="Idle1C"
+S4="Idle1D"
+S5="Idle1E"
+S6="Idle1F"
+S7="Idle1G"
+S8="Idle1H"
+S9="Idle1I"
+S10="Idle1J"
+S11="Idle1V1"
+S12="Idle1V2"
+S13="Idle1V3"
+S14="Idle1V4"
+S15="Idle1V5"
+S16="Idle1V6"
+S17="Idle1V7"
+S18="Idle1V8"
+S19="Idle1V9"
+S20="Idle1V10"
+
+[SG585]  // TOOBGRUNT_IDLE2
+DIR="GRUNTZ_TOOBGRUNT"
+S1="Idle2A"
+S2="Idle2B"
+S3="Idle2C"
+S4="Idle2D1"
+S5="Idle2E1"
+S6="Idle2V1"
+S7="Idle2V2"
+S8="Idle2V3"
+S9="Idle2V4"
+S10="Idle2V5"
+S11="Idle2V6"
+S12="Idle2V7"
+S13="Idle2V8"
+S14="Idle2V9"
+S15="Idle2V10"
+
+[SG587]  // TOOBGRUNT_STRUCK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="StruckA"
+S2="StruckA1"
+S3="StruckA2"
+S4="StruckA3"
+S5="StruckB"
+S6="StruckB1"
+S7="StruckB2"
+S8="StruckB3"
+S9="StruckC"
+S10="StruckC1"
+S11="StruckC2"
+S12="StruckC3"
+S13="StruckD"
+S14="StruckD1"
+S15="StruckD2"
+S16="StruckD3"
+S17="StruckE"
+S18="StruckE1"
+S19="StruckE2"
+S20="StruckE3"
+S21="StruckF"
+S22="StruckF1"
+S23="StruckF2"
+S24="StruckG"
+S25="StruckG1"
+S26="StruckG2"
+S27="StruckH"
+S28="StruckH1"
+S29="StruckH2"
+S30="StruckJ"
+S31="StruckJ1"
+S32="StruckJ2"
+S33="StruckK"
+S34="StruckL"
+S35="StruckM"
+S36="StruckN"
+S37="StruckO"
+S38="StruckP"
+S39="StruckQ"
+S40="StruckR"
+S41="StruckS"
+S42="StruckT"
+S43="StruckU"
+S44="StruckV"
+S45="StruckW"
+S46="StruckX"
+S47="StruckY"
+S48="StruckZ"
+S49="StruckZA"
+S50="StruckZC"
+S51="StruckZD"
+S52="StruckZE"
+S53="StruckV1"
+S54="StruckV2"
+S55="StruckV3"
+S56="StruckV4"
+S57="StruckV5"
+S58="StruckV6"
+S59="StruckV7"
+S60="StruckV8"
+S61="StruckV9"
+S62="StruckV10"
+
+[SG588]  // TOOBGRUNT_ITEM
+DIR="GRUNTZ_TOOBGRUNT"
+S1="ItemA"
+S2="ItemB"
+S3="ItemC"
+S4="ItemF"
+S5="ItemE"
+S6="ItemF"
+S7="ItemV1"
+S8="ItemV2"
+S9="ItemV3"
+S10="ItemV4"
+S11="ItemV5"
+S12="ItemV6"
+S13="ItemV7"
+S14="ItemV8"
+S15="ItemV9"
+S16="ItemV10"
+
+[SG589]  // TOOBGRUNT_WALK
+DIR="GRUNTZ_TOOBGRUNT"
+S1="WalkA"
+S2="WalkV1"
+S3="WalkV2"
+S4="WalkV3"
+S5="WalkV4"
+S6="WalkV5"
+S7="WalkV6"
+S8="WalkV7"
+S9="WalkV8"
+S10="WalkV9"
+S11="WalkV10"
+
+[SG594]  // TOOBGRUNT_LOSEITEM
+DIR="GRUNTZ_TOOBGRUNT"
+S1="LoseA"
+S2="LoseB"
+S3="LoseC"
+S4="LoseF"
+S5="LoseE"
+S6="LoseF"
+S7="LoseG"
+S8="LoseV1"
+S9="LoseV2"
+S10="LoseV3"
+S11="LoseV4"
+S12="LoseV5"
+S13="LoseV6"
+S14="LoseV7"
+S15="LoseV8"
+S16="LoseV9"
+S17="LoseV10"
+
+//TOOBWATERGRUNT
+
+[SG601]  // TOOBWATERGRUNT_ATTACK
+DIR="GRUNTZ_TOOBWATERGRUNT"
+S1="AttackA"
+S2="AttackB"
+S3="AttackC"
+S4="AttackD"
+S5="AttackE"
+S6="AttackF"
+S7="AttackV1"
+S8="AttackV2"
+S9="AttackV3"
+S10="AttackV4"
+S11="AttackV5"
+S12="AttackV6"
+S13="AttackV7"
+S14="AttackV8"
+S15="AttackV9"
+S16="AttackV10"
+
+[SG603]  // TOOBWATERGRUNT_DEATH
+DIR="GRUNTZ_TOOBWATERGRUNT"
+S1="DeathA"
+S2="DeathC2"
+S3="DeathD"
+S4="DeathE"
+S5="DeathV1"
+S6="DeathV2"
+S7="DeathV3"
+S8="DeathV4"
+S9="DeathV5"
+S10="DeathV6"
+S11="DeathV7"
+S12="DeathV8"
+S13="DeathV9"
+S14="DeathV10"
+
+[SG604]  // TOOBWATERGRUNT_IDLE1
+DIR="GRUNTZ_NORMALGRUNT"
+S1="Idle1A"
+S2="Idle1B"
+S3="Idle1C"
+S4="Idle1D"
+S5="Idle1E"
+S6="Idle1F"
+S7="Idle1G"
+S8="Idle1H"
+S9="Idle1I"
+S10="Idle1J"
+S11="Idle1V1"
+S12="Idle1V2"
+S13="Idle1V3"
+S14="Idle1V4"
+S15="Idle1V5"
+S16="Idle1V6"
+S17="Idle1V7"
+S18="Idle1V8"
+S19="Idle1V9"
+S20="Idle1V10"
+
+[SG605]  // TOOBWATERGRUNT_IDLE2
+DIR="GRUNTZ_TOOBWATERGRUNT"
+S1="Idle2A"
+S2="Idle2B"
+S3="Idle2C"
+S4="Idle2D"
+S5="Idle2E"
+S6="Idle2V1"
+S7="Idle2V2"
+S8="Idle2V3"
+S9="Idle2V4"
+S10="Idle2V5"
+S11="Idle2V6"
+S12="Idle2V7"
+S13="Idle2V8"
+S14="Idle2V9"
+S15="Idle2V10"
+
+[SG607]  // TOOBWATERGRUNT_STRUCK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="StruckA"
+S2="StruckA1"
+S3="StruckA2"
+S4="StruckA3"
+S5="StruckB"
+S6="StruckB1"
+S7="StruckB2"
+S8="StruckB3"
+S9="StruckC"
+S10="StruckC1"
+S11="StruckC2"
+S12="StruckC3"
+S13="StruckD"
+S14="StruckD1"
+S15="StruckD2"
+S16="StruckD3"
+S17="StruckE"
+S18="StruckE1"
+S19="StruckE2"
+S20="StruckE3"
+S21="StruckF"
+S22="StruckF1"
+S23="StruckF2"
+S24="StruckG"
+S25="StruckG1"
+S26="StruckG2"
+S27="StruckH"
+S28="StruckH1"
+S29="StruckH2"
+S30="StruckJ"
+S31="StruckJ1"
+S32="StruckJ2"
+S33="StruckK"
+S34="StruckL"
+S35="StruckM"
+S36="StruckN"
+S37="StruckO"
+S38="StruckP"
+S39="StruckQ"
+S40="StruckR"
+S41="StruckS"
+S42="StruckT"
+S43="StruckU"
+S44="StruckV"
+S45="StruckW"
+S46="StruckX"
+S47="StruckY"
+S48="StruckZ"
+S49="StruckZA"
+S50="StruckZC"
+S51="StruckZD"
+S52="StruckZE"
+S53="StruckV1"
+S54="StruckV2"
+S55="StruckV3"
+S56="StruckV4"
+S57="StruckV5"
+S58="StruckV6"
+S59="StruckV7"
+S60="StruckV8"
+S61="StruckV9"
+S62="StruckV10"
+
+[SG608]  // TOOBWATERGRUNT_ITEM
+DIR="GRUNTZ_TOOBWATERGRUNT"
+S1="ItemA"
+S2="ItemB"
+S3="ItemC"
+S4="ItemD"
+S5="ItemE"
+S6="ItemF"
+S7="ItemV1"
+S8="ItemV2"
+S9="ItemV3"
+S10="ItemV4"
+S11="ItemV5"
+S12="ItemV6"
+S13="ItemV7"
+S14="ItemV8"
+S15="ItemV9"
+S16="ItemV10"
+
+[SG609]  // TOOBWATERGRUNT_WALK
+DIR="GRUNTZ_TOOBWATERGRUNT"
+S1="WalkA"
+S2="WalkB"
+S3="WalkC"
+S4="WalkV1"
+S5="WalkV2"
+S6="WalkV3"
+S7="WalkV4"
+S8="WalkV5"
+S9="WalkV6"
+S10="WalkV7"
+S11="WalkV8"
+S12="WalkV9"
+S13="WalkV10"
+
+//WANDGRUNT
+
+[SG621]  // WANDGRUNT_ATTACK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="AttackA"
+S2="AttackC"
+S3="AttackD"
+S4="AttackE"
+S5="AttackF"
+S6="AttackG"
+S7="AttackH"
+S8="AttackJ"
+S9="AttackL"
+S10="AttackM"
+S11="AttackN"
+S12="AttackO"
+S13="AttackP"
+S14="AttackQ"
+S15="AttackR"
+S16="AttackS"
+S17="AttackT"
+S18="AttackU"
+S19="AttackV"
+S20="AttackW"
+S21="AttackV1"
+S22="AttackV2"
+S23="AttackV3"
+S24="AttackV4"
+S25="AttackV5"
+S26="AttackV6"
+S27="AttackV7"
+S28="AttackV8"
+S29="AttackV9"
+S30="AttackV10"
+
+[SG623]  // WANDGRUNT_DEATH
+DIR="GRUNTZ_WANDGRUNT"
+S1="DeathA1"
+S2="DeathA2"
+S3="DeathA3"
+S4="DeathB1"
+S5="DeathB2"
+S6="DeathC4"
+S7="DeathC5"
+S8="DeathC6"
+S9="DeathC7"
+S10="DeathV1"
+S11="DeathV2"
+S12="DeathV3"
+S13="DeathV4"
+S14="DeathV5"
+S15="DeathV6"
+S16="DeathV7"
+S17="DeathV8"
+S18="DeathV9"
+S19="DeathV10"
+
+[SG624]  // WANDGRUNT_IDLE1
+DIR="GRUNTZ_NORMALGRUNT"
+S1="Idle1A"
+S2="Idle1B"
+S3="Idle1C"
+S4="Idle1D"
+S5="Idle1E"
+S6="Idle1F"
+S7="Idle1G"
+S8="Idle1H"
+S9="Idle1I"
+S10="Idle1J"
+S11="Idle1V1"
+S12="Idle1V2"
+S13="Idle1V3"
+S14="Idle1V4"
+S15="Idle1V5"
+S16="Idle1V6"
+S17="Idle1V7"
+S18="Idle1V8"
+S19="Idle1V9"
+S20="Idle1V10"
+
+[SG625]  // WANDGRUNT_IDLE2
+DIR="GRUNTZ_WANDGRUNT"
+S1="Idle2A"
+S2="Idle2B"
+S3="Idle2D"
+S4="Idle2E"
+S5="Idle2V1"
+S6="Idle2V2"
+S7="Idle2V3"
+S8="Idle2V4"
+S9="Idle2V5"
+S10="Idle2V6"
+S11="Idle2V7"
+S12="Idle2V8"
+S13="Idle2V9"
+S14="Idle2V10"
+
+[SG626]  // WANDGRUNT_IDLE3
+DIR="GRUNTZ_WANDGRUNT"
+S1="Idle3A"
+S2="Idle3B"
+S3="Idle3C"
+S4="Idle3V1"
+S5="Idle3V2"
+S6="Idle3V3"
+S7="Idle3V4"
+S8="Idle3V5"
+S9="Idle3V6"
+S10="Idle3V7"
+S11="Idle3V8"
+S12="Idle3V9"
+S13="Idle3V10"
+
+[SG627]  // WANDGRUNT_STRUCK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="StruckA"
+S2="StruckA1"
+S3="StruckA2"
+S4="StruckA3"
+S5="StruckB"
+S6="StruckB1"
+S7="StruckB2"
+S8="StruckB3"
+S9="StruckC"
+S10="StruckC1"
+S11="StruckC2"
+S12="StruckC3"
+S13="StruckD"
+S14="StruckD1"
+S15="StruckD2"
+S16="StruckD3"
+S17="StruckE"
+S18="StruckE1"
+S19="StruckE2"
+S20="StruckE3"
+S21="StruckF"
+S22="StruckF1"
+S23="StruckF2"
+S24="StruckG"
+S25="StruckG1"
+S26="StruckG2"
+S27="StruckH"
+S28="StruckH1"
+S29="StruckH2"
+S30="StruckJ"
+S31="StruckJ1"
+S32="StruckJ2"
+S33="StruckK"
+S34="StruckL"
+S35="StruckM"
+S36="StruckN"
+S37="StruckO"
+S38="StruckP"
+S39="StruckQ"
+S40="StruckR"
+S41="StruckS"
+S42="StruckT"
+S43="StruckU"
+S44="StruckV"
+S45="StruckW"
+S46="StruckX"
+S47="StruckY"
+S48="StruckZ"
+S49="StruckZA"
+S50="StruckZC"
+S51="StruckZD"
+S52="StruckZE"
+S53="StruckV1"
+S54="StruckV2"
+S55="StruckV3"
+S56="StruckV4"
+S57="StruckV5"
+S58="StruckV6"
+S59="StruckV7"
+S60="StruckV8"
+S61="StruckV9"
+S62="StruckV10"
+
+[SG629]  // WANDGRUNT_WALK
+DIR="GRUNTZ_WANDGRUNT"
+S1="WalkA"
+S2="WalkV1"
+S3="WalkV2"
+S4="WalkV3"
+S5="WalkV4"
+S6="WalkV5"
+S7="WalkV6"
+S8="WalkV7"
+S9="WalkV8"
+S10="WalkV9"
+S11="WalkV10"
+
+//WARPSTONEGRUNT
+
+[SG641]  // WARPSTONEGRUNT_ATTACK
+DIR="GRUNTZ_WARPSTONEGRUNT"
+S1="AttackA"
+S2="AttackB"
+S3="AttackC"
+S4="AttackD"
+S5="AttackE"
+S6="AttackF"
+S7="AttackV1"
+S8="AttackV2"
+S9="AttackV3"
+S10="AttackV4"
+S11="AttackV5"
+S12="AttackV6"
+S13="AttackV7"
+S14="AttackV8"
+S15="AttackV9"
+S16="AttackV10"
+
+[SG643]  // WARPSTONEGRUNT_DEATH
+DIR="GRUNTZ_NORMALGRUNT"
+S1="DeathA"
+S2="DeathB"
+S3="DeathC"
+S4="DeathD"
+S5="DeathE"
+S6="DeathF"
+S7="DeathG"
+S8="DeathH"
+S9="DeathI"
+S10="DeathJ"
+S11="DeathK"
+S12="DeathL"
+S13="DeathM"
+S14="DeathN"
+S15="DeathO"
+S16="DeathP"
+S17="DeathQ"
+S18="DeathR"
+S19="DeathS"
+S21="DeathU"
+S22="DeathV"
+S23="DeathW"
+S24="DeathX"
+S25="DeathY"
+S26="DeathZ"
+S27="DeathZ1"
+S28="DeathZ2"
+S29="SoundDeathA"
+S30="SoundDeathB"
+S31="SoundDeathC"
+S32="SoundDeathD"
+S33="SoundDeathE"
+S34="SoundDeathF"
+S35="SoundDeathG"
+S36="SoundDeathH"
+S37="SoundDeathI"
+S38="SoundDeathJ"
+S39="SoundDeathK"
+S40="SoundDeathL"
+S41="SoundDeathM"
+S42="SoundDeathN"
+S43="SoundDeathO"
+S44="SoundDeathP"
+S45="DeathV1"
+S46="DeathV2"
+S47="DeathV3"
+S48="DeathV4"
+S49="DeathV5"
+S50="DeathV6"
+S51="DeathV7"
+S52="DeathV8"
+S53="DeathV9"
+S54="DeathV10"
+
+[SG644]  // WARPSTONEGRUNT_IDLE1
+DIR="GRUNTZ_NORMALGRUNT"
+S1="Idle1A"
+S2="Idle1B"
+S3="Idle1C"
+S4="Idle1D"
+S5="Idle1E"
+S6="Idle1F"
+S7="Idle1G"
+S8="Idle1H"
+S9="Idle1I"
+S10="Idle1J"
+S11="Idle1V1"
+S12="Idle1V2"
+S13="Idle1V3"
+S14="Idle1V4"
+S15="Idle1V5"
+S16="Idle1V6"
+S17="Idle1V7"
+S18="Idle1V8"
+S19="Idle1V9"
+S20="Idle1V10"
+
+[SG645]  // WARPSTONEGRUNT_IDLE2
+DIR="GRUNTZ_WARPSTONEGRUNT"
+S1="Idle2A"
+S2="Idle2B"
+S3="Idle2C"
+S4="Idle2D"
+S5="Idle2E"
+S6="Idle2F"
+S7="Idle2V1"
+S8="Idle2V2"
+S9="Idle2V3"
+S10="Idle2V4"
+S11="Idle2V5"
+S12="Idle2V6"
+S13="Idle2V7"
+S14="Idle2V8"
+S15="Idle2V9"
+S16="Idle2V10"
+
+[SG646]  // WARPSTONEGRUNT_IDLE3
+DIR="GRUNTZ_WARPSTONEGRUNT"
+S1="Idle3A"
+S2="Idle3B"
+S3="Idle3C"
+S4="Idle3D"
+S5="Idle3E"
+S6="Idle3F"
+S7="Idle3V1"
+S8="Idle3V2"
+S9="Idle3V3"
+S10="Idle3V4"
+S11="Idle3V5"
+S12="Idle3V6"
+S13="Idle3V7"
+S14="Idle3V8"
+S15="Idle3V9"
+S16="Idle3V10"
+
+[SG647]  // WARPSTONEGRUNT_STRUCK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="StruckA"
+S2="StruckA1"
+S3="StruckA2"
+S4="StruckA3"
+S5="StruckB"
+S6="StruckB1"
+S7="StruckB2"
+S8="StruckB3"
+S9="StruckC"
+S10="StruckC1"
+S11="StruckC2"
+S12="StruckC3"
+S13="StruckD"
+S14="StruckD1"
+S15="StruckD2"
+S16="StruckD3"
+S17="StruckE"
+S18="StruckE1"
+S19="StruckE2"
+S20="StruckE3"
+S21="StruckF"
+S22="StruckF1"
+S23="StruckF2"
+S24="StruckG"
+S25="StruckG1"
+S26="StruckG2"
+S27="StruckH"
+S28="StruckH1"
+S29="StruckH2"
+S30="StruckJ"
+S31="StruckJ1"
+S32="StruckJ2"
+S33="StruckK"
+S34="StruckL"
+S35="StruckM"
+S36="StruckN"
+S37="StruckO"
+S38="StruckP"
+S39="StruckQ"
+S40="StruckR"
+S41="StruckS"
+S42="StruckT"
+S43="StruckU"
+S44="StruckV"
+S45="StruckW"
+S46="StruckX"
+S47="StruckY"
+S48="StruckZ"
+S49="StruckZA"
+S50="StruckZC"
+S51="StruckZD"
+S52="StruckZE"
+S53="StruckV1"
+S54="StruckV2"
+S55="StruckV3"
+S56="StruckV4"
+S57="StruckV5"
+S58="StruckV6"
+S59="StruckV7"
+S60="StruckV8"
+S61="StruckV9"
+S62="StruckV10"
+
+[SG649]  // WARPSTONEGRUNT_WALK
+DIR="GRUNTZ_WARPSTONEGRUNT"
+S1="WalkA"
+S2="WalkB"
+S3="WalkD"
+S4="WalkV1"
+S5="WalkV2"
+S6="WalkV3"
+S7="WalkV4"
+S8="WalkV5"
+S9="WalkV6"
+S10="WalkV7"
+S11="WalkV8"
+S12="WalkV9"
+S13="WalkV10"
+
+//WELDERGRUNT
+
+[SG661]  // WELDERGRUNT_ATTACK
+DIR="GRUNTZ_WELDERGRUNT"
+S1="AttackA"
+S2="AttackB"
+S3="AttackC"
+S4="AttackD"
+S5="AttackE"
+S6="AttackF"
+S7="AttackV1"
+S8="AttackV2"
+S9="AttackV3"
+S10="AttackV4"
+S11="AttackV5"
+S12="AttackV6"
+S13="AttackV7"
+S14="AttackV8"
+S15="AttackV9"
+S16="AttackV10"
+
+[SG662]  // WELDERGRUNT_ATTACKIDLE
+DIR="GRUNTZ_WELDERGRUNT"
+S1="AttackIdleA"
+S2="AttackIdleB"
+S3="AttackIdleC"
+S4="AttackIdleD"
+S5="AttackIdleE"
+S6="AttackIdleF"
+S7="AttackIdleV1"
+S8="AttackIdleV2"
+S9="AttackIdleV3"
+S10="AttackIdleV4"
+S11="AttackIdleV5"
+S12="AttackIdleV6"
+S13="AttackIdleV7"
+S14="AttackIdleV8"
+S15="AttackIdleV9"
+S16="AttackIdleV10"
+
+[SG663]  // WELDERGRUNT_DEATH
+DIR="GRUNTZ_NORMALGRUNT"
+S1="DeathA"
+S2="DeathB"
+S3="DeathC"
+S4="DeathD"
+S5="DeathE"
+S6="DeathF"
+S7="DeathG"
+S8="DeathH"
+S9="DeathI"
+S10="DeathJ"
+S11="DeathK"
+S12="DeathL"
+S13="DeathM"
+S14="DeathN"
+S15="DeathO"
+S16="DeathP"
+S17="DeathQ"
+S18="DeathR"
+S19="DeathS"
+S21="DeathU"
+S22="DeathV"
+S23="DeathW"
+S24="DeathX"
+S25="DeathY"
+S26="DeathZ"
+S27="DeathZ1"
+S28="DeathZ2"
+S29="SoundDeathA"
+S30="SoundDeathB"
+S31="SoundDeathC"
+S32="SoundDeathD"
+S33="SoundDeathE"
+S34="SoundDeathF"
+S35="SoundDeathG"
+S36="SoundDeathH"
+S37="SoundDeathI"
+S38="SoundDeathJ"
+S39="SoundDeathK"
+S40="SoundDeathL"
+S41="SoundDeathM"
+S42="SoundDeathN"
+S43="SoundDeathO"
+S44="SoundDeathP"
+S45="DeathV1"
+S46="DeathV2"
+S47="DeathV3"
+S48="DeathV4"
+S49="DeathV5"
+S50="DeathV6"
+S51="DeathV7"
+S52="DeathV8"
+S53="DeathV9"
+S54="DeathV10"
+
+[SG664]  // WELDERGRUNT_IDLE1
+DIR="GRUNTZ_NORMALGRUNT"
+S1="Idle1A"
+S2="Idle1B"
+S3="Idle1C"
+S4="Idle1D"
+S5="Idle1E"
+S6="Idle1F"
+S7="Idle1G"
+S8="Idle1H"
+S9="Idle1I"
+S10="Idle1J"
+S11="Idle1V1"
+S12="Idle1V2"
+S13="Idle1V3"
+S14="Idle1V4"
+S15="Idle1V5"
+S16="Idle1V6"
+S17="Idle1V7"
+S18="Idle1V8"
+S19="Idle1V9"
+S20="Idle1V10"
+
+[SG665]  // WELDERGRUNT_IDLE2
+DIR="GRUNTZ_WELDERGRUNT"
+S1="Idle2A"
+S2="Idle2B"
+S3="Idle2C"
+S4="Idle2D"
+S5="Idle2F"
+S6="Idle2V1"
+S7="Idle2V2"
+S8="Idle2V3"
+S9="Idle2V4"
+S10="Idle2V5"
+S11="Idle2V6"
+S12="Idle2V7"
+S13="Idle2V8"
+S14="Idle2V9"
+S15="Idle2V10"
+
+[SG666]  // WELDERGRUNT_IDLE3
+DIR="GRUNTZ_WELDERGRUNT"
+S1="Idle3A"
+S2="Idle3B"
+S3="Idle3C"
+S4="Idle3D"
+S5="Idle3E"
+S6="Idle3F"
+S7="Idle3V1"
+S8="Idle3V2"
+S9="Idle3V3"
+S10="Idle3V4"
+S11="Idle3V5"
+S12="Idle3V6"
+S13="Idle3V7"
+S14="Idle3V8"
+S15="Idle3V9"
+S16="Idle3V10"
+
+[SG667]  // WELDERGRUNT_STRUCK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="StruckA"
+S2="StruckA1"
+S3="StruckA2"
+S4="StruckA3"
+S5="StruckB"
+S6="StruckB1"
+S7="StruckB2"
+S8="StruckB3"
+S9="StruckC"
+S10="StruckC1"
+S11="StruckC2"
+S12="StruckC3"
+S13="StruckD"
+S14="StruckD1"
+S15="StruckD2"
+S16="StruckD3"
+S17="StruckE"
+S18="StruckE1"
+S19="StruckE2"
+S20="StruckE3"
+S21="StruckF"
+S22="StruckF1"
+S23="StruckF2"
+S24="StruckG"
+S25="StruckG1"
+S26="StruckG2"
+S27="StruckH"
+S28="StruckH1"
+S29="StruckH2"
+S30="StruckJ"
+S31="StruckJ1"
+S32="StruckJ2"
+S33="StruckK"
+S34="StruckL"
+S35="StruckM"
+S36="StruckN"
+S37="StruckO"
+S38="StruckP"
+S39="StruckQ"
+S40="StruckR"
+S41="StruckS"
+S42="StruckT"
+S43="StruckU"
+S44="StruckV"
+S45="StruckW"
+S46="StruckX"
+S47="StruckY"
+S48="StruckZ"
+S49="StruckZA"
+S50="StruckZC"
+S51="StruckZD"
+S52="StruckZE"
+S53="StruckV1"
+S54="StruckV2"
+S55="StruckV3"
+S56="StruckV4"
+S57="StruckV5"
+S58="StruckV6"
+S59="StruckV7"
+S60="StruckV8"
+S61="StruckV9"
+S62="StruckV10"
+
+[SG669]  // WELDERGRUNT_WALK
+DIR="GRUNTZ_WELDERGRUNT"
+S1="WalkA"
+S2="WalkB"
+S3="WalkV1"
+S4="WalkV2"
+S5="WalkV3"
+S6="WalkV4"
+S7="WalkV5"
+S8="WalkV6"
+S9="WalkV7"
+S10="WalkV8"
+S11="WalkV9"
+S12="WalkV10"
+
+//WINGZGRUNT
+
+[SG681]  // WINGZGRUNT_ATTACK
+DIR="GRUNTZ_WINGZGRUNT"
+S1="AttackA"
+S2="AttackB"
+S3="AttackC"
+S4="AttackD"
+S5="AttackE"
+S6="AttackF"
+S7="AttackV1"
+S8="AttackV2"
+S9="AttackV3"
+S10="AttackV4"
+S11="AttackV5"
+S12="AttackV6"
+S13="AttackV7"
+S14="AttackV8"
+S15="AttackV9"
+S16="AttackV10"
+
+[SG682]  // WINGZGRUNT_ATTACKIDLE
+DIR="GRUNTZ_WINGZGRUNT"
+S1="AttackIdleA"
+S2="AttackIdleB"
+S3="AttackIdleC"
+S4="AttackIdleD"
+S5="AttackIdleE"
+S6="AttackIdleF"
+S7="AttackIdleV1"
+S8="AttackIdleV2"
+S9="AttackIdleV3"
+S10="AttackIdleV4"
+S11="AttackIdleV5"
+S12="AttackIdleV6"
+S13="AttackIdleV7"
+S14="AttackIdleV8"
+S15="AttackIdleV9"
+S16="AttackIdleV10"
+
+[SG683]  // WINGZGRUNT_DEATH
+DIR="GRUNTZ_NORMALGRUNT"
+S1="DeathA"
+S2="DeathB"
+S3="DeathC"
+S4="DeathD"
+S5="DeathE"
+S6="DeathF"
+S7="DeathG"
+S8="DeathH"
+S9="DeathI"
+S10="DeathJ"
+S11="DeathK"
+S12="DeathL"
+S13="DeathM"
+S14="DeathN"
+S15="DeathO"
+S16="DeathP"
+S17="DeathQ"
+S18="DeathR"
+S19="DeathS"
+S21="DeathU"
+S22="DeathV"
+S23="DeathW"
+S24="DeathX"
+S25="DeathY"
+S26="DeathZ"
+S27="DeathZ1"
+S28="DeathZ2"
+S29="SoundDeathA"
+S30="SoundDeathB"
+S31="SoundDeathC"
+S32="SoundDeathD"
+S33="SoundDeathE"
+S34="SoundDeathF"
+S35="SoundDeathG"
+S36="SoundDeathH"
+S37="SoundDeathI"
+S38="SoundDeathJ"
+S39="SoundDeathK"
+S40="SoundDeathL"
+S41="SoundDeathM"
+S42="SoundDeathN"
+S43="SoundDeathO"
+S44="SoundDeathP"
+S45="DeathV1"
+S46="DeathV2"
+S47="DeathV3"
+S48="DeathV4"
+S49="DeathV5"
+S50="DeathV6"
+S51="DeathV7"
+S52="DeathV8"
+S53="DeathV9"
+S54="DeathV10"
+
+[SG684]  // WINGZGRUNT_IDLE1
+DIR="GRUNTZ_NORMALGRUNT"
+S1="Idle1A"
+S2="Idle1B"
+S3="Idle1C"
+S4="Idle1D"
+S5="Idle1E"
+S6="Idle1F"
+S7="Idle1G"
+S8="Idle1H"
+S9="Idle1I"
+S10="Idle1J"
+S11="Idle1V1"
+S12="Idle1V2"
+S13="Idle1V3"
+S14="Idle1V4"
+S15="Idle1V5"
+S16="Idle1V6"
+S17="Idle1V7"
+S18="Idle1V8"
+S19="Idle1V9"
+S20="Idle1V10"
+
+[SG685]  // WINGZGRUNT_IDLE2
+DIR="GRUNTZ_WINGZGRUNT"
+S1="Idle2A"
+S2="Idle2B"
+S3="Idle2C"
+S4="Idle2D"
+S5="Idle2E"
+S6="Idle2F"
+S7="Idle2G"
+S8="Idle2V1"
+S9="Idle2V2"
+S10="Idle2V3"
+S11="Idle2V4"
+S12="Idle2V5"
+S13="Idle2V6"
+S14="Idle2V7"
+S15="Idle2V8"
+S16="Idle2V9"
+S17="Idle2V10"
+
+[SG686]  // WINGZGRUNT_IDLE3
+DIR="GRUNTZ_WINGZGRUNT"
+S1="Idle3A"
+S2="Idle3B"
+S3="Idle3C"
+S4="Idle3D"
+S5="Idle3E"
+S6="Idle3F"
+S7="Idle3V1"
+S8="Idle3V2"
+S9="Idle3V3"
+S10="Idle3V4"
+S11="Idle3V5"
+S12="Idle3V6"
+S13="Idle3V7"
+S14="Idle3V8"
+S15="Idle3V9"
+S16="Idle3V10"
+
+[SG687]  // WINGZGRUNT_STRUCK
+DIR="GRUNTZ_NORMALGRUNT"
+S1="StruckA"
+S2="StruckA1"
+S3="StruckA2"
+S4="StruckA3"
+S5="StruckB"
+S6="StruckB1"
+S7="StruckB2"
+S8="StruckB3"
+S9="StruckC"
+S10="StruckC1"
+S11="StruckC2"
+S12="StruckC3"
+S13="StruckD"
+S14="StruckD1"
+S15="StruckD2"
+S16="StruckD3"
+S17="StruckE"
+S18="StruckE1"
+S19="StruckE2"
+S20="StruckE3"
+S21="StruckF"
+S22="StruckF1"
+S23="StruckF2"
+S24="StruckG"
+S25="StruckG1"
+S26="StruckG2"
+S27="StruckH"
+S28="StruckH1"
+S29="StruckH2"
+S30="StruckJ"
+S31="StruckJ1"
+S32="StruckJ2"
+S33="StruckK"
+S34="StruckL"
+S35="StruckM"
+S36="StruckN"
+S37="StruckO"
+S38="StruckP"
+S39="StruckQ"
+S40="StruckR"
+S41="StruckS"
+S42="StruckT"
+S43="StruckU"
+S44="StruckV"
+S45="StruckW"
+S46="StruckX"
+S47="StruckY"
+S48="StruckZ"
+S49="StruckZA"
+S50="StruckZC"
+S51="StruckZD"
+S52="StruckZE"
+S53="StruckV1"
+S54="StruckV2"
+S55="StruckV3"
+S56="StruckV4"
+S57="StruckV5"
+S58="StruckV6"
+S59="StruckV7"
+S60="StruckV8"
+S61="StruckV9"
+S62="StruckV10"
+
+[SG688]  // WINGZGRUNT_ITEM
+Per=100
+DIR="GRUNTZ_WINGZGRUNT"
+S1="ItemA"
+S2="ItemC"
+S3="ItemD"
+S4="ItemE"
+S5="ItemF"
+S6="ItemG"
+S7="ItemH"
+S8="ItemI"
+S9="ItemJ"
+S10="ItemK"
+S11="ItemV1"
+S12="ItemV2"
+S13="ItemV3"
+S14="ItemV4"
+S15="ItemV5"
+S16="ItemV6"
+S17="ItemV7"
+S18="ItemV8"
+S19="ItemV9"
+S20="ItemV10"
+
+[SG689]  // WINGZGRUNT_WALK
+DIR="GRUNTZ_WINGZGRUNT"
+S1="WalkA"
+S2="WalkV1"
+S3="WalkV2"
+S4="WalkV3"
+S5="WalkV4"
+S6="WalkV5"
+S7="WalkV6"
+S8="WalkV7"
+S9="WalkV8"
+S10="WalkV9"
+S11="WalkV10"
+
+[SG694]  // WINGZGRUNT_LOSEITEM
+DIR="GRUNTZ_WINGZGRUNT"
+S1="LoseA"
+S2="LoseB"
+S3="LoseC"
+S4="LoseD"
+S5="LoseV1"
+S6="LoseV2"
+S7="LoseV3"
+S8="LoseV4"
+S9="LoseV5"
+S10="LoseV6"
+S11="LoseV7"
+S12="LoseV8"
+S13="LoseV9"
+S14="LoseV10"
+
+//YOYOGRUNT
+
+[SG710]  // YOYOGRUNT_TOY1
+DIR="GRUNTZ_YOYOGRUNT"
+S1="Toy1A"
+S2="Toy1B"
+S3="Toy1C"
+S4="Toy1D"
+S5="Toy1E"
+S6="Toy1F"
+S7="Toy1V1"
+S8="Toy1V2"
+S9="Toy1V3"
+S10="Toy1V4"
+S11="Toy1V5"
+S12="Toy1V6"
+S13="Toy1V7"
+S14="Toy1V8"
+S15="Toy1V9"
+S16="Toy1V10"
+
+[SG711]  // YOYOGRUNT_TOY2
+DIR="GRUNTZ_YOYOGRUNT"
+S1="Toy2A"
+S2="Toy2B"
+S3="Toy2C"
+S4="Toy2D"
+S5="Toy2E"
+S6="Toy2F"
+S7="Toy2V1"
+S8="Toy2V2"
+S9="Toy2V3"
+S10="Toy2V4"
+S11="Toy2V5"
+S12="Toy2V6"
+S13="Toy2V7"
+S14="Toy2V8"
+S15="Toy2V9"
+S16="Toy2V10"
+
+[SG712]  // YOYOGRUNT_TOYBREAK
+DIR="GRUNTZ_YOYOGRUNT"
+S1="BreakA"
+S2="BreakB"
+S3="BreakC"
+S4="BreakD"
+S5="BreakV1"
+S6="BreakV2"
+S7="BreakV3"
+S8="BreakV4"
+S9="BreakV5"
+S10="BreakV6"
+S11="BreakV7"
+S12="BreakV8"
+S13="BreakV9"
+S14="BreakV10"
+
+// Acknowledge voice groups...												
+												
+[SG800] // ACKNOWLEDGE_SELECTGRUNT1						
+Pri=10
+DIR="ACKNOWLEDGE"
+S1="SelectGrunt1A"
+S2="SelectGrunt1B"
+S3="SelectGrunt1C"
+S4="SelectGrunt1D"
+S5="SelectGrunt1E"
+S6="SelectGrunt1F"
+S7="SelectGrunt1G"
+S8="SelectGrunt1H"
+S9="SelectGrunt1I"
+S10="SelectGrunt1J"
+S11="SelectGrunt1K"
+S12="SelectGrunt1V1"
+S13="SelectGrunt1V2"
+S14="SelectGrunt1V3"
+S15="SelectGrunt1V4"
+S16="SelectGrunt1V5"
+S17="SelectGrunt1V6"
+S18="SelectGrunt1V7"
+S19="SelectGrunt1V8"
+S20="SelectGrunt1V9"
+S21="SelectGrunt1V10"
+
+[SG801] // ACKNOWLEDGE_SELECTGRUNT2					
+Pri=10
+DIR="ACKNOWLEDGE"
+S1="SelectGrunt2A"
+S2="SelectGrunt2B"
+S3="SelectGrunt2C"
+S4="SelectGrunt2D"
+S5="SelectGrunt2E"
+S6="SelectGrunt2G"
+S7="SelectGrunt2H"
+S8="SelectGrunt2J"
+S9="SelectGrunt2V1"
+S10="SelectGrunt2V2"
+S11="SelectGrunt2V3"
+S12="SelectGrunt2V4"
+S13="SelectGrunt2V5"
+S14="SelectGrunt2V6"
+S15="SelectGrunt2V7"
+S16="SelectGrunt2V8"
+S17="SelectGrunt2V9"
+S18="SelectGrunt2V10"
+
+[SG802] // ACKNOWLEDGE_SELECTGRUNT3					
+Pri=10
+DIR="ACKNOWLEDGE"
+S1="SelectGrunt3A"
+S2="SelectGrunt3B"
+S3="SelectGrunt3C"
+S4="SelectGrunt3D"
+S5="SelectGrunt3V1"
+S6="SelectGrunt3V2"
+S7="SelectGrunt3V3"
+S8="SelectGrunt3V4"
+S9="SelectGrunt3V5"
+S10="SelectGrunt3V6"
+S11="SelectGrunt3V7"
+S12="SelectGrunt3V8"
+S13="SelectGrunt3V9"
+S14="SelectGrunt3V10"
+
+[SG803] // ACKNOWLEDGE_GOODCOMMAND					
+Pri=20
+DIR="ACKNOWLEDGE"
+S1="GoodCommandA"
+S2="GoodCommandB"
+S3="GoodCommandC"
+S4="GoodCommandD"
+S5="GoodCommandE"
+S6="GoodCommandF"
+S7="GoodCommandG"
+S8="GoodCommandH"
+S9="GoodCommandI"
+S10="GoodCommandJ"
+S11="GoodCommandV1"
+S12="GoodCommandV2"
+S13="GoodCommandV3"
+S14="GoodCommandV4"
+S15="GoodCommandV5"
+S16="GoodCommandV6"
+S17="GoodCommandV7"
+S18="GoodCommandV8"
+S19="GoodCommandV9"
+S20="GoodCommandV10"
+
+
+
+[SG804] // ACKNOWLEDGE_BADCOMMAND					
+Pri=20
+DIR="ACKNOWLEDGE"
+S1="BadCommandA"
+S2="BadCommandB"
+S3="BadCommandC"
+S4="BadCommandD"
+S5="BadCommandE"
+S6="BadCommandF"
+S7="BadCommandG"
+S8="BadCommandH"
+S9="BadCommandI"
+S10="BadCommandJ"
+S11="BadCommandK"
+S12="BadCommandV1"
+S13="BadCommandV2"
+S14="BadCommandV3"
+S15="BadCommandV4"
+S16="BadCommandV5"
+S17="BadCommandV6"
+S18="BadCommandV7"
+S19="BadCommandV8"
+S20="BadCommandV9"
+S21="BadCommandV10"
+
+[SG805] // ACKNOWLEDGE_ATTACKCOMMAND					
+Pri=20
+DIR="ACKNOWLEDGE"
+S1="CommandAttackA"
+S2="CommandAttackB"
+S3="CommandAttackC"
+S4="CommandAttackD"
+S5="CommandAttackE"
+S6="CommandAttackF"
+S7="CommandAttackG"
+S8="CommandAttackH"
+S9="CommandAttackI"
+S10="CommandAttackJ"
+S11="CommandAttackK"
+S12="CommandAttackL"
+S13="CommandAttackV1"
+S14="CommandAttackV2"
+S15="CommandAttackV3"
+S16="CommandAttackV4"
+S17="CommandAttackV5"
+S18="CommandAttackV6"
+S19="CommandAttackV7"
+S20="CommandAttackV8"
+S21="CommandAttackV9"
+S22="CommandAttackV10"
+
+// Area trigger voice groups...					
+												
+[SG811] // AREATRIGGER_CONFUSING					
+Pri=120
+DIR="AREATRIGGER"
+S1="ConfusedA"
+S2="ConfusedB"
+S3="ConfusedC"
+S4="ConfusedD"
+S5="ConfusedE"
+S6="ConfusedF"
+S7="ConfusedG"
+S8="ConfusedH"
+S9="ConfusedI"
+S10="ConfusedJ"
+S11="ConfusedK"
+S12="ConfusedL"
+S13="ConfusedM"
+S14="ConfusedN"
+S15="ConfusedO"
+S16="ConfusedV1"
+S17="ConfusedV2"
+S18="ConfusedV3"
+S19="ConfusedV4"
+S20="ConfusedV5"
+S21="ConfusedV6"
+S22="ConfusedV7"
+S23="ConfusedV8"
+S24="ConfusedV9"
+S25="ConfusedV10"
+
+[SG812] // AREATRIGGER_DEADLY						
+Pri=120
+DIR="AREATRIGGER"
+S1="ScaredA"
+S2="ScaredB"
+S3="ScaredC"
+S4="ScaredD"
+S5="ScaredE"
+S6="ScaredF"
+S7="ScaredG"
+S8="ScaredH"
+S9="ScaredI"
+S10="ScaredJ"
+S11="ScaredV1"
+S12="ScaredV2"
+S13="ScaredV3"
+S14="ScaredV4"
+S15="ScaredV5"
+S16="ScaredV6"
+S17="ScaredV7"
+S18="ScaredV8"
+S19="ScaredV9"
+S20="ScaredV10"
+
+[SG813] // AREATRIGGER_TIMING						
+Pri=120
+DIR="AREATRIGGER"
+S1="TimingA"
+S2="TimingB"
+S3="TimingC"
+S4="TimingD"
+S5="TimingE"
+S6="TimingF"
+S7="TimingG"
+S8="TimingH"
+S9="TimingI"
+S10="TimingJ"
+S11="TimingV1"
+S12="TimingV2"
+S13="TimingV3"
+S14="TimingV4"
+S15="TimingV5"
+S16="TimingV6"
+S17="TimingV7"
+S18="TimingV8"
+S19="TimingV9"
+S20="TimingV10"
+
+// Checkpoint voice groups...					
+												
+[SG820] // CHECKPOINT_GOOD								
+Pri=130
+DIR="CHECKPOINT"
+S1="CheckPointGoodA"
+S2="CheckPointGoodB"
+S3="CheckPointGoodC"
+S4="CheckPointGoodD"
+S5="CheckPointGoodE"
+S6="CheckPointGoodV1"
+S7="CheckPointGoodV2"
+S8="CheckPointGoodV3"
+S9="CheckPointGoodV4"
+S10="CheckPointGoodV5"
+S11="CheckPointGoodV6"
+S12="CheckPointGoodV7"
+S13="CheckPointGoodV8"
+S14="CheckPointGoodV9"
+S15="CheckPointGoodV10"
+
+[SG821] // CHECKPOINT_BAD							
+Pri=130
+DIR="CHECKPOINT"
+S1="CheckPointBadA"
+S2="CheckPointBadB"
+S3="CheckPointBadC"
+S4="CheckPointBadV1"
+S5="CheckPointBadV2"
+S6="CheckPointBadV3"
+S7="CheckPointBadV4"
+S8="CheckPointBadV5"
+S9="CheckPointBadV6"
+S10="CheckPointBadV7"
+S11="CheckPointBadV8"
+S12="CheckPointBadV9"
+S13="CheckPointBadV10"
+
+// Cursor voice groups...						
+												
+[SG830] // CURSOR_SCARED							
+Pri=150
+DIR="CURSOR"
+S1="CursorScaredA"
+S2="CursorScaredB"
+S3="CursorScaredD"
+S4="CursorScaredV1"
+S5="CursorScaredV2"
+S6="CursorScaredV3"
+S7="CursorScaredV4"
+S8="CursorScaredV5"
+S9="CursorScaredV6"
+S10="CursorScaredV7"
+S11="CursorScaredV8"
+S12="CursorScaredV9"
+S13="CursorScaredV10"
+
+[SG831] // CURSOR_GOOD							
+Pri=155
+DIR="CURSOR"
+S1="CursorGoodA"
+S2="CursorGoodB"
+S3="CursorGoodC"
+S4="CursorGoodD"
+S5="CursorGoodV1"
+S6="CursorGoodV2"
+S7="CursorGoodV3"
+S8="CursorGoodV4"
+S9="CursorGoodV5"
+S10="CursorGoodV6"
+S11="CursorGoodV7"
+S12="CursorGoodV8"
+S13="CursorGoodV9"
+S14="CursorGoodV10"
+
+[SG832] // CURSOR_BAD							
+Pri=155
+DIR="CURSOR"
+S1="CursorBadA"
+S2="CursorBadB"
+S3="CursorBadC"
+S4="CursorBadD"
+S5="CursorBadE"
+S6="CursorBadV1"
+S7="CursorBadV2"
+S8="CursorBadV3"
+S9="CursorBadV4"
+S10="CursorBadV5"
+S11="CursorBadV6"
+S12="CursorBadV7"
+S13="CursorBadV8"
+S14="CursorBadV9"
+S15="CursorBadV10"
+
+// Damage tile voice groups...					
+												
+[SG840] // DAMAGETILE							
+Pri=180
+DIR="DAMAGETILE"
+S1="DamageA"
+S2="DamageB"
+S3="DamageC"
+S4="DamageD"
+S5="DamageF"
+S6="DamageG"
+S7="DamageI"
+S8="DamageK"
+S9="DamageJ"
+S10="DamageL"
+S11="DamageV1"
+S12="DamageV2"
+S13="DamageV3"
+S14="DamageV4"
+S15="DamageV5"
+S16="DamageV6"
+S17="DamageV7"
+S18="DamageV8"
+S19="DamageV9"
+S20="DamageV10"
+
+// Deathz voice groups...						
+												
+[SG850] // DEATHZ_BURN							
+Pri=190
+DIR="DEATHZ"
+S1="BurnA"
+S2="BurnB"
+S3="BurnC"
+S4="BurnD"
+S5="BurnE"
+S6="BurnF"
+S7="BurnG"
+S8="BurnV1"
+S9="BurnV2"
+S10="BurnV3"
+S11="BurnV4"
+S12="BurnV5"
+S13="BurnV6"
+S14="BurnV7"
+S15="BurnV8"
+S16="BurnV9"
+S17="BurnV10"
+
+[SG851] // DEATHZ_ELECTROCUTE						
+Pri=190
+DIR="DEATHZ"
+S1="ElecA"
+S2="ElecB"
+S3="ElecC"
+S4="ElecD"
+S5="ElecE"
+S6="ElecF"
+S7="ElecG"
+S8="ElecH"
+S9="ElecI"
+S10="ElecV1"
+S11="ElecV2"
+S12="ElecV3"
+S13="ElecV4"
+S14="ElecV5"
+S15="ElecV6"
+S16="ElecV7"
+S17="ElecV8"
+S18="ElecV9"
+S19="ElecV10"
+
+[SG852] // DEATHZ_EXPLODE						
+Pri=190
+DIR="DEATHZ"
+S1="ExplodeA"
+S2="ExplodeB"
+S3="ExplodeC"
+S4="ExplodeD"
+S5="ExplodeE"
+S6="ExplodeF"
+S7="ExplodeV1"
+S8="ExplodeV2"
+S9="ExplodeV3"
+S10="ExplodeV4"
+S11="ExplodeV5"
+S12="ExplodeV6"
+S13="ExplodeV7"
+S14="ExplodeV8"
+S15="ExplodeV9"
+S16="ExplodeV10"
+
+[SG853] // DEATHZ_FALL							
+Pri=190
+DIR="DEATHZ"
+S1="FallA"
+S2="FallB"
+S3="FallC"
+S4="FallD"
+S5="FallE"
+S6="FallF"
+S7="FallG"
+S8="FallH"
+S9="FallI"
+S10="FallJ"
+S11="FallV1"
+S12="FallV2"
+S13="FallV3"
+S14="FallV4"
+S15="FallV5"
+S16="FallV6"
+S17="FallV7"
+S18="FallV8"
+S19="FallV9"
+S20="FallV10"
+
+[SG854] // DEATHZ_FREEZE							
+Pri=190
+DIR="DEATHZ"
+S1="FreezeA"
+S2="FreezeB"
+S3="FreezeD"
+S4="FreezeE"
+S5="FreezeF"
+S6="FreezeG"
+S7="FreezeH"
+S8="FreezeI"
+S9="FreezeK"
+S10="FreezeV1"
+S11="FreezeV2"
+S12="FreezeV3"
+S13="FreezeV4"
+S14="FreezeV5"
+S15="FreezeV6"
+S16="FreezeV7"
+S17="FreezeV8"
+S18="FreezeV9"
+S19="FreezeV10"
+
+[SG855] // DEATHZ_HOLE							
+Pri=190
+DIR="DEATHZ"
+S1="HoleA"
+S2="HoleB"
+S3="HoleC"
+S4="HoleD"
+S5="HoleV1"
+S6="HoleV2"
+S7="HoleV3"
+S8="HoleV4"
+S9="HoleV5"
+S10="HoleV6"
+S11="HoleV7"
+S12="HoleV8"
+S13="HoleV9"
+S14="HoleV10"
+
+[SG856] // DEATHZ_KARAOKE							
+Pri=190
+DIR="DEATHZ"
+S1="KaraokeA"
+S2="KaraokeB"
+S3="KaraokeC"
+S4="KaraokeD"
+S5="KaraokeE"
+S6="KaraokeF"
+S7="KaraokeG"
+S8="KaraokeH"
+S9="KaraokeI"
+S10="KaraokeV1"
+S11="KaraokeV2"
+S12="KaraokeV3"
+S13="KaraokeV4"
+S14="KaraokeV5"
+S15="KaraokeV6"
+S16="KaraokeV7"
+S17="KaraokeV8"
+S18="KaraokeV9"
+S19="KaraokeV10"
+
+[SG857] // DEATHZ_MELT							
+Pri=190
+DIR="DEATHZ"
+S1="MeltA"
+S2="MeltB"
+S3="MeltC"
+S4="MeltD"
+S5="MeltE"
+S6="MeltF"
+S7="MeltG"
+S8="MeltH"
+S9="MeltI"
+S10="MeltV1"
+S11="MeltV2"
+S12="MeltV3"
+S13="MeltV4"
+S14="MeltV5"
+S15="MeltV6"
+S16="MeltV7"
+S17="MeltV8"
+S18="MeltV9"
+S19="MeltV10"
+
+[SG858] // DEATHZ_SINK							
+Pri=190
+DIR="DEATHZ"
+S1="SinkA"
+S2="SinkB"
+S3="SinkC"
+S4="SinkD"
+S5="SinkE"
+S6="SinkF"
+S7="SinkG"
+S8="SinkH"
+S9="SinkI"
+S10="SinkJ"
+S11="SinkK"
+S12="SinkL"
+S13="SinkM"
+S14="SinkO"
+S15="SinkQ"
+S16="SinkV1"
+S17="SinkV2"
+S18="SinkV3"
+S19="SinkV4"
+S20="SinkV5"
+S21="SinkV6"
+S22="SinkV7"
+S23="SinkV8"
+S24="SinkV9"
+S25="SinkV10"
+
+[SG859] // DEATHZ_SQUASH
+Pri=190
+DIR="DEATHZ"
+S1="ExplodeA"
+S2="ExplodeB"
+S3="ExplodeC"
+S4="ExplodeD"
+S5="ExplodeE"
+S6="ExplodeF"
+S7="ExplodeV1"
+S8="ExplodeV2"
+S9="ExplodeV3"
+S10="ExplodeV4"
+S11="ExplodeV5"
+S12="ExplodeV6"
+S13="ExplodeV7"
+S14="ExplodeV8"
+S15="ExplodeV9"
+S16="ExplodeV10"
+
+[SG860] // DEATHZ_UNFREEZE						
+Pri=190
+DIR="DEATHZ"
+S1="UnFreezeA"
+S2="UnFreezeB"
+S3="UnFreezeC"
+S4="UnFreezeD"
+S5="UnFreezeE"
+S6="UnFreezeH"
+S7="UnFreezeI"
+S8="UnFreezeJ"
+S9="UnFreezeV1"
+S10="UnFreezeV2"
+S11="UnFreezeV3"
+S12="UnFreezeV4"
+S13="UnFreezeV5"
+S14="UnFreezeV6"
+S15="UnFreezeV7"
+S16="UnFreezeV8"
+S17="UnFreezeV9"
+S18="UnFreezeV10"
+
+[SG861] // DEATHZ_SPECIAL
+Pri=190
+DIR="DEATHZ"
+S1="KaraokeA"
+S2="KaraokeB"
+S3="KaraokeC"
+S4="KaraokeV1"
+S5="KaraokeV2"
+S6="KaraokeV3"
+S7="KaraokeV4"
+S8="KaraokeV5"
+S9="KaraokeV6"
+S10="KaraokeV7"
+S11="KaraokeV8"
+S12="KaraokeV9"
+S13="KaraokeV10"
+
+// Enemy detect voice groups...					
+												
+[SG870] // ENEMYDETECT							
+Pri=80
+DIR="ENEMYDETECT"
+S1="EnemySeesA"
+S2="EnemySeesB"
+S3="EnemySeesC"
+S4="EnemySeesE"
+S5="EnemySeesF"
+S6="EnemySeesG"
+S7="EnemySeesH"
+S8="EnemySeesI"
+S9="EnemySeesJ"
+S10="EnemySeesK"
+S11="EnemySeesV1"
+S12="EnemySeesV2"
+S13="EnemySeesV3"
+S14="EnemySeesV4"
+S15="EnemySeesV5"
+S16="EnemySeesV6"
+S17="EnemySeesV7"
+S18="EnemySeesV8"
+S19="EnemySeesV9"
+S20="EnemySeesV10"
+
+// Enemy select voice groups...					
+												
+[SG880] // ENEMYSELECT							
+Pri=10
+DIR="ENEMYSELECT"
+S1="SelectGruntA"
+S2="SelectGruntB"
+S3="SelectGruntC"
+S4="SelectGruntD"
+S5="SelectGruntE"
+S6="SelectGruntF"
+S7="SelectGruntG"
+S8="SelectGruntH"
+S9="SelectGruntI"
+S10="SelectGruntJ"
+S11="SelectGruntV1"
+S12="SelectGruntV2"
+S13="SelectGruntV3"
+S14="SelectGruntV4"
+S15="SelectGruntV5"
+S16="SelectGruntV6"
+S17="SelectGruntV7"
+S18="SelectGruntV8"
+S19="SelectGruntV9"
+S20="SelectGruntV10"
+
+[SG881] // ENEMYSELECT2
+Pri=10
+DIR="ENEMYSELECT"
+S1="SelectGrunt2A"
+S2="SelectGrunt2V1"
+S3="SelectGrunt2V2"
+S4="SelectGrunt2V3"
+S5="SelectGrunt2V4"
+S6="SelectGrunt2V5"
+S7="SelectGrunt2V6"
+S8="SelectGrunt2V7"
+S9="SelectGrunt2V8"
+S10="SelectGrunt2V9"
+S11="SelectGrunt2V10"
+
+// Entrancez voice groups...					
+												
+[SG890] // ENTRANCEZ_ONE							
+Pri=160
+DIR="ENTRANCEZ"
+S1="OneA"
+S2="OneA2"
+S3="OneB"
+S4="OneC"
+S5="OneD"
+S6="OneE"
+S7="OneF"
+S8="OneG"
+S9="OneH"
+S10="OneI"
+S11="OneJ"
+S12="OneV1"
+S13="OneV2"
+S14="OneV3"
+S15="OneV4"
+S16="OneV5"
+S17="OneV6"
+S18="OneV7"
+S19="OneV8"
+S20="OneV19"
+S21="OneV10"
+
+[SG891] // ENTRANCEZ_TWO							
+Pri=160
+DIR="ENTRANCEZ"
+S1="TwoA"
+S2="TwoB"
+S3="TwoC"
+S4="TwoD"
+S5="TwoE"
+S6="TwoF"
+S7="TwoG"
+S8="TwoH"
+S9="TwoV1"
+S10="TwoV2"
+S11="TwoV3"
+S12="TwoV4"
+S13="TwoV5"
+S14="TwoV6"
+S15="TwoV7"
+S16="TwoV8"
+S17="TwoV9"
+S18="TwoV10"
+
+[SG892] // ENTRANCEZ_THREE						
+Pri=160
+DIR="ENTRANCEZ"
+S1="ThreeA"
+S2="ThreeB"
+S3="ThreeC"
+S4="ThreeD"
+S5="ThreeE"
+S6="ThreeF"
+S7="ThreeV1"
+S8="ThreeV2"
+S9="ThreeV3"
+S10="ThreeV4"
+S11="ThreeV5"
+S12="ThreeV6"
+S13="ThreeV7"
+S14="ThreeV8"
+S15="ThreeV9"
+S16="ThreeV10"
+
+// Exitz voice groups...						
+												
+[SG900] // EXITZ_ONE							
+Pri=170
+DIR="EXITZ"
+S1="OneA"
+S2="OneB"
+S3="OneC"
+S4="OneD"
+S5="OneD"
+S6="OneV1"
+S7="OneV2"
+S8="OneV3"
+S9="OneV4"
+S10="OneV5"
+S11="OneV6"
+S12="OneV7"
+S13="OneV8"
+S14="OneV9"
+S15="OneV10"
+
+[SG901] // EXITZ_TWO							
+Pri=170
+DIR="EXITZ"
+S1="TwoA"
+S2="TwoC"
+S3="TwoD"
+S4="TwoV1"
+S5="TwoV2"
+S6="TwoV3"
+S7="TwoV4"
+S8="TwoV5"
+S9="TwoV6"
+S10="TwoV7"
+S11="TwoV8"
+S12="TwoV9"
+S13="TwoV10"
+
+[SG902] // EXITZ_THREE							
+Pri=170
+DIR="EXITZ"
+S1="ThreeA"
+S2="ThreeB"
+S3="ThreeC"
+S4="ThreeD"
+S5="ThreeE"
+S6="ThreeV1"
+S7="ThreeV2"
+S8="ThreeV3"
+S9="ThreeV4"
+S10="ThreeV5"
+S11="ThreeV6"
+S12="ThreeV7"
+S13="ThreeV8"
+S14="ThreeV9"
+S15="ThreeV10"
+
+// Give toy voice groups...						
+												
+[SG910] // GIVETOY								
+Pri=50
+DIR="GIVETOY"
+S1="GiveToyA"
+S2="GiveToyB"
+S3="GiveToyC"
+S4="GiveToyD"
+S5="GiveToyE"
+S6="GiveToyF"
+S7="GiveToyG"
+S8="GiveToyH"
+S9="GiveToyI"
+S10="GiveToyJ"
+S11="GiveToyK"
+S12="GiveToyL"
+S13="GiveToyV1"
+S14="GiveToyV2"
+S15="GiveToyV3"
+S16="GiveToyV4"
+S17="GiveToyV5"
+S18="GiveToyV6"
+S19="GiveToyV7"
+S20="GiveToyV8"
+S21="GiveToyV9"
+S22="GiveToyV10"
+
+// Megaphonez voice groups...					
+												
+[SG920] // MEGAPHONEZ_BABYWALKER
+Pri=200
+DIR="MEGAPHONEZ"
+S1="BabyWalkerzPhonezA"
+S2="BabyWalkerzPhonezB"
+S3="BabyWalkerzPhonezV1"
+S4="BabyWalkerzPhonezV2"
+
+[SG921] // MEGAPHONEZ_BEACHBALL						
+Pri=200
+DIR="MEGAPHONEZ"
+S1="BeachBallzPhonezA"
+S2="BeachBallzPhonezB"
+S3="BeachBallzPhonezC"
+S4="BeachBallzPhonezV1"
+S5="BeachBallzPhonezV2"
+
+[SG922] // MEGAPHONEZ_BIGWHEEL						
+Pri=200
+DIR="MEGAPHONEZ"
+S1="BigWheelzPhonezA"
+S2="BigWheelzPhonezB"
+S3="BigWheelzPhonezV1"
+S4="BigWheelzPhonezV2"
+
+[SG923] // MEGAPHONEZ_BOMB						
+Pri=200
+DIR="MEGAPHONEZ"
+S1="BombzPhonezA"
+S2="BombzPhonezB"
+S3="BombzPhonezV1"
+S4="BombzPhonezV2"
+
+[SG924] // MEGAPHONEZ_BOOMERANG						
+Pri=200
+DIR="MEGAPHONEZ"
+S1="BoomerangzPhonezA"
+S2="BoomerangzPhonezB"
+S3="BoomerangzPhonezV1"
+S4="BoomerangzPhonezV2"
+
+[SG925] // MEGAPHONEZ_BRICK						
+Pri=200
+DIR="MEGAPHONEZ"
+S1="BrickzPhonezA"
+S2="BrickzPhonezB"
+S3="BrickzPhonezV1"
+S4="BrickzPhonezV2"
+
+[SG926] // MEGAPHONEZ_CLUB						
+Pri=200
+DIR="MEGAPHONEZ"
+S1="ClubPhonezA"
+S2="ClubPhonezB"
+S3="ClubPhonezV1"
+S4="ClubPhonezV2"
+
+[SG927] // MEGAPHONEZ_GAUNTLETZ						
+Pri=200
+DIR="MEGAPHONEZ"
+S1="GauntletzPhonezA"
+S2="GauntletzPhonezB"
+S3="GauntletzPhonezV1"
+S4="GauntletzPhonezV2"
+
+[SG928] // MEGAPHONEZ_GLOVEZ						
+Pri=200
+DIR="MEGAPHONEZ"
+S1="GlovezPhonezA"
+S2="GlovezPhonezB"
+S3="GlovezPhonezV1"
+S4="GlovezPhonezV2"
+
+[SG929] // MEGAPHONEZ_GOKART						
+Pri=200
+DIR="MEGAPHONEZ"
+S1="GoKartzPhonezA"
+S2="GoKartzPhonezB"
+S3="GoKartzPhonezV1"
+S4="GoKartzPhonezV2"
+
+[SG930] // MEGAPHONEZ_GOOBER						
+Pri=200
+DIR="MEGAPHONEZ"
+S1="GooberzPhonezA"
+S2="GooberzPhonezB"
+S3="GooberzPhonezV1"
+S4="GooberzPhonezV2"
+
+[SG931] // MEGAPHONEZ_GRAVITYBOOTZ					
+Pri=200
+DIR="MEGAPHONEZ"
+S1="GravityBootzPhonezA"
+S2="GravityBootzPhonezB"
+S3="GravityBootzPhonezV1"
+S4="GravityBootzPhonezV2"
+
+[SG932] // MEGAPHONEZ_GUNHAT						
+Pri=200
+DIR="MEGAPHONEZ"
+S1="GunHatzPhonezA"
+S2="GunHatzPhonezB"
+S3="GunHatzPhonezV1"
+S4="GunHatzPhonezV2"
+
+[SG933] // MEGAPHONEZ_JACKINTHEBOX					
+Pri=200
+DIR="MEGAPHONEZ"
+S1="JackInTheBoxPhonezA"
+S2="JackInTheBoxPhonezB"
+S3="JackInTheBoxPhonezV1"
+S4="JackInTheBoxPhonezV2"
+
+[SG934] // MEGAPHONEZ_JUMPROPE						
+Pri=200
+DIR="MEGAPHONEZ"
+S1="JumpRopezPhonezA"
+S2="JumpRopezPhonezB"
+S3="JumpRopezPhonezV1"
+S4="JumpRopezPhonezV2"
+
+[SG935] // MEGAPHONEZ_NERFGUN						
+Pri=200
+DIR="MEGAPHONEZ"
+S1="NerfGunzPhonezA"
+S2="NerfGunzPhonezB"
+S3="NerfGunzPhonezV1"
+S4="NerfGunzPhonezV2"
+
+[SG936] // MEGAPHONEZ_POGOSTICK						
+Pri=200
+DIR="MEGAPHONEZ"
+S1="PogoStickzPhonezA"
+S2="PogoStickzPhonezB"
+S3="PogoStickzPhonezV1"
+S4="PogoStickzPhonezV2"
+
+[SG937] // MEGAPHONEZ_ROCK						
+Pri=200
+DIR="MEGAPHONEZ"
+S1="RockzPhonezA"
+S2="RockzPhonezB"
+S3="RockzPhonezV1"
+S4="RockzPhonezV2"
+
+[SG938] // MEGAPHONEZ_SCROLL						
+Pri=200
+DIR="MEGAPHONEZ"
+S1="ScrollzPhonezA"
+S2="ScrollzPhonezB"
+S3="ScrollzPhonezV1"
+S4="ScrollzPhonezV2"
+
+[SG939] // MEGAPHONEZ_SHIELD						
+Pri=200
+DIR="MEGAPHONEZ"
+S1="ShieldzPhonezA"
+S2="ShieldzPhonezB"
+S3="ShieldzPhonezV1"
+S4="ShieldzPhonezV2"
+
+[SG940] // MEGAPHONEZ_SHOVEL						
+Pri=200
+DIR="MEGAPHONEZ"
+S1="ShovelzPhonezA"
+S2="ShovelzPhonezB"
+S3="ShovelzPhonezV1"
+S4="ShovelzPhonezV2"
+
+[SG941] // MEGAPHONEZ_SPRING						
+Pri=200
+DIR="MEGAPHONEZ"
+S1="SpringzPhonezA"
+S2="SpringzPhonezB"
+S3="SpringzPhonezV1"
+S4="SpringzPhonezV2"
+
+[SG942] // MEGAPHONEZ_SPY							
+Pri=200
+DIR="MEGAPHONEZ"
+S1="SpyzPhonezA"
+S2="SpyzPhonezB"
+S3="SpyzPhonezV1"
+S4="SpyzPhonezV2"
+
+[SG943] // MEGAPHONEZ_SQUEAKTOY						
+Pri=200
+DIR="MEGAPHONEZ"
+S1="SqueakToyPhonezA"
+S2="SqueakToyPhonezB"
+S3="SqueakToyPhonezV1"
+S4="SqueakToyPhonezV2"
+
+[SG944] // MEGAPHONEZ_SWORD						
+Pri=200
+DIR="MEGAPHONEZ"
+S1="SwordzPhonezA"
+S2="SwordzPhonezB"
+S3="SwordzPhonezV1"
+S4="SwordzPhonezV2"
+
+[SG945] // MEGAPHONEZ_TIMEBOMB						
+Pri=200
+DIR="MEGAPHONEZ"
+S1="TimeBombzPhonezA"
+S2="TimeBombzPhonezB"
+S3="TimeBombzPhonezV1"
+S4="TimeBombzPhonezV2"
+
+[SG946] // MEGAPHONEZ_TOOB						
+Pri=200
+DIR="MEGAPHONEZ"
+S1="ToobzPhonezA"
+S2="ToobzPhonezB"
+S3="ToobzPhonezV1"
+S4="ToobzPhonezV2"
+
+[SG947] // MEGAPHONEZ_WAND						
+Pri=200
+DIR="MEGAPHONEZ"
+S1="WandzPhonezA"
+S2="WandzPhonezB"
+S3="WandzPhonezV1"
+S4="WandzPhonezV2"
+
+[SG949] // MEGAPHONEZ_WELDER						
+Pri=200
+DIR="MEGAPHONEZ"
+S1="WelderzPhonezA"
+S2="WelderzPhonezB"
+S3="WelderzPhonezV1"
+S4="WelderzPhonezV2"
+
+[SG950] // MEGAPHONEZ_WINGZ						
+Pri=200
+DIR="MEGAPHONEZ"
+S1="WingzPhonezA"
+S2="WingzPhonezB"
+S3="WingzPhonezV1"
+S4="WingzPhonezV2"
+
+[SG951] // MEGAPHONEZ_YOYO						
+Pri=200
+DIR="MEGAPHONEZ"
+S1="YoyozPhonezA"
+S2="YoyozPhonezB"
+S3="YoyozPhonezV1"
+S4="YoyozPhonezV2"
+
+[SG952] // MEGAPHONEZ_BOMBBRICK						
+Pri=200
+DIR="MEGAPHONEZ"
+S1="BrickBombPhonezA"
+S2="BrickBombPhonezV1"
+S3="BrickBombPhonezV2"
+
+[SG953] // MEGAPHONEZ_TELEPORTBRICK					
+Pri=200
+DIR="MEGAPHONEZ"
+S1="BrickTeleportPhonezA"
+S2="BrickTeleportPhonezV1"
+S3="BrickTeleportPhonezV2"
+
+[SG954] // MEGAPHONEZ_INDESTRUCTIBLEBRICK				
+Pri=200
+DIR="MEGAPHONEZ"
+S1="BrickInvulPhonezA"
+S2="BrickInvulPhonezV1"
+S3="BrickInvulPhonezV2"
+
+[SG955] // MEGAPHONEZ_GAUNTLETBREAKERBRICK				
+Pri=200
+DIR="MEGAPHONEZ"
+S1="BrickGauntletBreakerPhonezA"
+S2="BrickGauntletBreakerPhonezV1"
+S3="BrickGauntletBreakerPhonezV2"
+
+// Pickupz voice groups...						
+
+[SG958] // PICKUPZ_HELPBOOK
+Pri=110
+DIR="PICKUPZ"
+S1="HelpBookPickupA"
+S2="HelpBookPickupAV1"
+S3="HelpBookPickupAV2"
+
+[SG959] // PICKUPZ_GENERIC
+Pri=110
+DIR="PICKUPZ"
+S1="GenericA"
+S2="GenericB"
+S3="GenericC"
+S4="GenericD"
+S5="GenericE"
+S6="GenericF"
+S7="GenericG"
+S8="GenericH"
+S9="GenericI"
+S10="GenericJ"
+S11="GenericK"
+S12="GenericL"
+S13="GenericM"
+S14="GenericN"
+S15="GenericO"
+S16="GenericP"
+S17="GenericV1"		
+S18="GenericV2"
+S19="GenericV3"
+S20="GenericV4"
+S21="GenericV5"
+S22="GenericV6"
+S23="GenericV7"
+S24="GenericV8"
+S25="GenericV9"
+S26="GenericV10"
+									
+[SG960] // PICKUPZ_BABYWALKER										
+Pri=110
+DIR="PICKUPZ"
+S1="BabyWalkerzPickupA"
+S2="BabyWalkerzPickupB"
+S3="BabyWalkerzPickupV1"
+S4="BabyWalkerzPickupV2"
+
+[SG961] // PICKUPZ_BEACHBALL						
+Pri=110
+DIR="PICKUPZ"
+S1="BeachBallzPickupA"
+S2="BeachBallzPickupB"
+S3="BeachBallzPickupV1"
+S4="BeachBallzPickupV2"
+
+[SG962] // PICKUPZ_BIGWHEEL						
+Pri=110
+DIR="PICKUPZ"
+S1="BigWheelzPickupA"
+S2="BigWheelzPickupB"
+S3="BigWheelzPickupV1"
+S4="BigWheelzPickupV2"
+
+[SG963] // PICKUPZ_BOMB							
+Pri=110
+DIR="PICKUPZ"
+S1="BombzPickupA"
+S2="BombzPickupB"
+S3="BombzPickupV1"
+S4="BombzPickupV2"
+
+[SG964] // PICKUPZ_BOOMERANG						
+Pri=110
+DIR="PICKUPZ"
+S1="BoomerangzPickupA"
+S2="BoomerangzPickupB"
+S3="BoomerangzPickupV1"
+S4="BoomerangzPickupV2"
+
+[SG965] // PICKUPZ_BRICK							
+Pri=110
+DIR="PICKUPZ"
+S1="BrickzPickupA"
+S2="BrickzPickupB"
+S3="BrickzPickupV1"
+S4="BrickzPickupV2"
+
+[SG966] // PICKUPZ_CLUB							
+Pri=110
+DIR="PICKUPZ"
+S1="ClubPickupA"
+S2="ClubPickupB"
+S3="ClubPickupV1"
+S4="ClubPickupV2"
+
+[SG967] // PICKUPZ_GAUNTLETZ						
+Pri=110
+DIR="PICKUPZ"
+S1="GauntletzPickupA"
+S2="GauntletzPickupB"
+S3="GauntletzPickupV1"
+S4="GauntletzPickupV2"
+
+[SG968] // PICKUPZ_GLOVEZ							
+Pri=110
+DIR="PICKUPZ"
+S1="GlovezPickupA"
+S2="GlovezPickupB"
+S3="GlovezPickupV1"
+S4="GlovezPickupV2"
+
+[SG969] // PICKUPZ_GOKART							
+Pri=110
+DIR="PICKUPZ"
+S1="GoKartzPickupA"
+S2="GoKartzPickupB"
+S3="GoKartzPickupV1"
+S4="GoKartzPickupV2"
+
+[SG970] // PICKUPZ_GOOBER							
+Pri=110
+DIR="PICKUPZ"
+S1="GooberzPickupA"
+S2="GooberzPickupB"
+S3="GooberzPickupV1"
+S4="GooberzPickupV2"
+
+[SG971] // PICKUPZ_GRAVITYBOOTZ						
+Pri=110
+DIR="PICKUPZ"
+S1="GravityBootzPickupA"
+S2="GravityBootzPickupB"
+S3="GravityBootzPickupV1"
+S4="GravityBootzPickupV2"
+
+[SG972] // PICKUPZ_GUNHAT							
+Pri=110
+DIR="PICKUPZ"
+S1="GunHatzPickupA"
+S2="GunHatzPickupB"
+S3="GunHatzPickupV1"
+S4="GunHatzPickupV2"
+
+[SG973] // PICKUPZ_JACKINTHEBOX						
+Pri=110
+DIR="PICKUPZ"
+S1="JackInTheBoxPickupA"
+S2="JackInTheBoxPickupB"
+S3="JackInTheBoxPickupV1"
+S4="JackInTheBoxPickupV2"
+
+[SG974] // PICKUPZ_JUMPROPE						
+Pri=110
+DIR="PICKUPZ"
+S1="JumpRopezPickupA"
+S2="JumpRopezPickupB"
+S3="JumpRopezPickupV1"
+S4="JumpRopezPickupV2"
+
+[SG975] // PICKUPZ_NERFGUN						
+Pri=110
+DIR="PICKUPZ"
+S1="NerfGunPickupA"
+S2="NerfGunPickupB"
+S3="NerfGunPickupV1"
+S4="NerfGunPickupV2"
+
+[SG976] // PICKUPZ_POGOSTICK						
+Pri=110
+DIR="PICKUPZ"
+S1="PogoStickzPickupA"
+S2="PogoStickzPickupB"
+S3="PogoStickzPickupV1"
+S4="PogoStickzPickupV2"
+
+[SG977] // PICKUPZ_ROCK							
+Pri=110
+DIR="PICKUPZ"
+S1="RockzPickupA"
+S2="RockzPickupB"
+S3="RockzPickupV1"
+S4="RockzPickupV2"
+
+[SG978] // PICKUPZ_SCROLL							
+Pri=110
+DIR="PICKUPZ"
+S1="ScrollzPickupA"
+S2="ScrollzPickupB"
+S3="ScrollzPickupV1"
+S4="ScrollzPickupV2"
+
+[SG979] // PICKUPZ_SHIELD							
+Pri=110
+DIR="PICKUPZ"
+S1="ShieldzPickupA"
+S2="ShieldzPickupB"
+S3="ShieldzPickupV1"
+S4="ShieldzPickupV2"
+
+[SG980] // PICKUPZ_SHOVEL							
+Pri=110
+DIR="PICKUPZ"
+S1="ShovelzPickupA"
+S2="ShovelzPickupB"
+S3="ShovelzPickupV1"
+S4="ShovelzPickupV2"
+
+[SG981] // PICKUPZ_SPRING							
+Pri=110
+DIR="PICKUPZ"
+S1="SpringzPickupA"
+S2="SpringzPickupB"
+S3="SpringzPickupV1"
+S4="SpringzPickupV2"
+
+[SG982] // PICKUPZ_SPY							
+Pri=110
+DIR="PICKUPZ"
+S1="SpyzPickupA"
+S2="SpyzPickupB"
+S3="SpyzPickupV1"
+S4="SpyzPickupV2"
+
+[SG983] // PICKUPZ_SQUEAKTOY						
+Pri=110
+DIR="PICKUPZ"
+S1="SqueakToyPickupA"
+S2="SqueakToyPickupB"
+S3="SqueakToyPickupV1"
+S4="SqueakToyPickupV2"
+
+[SG984] // PICKUPZ_SWORD							
+Pri=110
+DIR="PICKUPZ"
+S1="SwordzPickupA"
+S2="SwordzPickupB"
+S3="SwordzPickupV1"
+S4="SwordzPickupV2"
+
+[SG985] // PICKUPZ_TIMEBOMB						
+Pri=110
+DIR="PICKUPZ"
+S1="TimeBombzPickupA"
+S2="TimeBombzPickupB"
+S3="TimeBombzPickupV1"
+S4="TimeBombzPickupV2"
+
+[SG986] // PICKUPZ_TOOB							
+Pri=110
+DIR="PICKUPZ"
+S1="ToobzPickupA"
+S2="ToobzPickupB"
+S3="ToobzPickupV1"
+S4="ToobzPickupV2"
+
+[SG987] // PICKUPZ_WAND							
+Pri=110
+DIR="PICKUPZ"
+S1="WandzPickupA"
+S2="WandzPickupB"
+S3="WandzPickupV1"
+S4="WandzPickupV2"
+
+[SG988] // PICKUPZ_WARPSTONE						
+Pri=110
+DIR="PICKUPZ"
+S1="WarpstonePickupA"
+S2="WarpstonePickupB"
+S3="WarpstonePickupC"
+S4="WarpstonePickupD"
+S5="WarpstonePickupE"
+S6="WarpstonePickupF"
+S7="WarpstonePickupG"
+S8="WarpstonePickupH"
+S9="WarpstonePickupI"
+S10="WarpstonePickupJ"
+S11="WarpstonePickupV1"
+S12="WarpstonePickupV2"
+S13="WarpstonePickupV3"
+S14="WarpstonePickupV4"
+S15="WarpstonePickupV5"
+S16="WarpstonePickupV6"
+S17="WarpstonePickupV7"
+S18="WarpstonePickupV8"
+S19="WarpstonePickupV9"
+S20="WarpstonePickupV10"
+
+[SG989] // PICKUPZ_WELDER							
+Pri=110
+DIR="PICKUPZ"
+S1="WelderzPickupA"
+S2="WelderzPickupB"
+S3="WelderzPickupV1"
+S4="WelderzPickupV2"
+
+[SG990] // PICKUPZ_WINGZ							
+Pri=110
+DIR="PICKUPZ"
+S1="WingzPickupA"
+S2="WingzPickupB"
+S3="WingzPickupV1"
+S4="WingzPickupV2"
+
+[SG991] // PICKUPZ_YOYO							
+Pri=110
+DIR="PICKUPZ"
+S1="YoyozPickupA"
+S2="YoyozPickupB"
+S3="YoyozPickupV1"
+S4="YoyozPickupV2"
+
+[SG992] // PICKUPZ_BOMBBRICK						
+Pri=110
+DIR="PICKUPZ"
+S1="BombBrickPickupA"
+S2="BombBrickPickupB"
+S3="BombBrickPickupV1"
+S4="BombBrickPickupV2"
+
+[SG993] // PICKUPZ_TELEPORTBRICK					
+Pri=110
+DIR="PICKUPZ"
+S1="TeleportBrickPickupA"
+S2="TeleportBrickPickupB"
+S3="TeleportBrickPickupV1"
+S4="TeleportBrickPickupV2"
+
+[SG994] // PICKUPZ_INDESTRUCTIBLEBRICK				
+Pri=110
+DIR="PICKUPZ"
+S1="IndestructibleBrickPickupA"
+S2="IndestructibleBrickPickupB"
+S3="IndestructibleBrickPickupV1"
+S4="IndestructibleBrickPickupV2"
+
+[SG995] // PICKUPZ_GAUNTLETBREAKERBRICK				
+Pri=110
+DIR="PICKUPZ"
+S1="GauntletBreakerBrickPickupA"
+S2="GauntletBreakerBrickPickupB"
+S3="GauntletBreakerBrickPickupV1"
+S4="GauntletBreakerBrickPickupV2"
+
+[SG996] // PICKUPZ_HEALTH1						
+Pri=110
+DIR="PICKUPZ"
+S1="ZapCanPickupA"
+S2="ZapCanPickupB"
+S3="ZapCanPickupV1"
+S4="ZapCanPickupV2"
+
+[SG997] // PICKUPZ_HEALTH2						
+Pri=110
+DIR="PICKUPZ"
+S1="Zap2LitrePickupA"
+S2="Zap2LitrePickupB"
+S3="Zap2LitrePickupV1"
+S4="Zap2LitrePickupV2"
+
+[SG998] // PICKUPZ_HEALTH3						
+Pri=110
+DIR="PICKUPZ"
+S1="ZapKegPickupA"
+S2="ZapKegPickupB"
+S3="ZapKegPickupV1"
+S4="ZapKegPickupV2"
+
+[SG999] // PICKUPZ_CONVERSION						
+Pri=110
+DIR="PICKUPZ"
+S1="ConversionPickupA"
+S2="ConversionPickupB"
+S3="ConversionPickupV1"
+S4="ConversionPickupV2"
+
+[SG1000] // PICKUPZ_DEATHTOUCH						
+Pri=110
+DIR="PICKUPZ"
+S1="DeathTouchPickupA"
+S2="DeathTouchPickupB"
+S3="DeathTouchPickupV1"
+S4="DeathTouchPickupV2"
+
+[SG1001] // PICKUPZ_SUPERSPEED						
+Pri=110
+DIR="PICKUPZ"
+S1="SuperSpeedPickupA"
+S2="SuperSpeedPickupB"
+S3="SuperSpeedPickupV1"
+S4="SuperSpeedPickupV2"
+
+[SG1002] // PICKUPZ_ROIDZ							
+Pri=110
+DIR="PICKUPZ"
+S1="RoidzPickupA"
+S2="RoidzPickupB"
+S3="RoidzPickupV1"
+S4="RoidzPickupV2"
+
+[SG1003] // PICKUPZ_REACTIVEARMOR					
+Pri=110
+DIR="PICKUPZ"
+S1="ReactiveArmorPickupA"
+S2="ReactiveArmorPickupB"
+S3="ReactiveArmorPickupV1"
+S4="ReactiveArmorPickupV2"
+
+[SG1004] // PICKUPZ_INVULNERABILITY					
+Pri=110
+DIR="PICKUPZ"
+S1="InvulnerabilityPickupA"
+S2="InvulnerabilityPickupB"
+S3="InvulnerabilityPickupV1"
+S4="InvulnerabilityPickupV2"
+
+[SG1005] // PICKUPZ_GHOST							
+Pri=110
+DIR="PICKUPZ"
+S1="GhostPickupA"
+S2="GhostPickupB"
+S3="GhostPickupV1"
+S4="GhostPickupV2"
+
+[SG1006] // PICKUPZ_MINICAM						
+Pri=230
+DIR="PICKUPZ"
+S1="MiniCamPickupA"
+S2="MiniCamPickupB"
+S3="MiniCamPickupV1"
+S4="MiniCamPickupV2"
+
+[SG1007] // PICKUPZ_BLACKSCREEN						
+Pri=230
+DIR="PICKUPZ"
+S1="BlackScreenPickupA"
+S2="BlackScreenPickupB"
+S3="BlackScreenPickupV1"
+S4="BlackScreenPickupV2"
+
+[SG1008] // PICKUPZ_SCREENSHAKE						
+Pri=230
+DIR="PICKUPZ"
+S1="ScreenShakePickupA"
+S2="ScreenShakePickupB"
+S3="ScreenShakePickupV1"
+S4="ScreenShakePickupV2"
+
+[SG1009] // PICKUPZ_RANDOMCOLORZ						
+Pri=230
+DIR="PICKUPZ"
+S1="RandomColorzPickupA"
+S2="RandomColorzPickupB"
+S3="RandomColorzPickupV1"
+S4="RandomColorzPickupV2"
+
+// Secret switch voice groups...				
+												
+[SG1010] // SECRETSWITCH							
+Pri=195
+DIR="SECRETSWITCH"
+S1="SecretSwitchA"
+S2="SecretSwitchB"
+S3="SecretSwitchC"
+S4="SecretSwitchD"
+S5="SecretSwitchE"
+S6="SecretSwitchF"
+S7="SecretSwitchG"
+S8="SecretSwitchH"
+S9="SecretSwitchV1"
+S10="SecretSwitchV2"
+S11="SecretSwitchV3"
+S12="SecretSwitchV4"
+S13="SecretSwitchV5"
+S14="SecretSwitchV6"
+S15="SecretSwitchV7"
+S16="SecretSwitchV8"
+S17="SecretSwitchV9"
+S18="SecretSwitchV10"
+
+// Secret spot voice groups...					
+									
+[SG1020] // SECRETSPOT
+Pri=195
+DIR="SECRETSPOT"
+S1="SecretSpotA"
+S2="SecretSpotB"
+S3="SecretSpotC"
+S4="SecretSpotD"
+S5="SecretSpotE"
+S6="SecretSpotF"
+S7="SecretSpotG"
+S8="SecretSpotV1"
+S9="SecretSpotV2"
+S10="SecretSpotV3"
+S11="SecretSpotV4"
+S12="SecretSpotV5"
+S13="SecretSpotV6"
+S14="SecretSpotV7"
+S15="SecretSpotV8"
+S16="SecretSpotV9"
+S17="SecretSpotV10"
+
+// ScrollGrunt Item1 spell voice groups...		
+												
+[SG1030] // SCROLLSPELL_FREEZE						
+Pri=220
+DIR="GRUNTZ_SCROLLGRUNT"
+S1="TOY1A"
+S2="Toy1AV1"
+S3="Toy1AV2"
+S4="Toy1AV3"
+S5="Toy1AV4"
+S6="Toy1AV5"
+S7="Toy1AV6"
+S8="Toy1AV7"
+S9="Toy1AV8"
+S10="Toy1AV9"
+S11="Toy1AV10"
+
+[SG1031] // SCROLLSPELL_HEALTHREFILL					
+Pri=220
+DIR="GRUNTZ_SCROLLGRUNT"
+S1="TOY1B"
+S2="TOY1B2"
+S3="Toy1BV1"
+S4="Toy1BV2"
+S5="Toy1BV3"
+S6="Toy1BV4"
+S7="Toy1BV5"
+S8="Toy1BV6"
+S9="Toy1BV7"
+S10="Toy1BV8"
+S11="Toy1BV9"
+S12="Toy1BV10"
+
+[SG1032] // SCROLLSPELL_RESSURECTION					
+Pri=220
+DIR="GRUNTZ_SCROLLGRUNT"
+S1="TOY1C"
+S2="Toy1CV1"
+S3="Toy1CV2"
+S4="Toy1CV3"
+S5="Toy1CV4"
+S6="Toy1CV5"
+S7="Toy1CV6"
+S8="Toy1CV7"
+S9="Toy1CV8"
+S10="Toy1CV9"
+S11="Toy1CV10"
+
+[SG1033] // SCROLLSPELL_RANDOMTOYZ					
+Pri=220
+DIR="GRUNTZ_SCROLLGRUNT"
+S1="TOY1D"
+S2="Toy1DV1"
+S3="Toy1DV2"
+S4="Toy1DV3"
+S5="Toy1DV4"
+S6="Toy1DV5"
+S7="Toy1DV6"
+S8="Toy1DV7"
+S9="Toy1DV8"
+S10="Toy1DV9"
+S11="Toy1DV10"
+
+[SG1034] // SCROLLSPELL_RANDOMTELEPORT					
+Pri=220
+DIR="GRUNTZ_SCROLLGRUNT"
+S1="TOY1E"
+S2="Toy1EV1"
+S3="Toy1EV2"
+S4="Toy1EV3"
+S5="Toy1EV4"
+S6="Toy1EV5"
+S7="Toy1EV6"
+S8="Toy1EV7"
+S9="Toy1EV8"
+S10="Toy1EV9"
+S11="Toy1EV10"
+
+[SG1035] // SCROLLSPELL_ROLLINGBALLZ					
+Pri=220
+DIR="GRUNTZ_SCROLLGRUNT"
+S1="TOY1F"
+S2="Toy1FV1"
+S3="Toy1FV2"
+S4="Toy1FV3"
+S5="Toy1FV4"
+S6="Toy1FV5"
+S7="Toy1FV6"
+S8="Toy1FV7"
+S9="Toy1FV8"
+S10="Toy1FV9"
+S11="Toy1FV10"
+
+// ScrollGrunt Item2 spell voice groups...		
+												
+[SG1040] // SCROLLSPELL_FREEZE						
+Pri=220
+DIR="GRUNTZ_SCROLLGRUNT"
+S1="TOY2A"
+S2="Toy2AV1"
+S3="Toy2AV2"
+S4="Toy2AV3"
+S5="Toy2AV4"
+S6="Toy2AV5"
+S7="Toy2AV6"
+S8="Toy2AV7"
+S9="Toy2AV8"
+S10="Toy2AV9"
+S11="Toy2VA10"
+
+[SG1041] // SCROLLSPELL_HEALTHREFILL					
+Pri=220
+DIR="GRUNTZ_SCROLLGRUNT"
+S1="TOY2B"
+S2="Toy2BV1"
+S3="Toy2BV2"
+S4="Toy2BV3"
+S5="Toy2BV4"
+S6="Toy2BV5"
+S7="Toy2BV6"
+S8="Toy2BV7"
+S9="Toy2BV8"
+S10="Toy2BV9"
+S11="Toy2BV10"
+
+[SG1042] // SCROLLSPELL_RESSURECTION					
+Pri=220
+DIR="GRUNTZ_SCROLLGRUNT"
+S1="TOY2C"
+S2="Toy2CV1"
+S3="Toy2CV2"
+S4="Toy2CV3"
+S5="Toy2CV4"
+S6="Toy2CV5"
+S7="Toy2CV6"
+S8="Toy2CV7"
+S9="Toy2CV8"
+S10="Toy2CV9"
+S11="Toy2CV10"
+
+[SG1043] // SCROLLSPELL_RANDOMTOYZ					
+Pri=220
+DIR="GRUNTZ_SCROLLGRUNT"
+S1="TOY2D"
+S2="Toy2DV1"
+S3="Toy2DV2"
+S4="Toy2DV3"
+S5="Toy2DV4"
+S6="Toy2DV5"
+S7="Toy2DV6"
+S8="Toy2DV7"
+S9="Toy2DV8"
+S10="Toy2DV9"
+S11="Toy2DV10"
+
+[SG1044] // SCROLLSPELL_RANDOMTELEPORT					
+Pri=220
+DIR="GRUNTZ_SCROLLGRUNT"
+S1="TOY2E"
+S2="Toy2EV1"
+S3="Toy2EV2"
+S4="Toy2EV3"
+S5="Toy2EV4"
+S6="Toy2EV5"
+S7="Toy2EV6"
+S8="Toy2EV7"
+S9="Toy2EV8"
+S10="Toy2EV9"
+S11="Toy2EV10"
+
+[SG1045] // SCROLLSPELL_ROLLINGBALLZ					
+Pri=220
+DIR="GRUNTZ_SCROLLGRUNT"
+S1="TOY2F"
+S2="Toy2FV1"
+S3="Toy2FV2"
+S4="Toy2FV3"
+S5="Toy2FV4"
+S6="Toy2FV5"
+S7="Toy2FV6"
+S8="Toy2FV7"
+S9="Toy2FV8"
+S10="Toy2FV9"
+S11="Toy2FV10"
+
+// WandGrunt Item1 spell voice groups...		
+												
+[SG1050] // WANDSPELL_FREEZE						
+Pri=210
+DIR="GRUNTZ_WANDGRUNT"
+S1="Item1A"
+S2="Item1A2"
+S3="Item1A3"
+S4="Item1AV1"
+S5="Item1AV2"
+S6="Item1AV3"
+S7="Item1AV4"
+S8="Item1AV5"
+S9="Item1AV6"
+S10="Item1AV7"
+S11="Item1AV8"
+S12="Item1AV9"
+S13="Item1AV10"
+
+[SG1051] // WANDSPELL_HEALTHREFILL					
+Pri=210
+DIR="GRUNTZ_WANDGRUNT"
+S1="Item1B"
+S2="Item1B1"
+S3="Item1BV1"
+S4="Item1BV2"
+S5="Item1BV3"
+S6="Item1BV4"
+S7="Item1BV5"
+S8="Item1BV6"
+S9="Item1BV7"
+S10="Item1BV8"
+S11="Item1BV9"
+S12="Item1BV10"
+
+[SG1052] // WANDSPELL_RESSURECTION					
+Pri=210
+DIR="GRUNTZ_WANDGRUNT"
+S1="Item1C"
+S2="Item1C1"
+S3="Item1CV1"
+S4="Item1CV2"
+S5="Item1CV3"
+S6="Item1CV4"
+S7="Item1CV5"
+S8="Item1CV6"
+S9="Item1CV7"
+S10="Item1CV8"
+S11="Item1CV9"
+S12="Item1CV10"
+
+[SG1053] // WANDSPELL_RANDOMTOYZ						
+Pri=210
+DIR="GRUNTZ_WANDGRUNT"
+S1="Item1D"
+S2="Item1D1"
+S3="Item1DV1"
+S4="Item1DV2"
+S5="Item1DV3"
+S6="Item1DV4"
+S7="Item1DV5"
+S8="Item1DV6"
+S9="Item1DV7"
+S10="Item1DV8"
+S11="Item1DV9"
+S12="Item1DV10"
+
+[SG1054] // WANDSPELL_RANDOMTELEPORT					
+Pri=210
+DIR="GRUNTZ_WANDGRUNT"
+S1="Item1E"
+S2="Item1E1"
+S3="Item1EV1"
+S4="Item1EV2"
+S5="Item1EV3"
+S6="Item1EV4"
+S7="Item1EV5"
+S8="Item1EV6"
+S9="Item1EV7"
+S10="Item1EV8"
+S11="Item1EV9"
+S12="Item1EV10"
+
+[SG1055] // WANDSPELL_ROLLINGBALLZ					
+Pri=210
+DIR="GRUNTZ_WANDGRUNT"
+S1="Item1F"
+S2="Item1F1"
+S3="Item1FV1"
+S4="Item1FV2"
+S5="Item1FV3"
+S6="Item1FV4"
+S7="Item1FV5"
+S8="Item1FV6"
+S9="Item1FV7"
+S10="Item1FV8"
+S11="Item1FV9"
+S12="Item1FV10"
+
+// WandGrunt Item2 spell voice groups...		
+												
+[SG1060] // WANDSPELL_FREEZE						
+Pri=210
+DIR="GRUNTZ_WANDGRUNT"
+S1="Item2A"
+S2="Item2A2"
+S3="Item2A3"
+S4="Item2AV1"
+S5="Item2AV2"
+S6="Item2AV3"
+S7="Item2AV4"
+S8="Item2AV5"
+S9="Item2AV6"
+S10="Item2AV7"
+S11="Item2AV8"
+S12="Item2AV9"
+S13="Item2AV10"
+
+[SG1061] // WANDSPELL_HEALTHREFILL					
+Pri=210
+DIR="GRUNTZ_WANDGRUNT"
+S1="Item2B"
+S2="Item2B1"
+S3="Item2BV1"
+S4="Item2BV2"
+S5="Item2BV3"
+S6="Item2BV4"
+S7="Item2BV5"
+S8="Item2BV6"
+S9="Item2BV7"
+S10="Item2BV8"
+S11="Item2BV9"
+S12="Item2BV10"
+
+[SG1062] // WANDSPELL_RESSURECTION					
+Pri=210
+DIR="GRUNTZ_WANDGRUNT"
+S1="Item2C"
+S2="Item2C1"
+S3="Item2CV1"
+S4="Item2CV2"
+S5="Item2CV3"
+S6="Item2CV4"
+S7="Item2CV5"
+S8="Item2CV6"
+S9="Item2CV7"
+S10="Item2CV8"
+S11="Item2CV9"
+S12="Item2CV10"
+
+[SG1063] // WANDSPELL_RANDOMTOYZ						
+Pri=210
+DIR="GRUNTZ_WANDGRUNT"
+S1="Item2D"
+S2="Item2D1"
+S3="Item2DV1"
+S4="Item2DV2"
+S5="Item2DV3"
+S6="Item2DV4"
+S7="Item2DV5"
+S8="Item2DV6"
+S9="Item2DV7"
+S10="Item2DV8"
+S11="Item2DV9"
+S12="Item2DV10"
+
+[SG1064] // WANDSPELL_RANDOMTELEPORT					
+Pri=210
+DIR="GRUNTZ_WANDGRUNT"
+S1="Item2E"
+S2="Item2E1"
+S3="Item2EV1"
+S4="Item2EV2"
+S5="Item2EV3"
+S6="Item2EV4"
+S7="Item2EV5"
+S8="Item2EV6"
+S9="Item2EV7"
+S10="Item2EV8"
+S11="Item2EV9"
+S12="Item2EV10"
+
+[SG1065] // WANDSPELL_ROLLINGBALLZ					
+Pri=210
+DIR="GRUNTZ_WANDGRUNT"
+S1="Item2F"
+S2="Item2F1"
+S3="Item2FV1"
+S4="Item2FV2"
+S5="Item2FV3"
+S6="Item2FV4"
+S7="Item2FV5"
+S8="Item2FV6"
+S9="Item2FV7"
+S10="Item2FV8"
+S12="Item2FV9"
+S13="Item2FV10"
+
+// Warlordz single player voice groups...		
+												
+[SG1070] // WARLORDZSINGLEPLAYER_BATTLECRY1
+Pri=145
+DIR="GRUNTZ_WARLORDZGRUNTSP"
+S1="BattleCry1A"
+S2="BattleCry1B"
+S3="BattleCry1C"
+S4="BattleCry1D"
+S5="BattleCry1V1"
+S6="BattleCry1V2"
+S7="BattleCry1V3"
+S8="BattleCry1V4"
+S9="BattleCry1V5"
+S10="BattleCry1V6"
+S11="BattleCry1V7"
+S12="BattleCry1V8"
+S13="BattleCry1V9"
+S14="BattleCry1V10"
+
+[SG1071] // WARLORDZSINGLEPLAYER_BATTLECRY2			
+Pri=145
+DIR="GRUNTZ_WARLORDZGRUNTSP"
+S1="BattleCry2A"
+S2="BattleCry2B"
+S3="BattleCry2C"
+S4="BattleCry2D"
+S5="BattleCry2V1"
+S6="BattleCry2V2"
+S7="BattleCry2V3"
+S8="BattleCry2V4"
+S9="BattleCry2V5"
+S10="BattleCry2V6"
+S11="BattleCry2V7"
+S12="BattleCry2V8"
+S13="BattleCry2V9"
+S14="BattleCry2V10"
+
+
+[SG1072] // WARLORDZSINGLEPLAYER_BATTLECRY3			
+Pri=145
+DIR="GRUNTZ_WARLORDZGRUNTSP"
+S1="BattleCry3A"
+S2="BattleCry3B"
+S3="BattleCry3C"
+S4="BattleCry3D"
+S5="BattleCry3V1"
+S6="BattleCry3V2"
+S7="BattleCry3V3"
+S8="BattleCry3V4"
+S9="BattleCry3V5"
+S10="BattleCry3V6"
+S11="BattleCry3V7"
+S12="BattleCry3V8"
+S13="BattleCry3V9"
+S14="BattleCry3V10"
+
+[SG1074] // WARLORDZSINGLEPLAYER_IDLE2				
+Pri=145
+DIR="GRUNTZ_WARLORDZGRUNTSP"
+S1="Idle2A"
+S2="Idle2B"
+S3="Idle2C"
+S4="Idle2D"
+S5="Idle2E"
+S6="Idle2V1"
+S7="Idle2V2"
+S8="Idle2V3"
+S9="Idle2V4"
+S10="Idle2V5"
+S11="Idle2V6"
+S12="Idle2V7"
+S13="Idle2V8"
+S14="Idle2V9"
+S15="Idle2V10"
+
+[SG1075] // WARLORDZSINGLEPLAYER_IDLE3				
+Pri=145
+DIR="GRUNTZ_WARLORDZGRUNTSP"
+S1="Idle3A"
+S2="Idle3B"
+S3="Idle3C"
+S4="Idle3D"
+S5="Idle3V1"
+S6="Idle3V2"
+S7="Idle3V3"
+S8="Idle3V4"
+S9="Idle3V5"
+S10="Idle3V6"
+S11="Idle3V7"
+S12="Idle3V8"
+S13="Idle3V9"
+S14="Idle3V10"
+
+[SG1076] // WARLORDZSINGLEPLAYER_IDLE4				
+Pri=145
+DIR="GRUNTZ_WARLORDZGRUNTSP"
+S1="Idle4A"
+S2="Idle4B"
+S3="Idle4D"
+S4="Idle4V1"
+S5="Idle4V2"
+S6="Idle4V3"
+S7="Idle4V4"
+S8="Idle4V5"
+S9="Idle4V6"
+S10="Idle4V7"
+S11="Idle4V8"
+S12="Idle4V9"
+S13="Idle4V10"
+
+[SG1077] // WARLORDZSINGLEPLAYER_JOY				
+Pri=165 // temporary...
+DIR="GRUNTZ_WARLORDZGRUNTSP"
+S1="JoyA"
+S2="JoyB1"
+S3="JoyB2"
+S4="JoyC"
+S5="JoyD"
+S6="JoyE"
+S7="JoyF"
+S8="JoyG"
+S9="JoyV1"
+S10="JoyV2"
+S11="JoyV3"
+S12="JoyV4"
+S13="JoyV5"
+S14="JoyV6"
+S15="JoyV7"
+S16="JoyV8"
+S17="JoyV9"
+S18="JoyV10"
+
+[SG1078] // WARLORDZSINGLEPLAYER_PANIC				
+Pri=500
+DIR="GRUNTZ_WARLORDZGRUNTSP"
+S1="PanicA"
+S2="PanicB"
+S3="PanicC"
+S4="PanicD"
+S5="PanicV1"
+S6="PanicV2"
+S7="PanicV3"
+S8="PanicV4"
+S9="PanicV5"
+S10="PanicV6"
+S11="PanicV7"
+S12="PanicV8"
+S13="PanicV9"
+S14="PanicV10"
+
+// Warlordz multiplayer voice groups...			
+												
+[SG1080] // WARLORDZMULTIPLAYER_BATTLECRY1			
+Pri=300
+DIR="GRUNTZ_WARLORDZGRUNTMP"
+S1="BattleCry1A"
+S2="BattleCry1B"
+S3="BattleCry1C"
+S4="BattleCry1D"
+S5="BattleCry1V1"
+S6="BattleCry1V2"
+S7="BattleCry1V3"
+S8="BattleCry1V4"
+S9="BattleCry1V5"
+S10="BattleCry1V6"
+S11="BattleCry1V7"
+S12="BattleCry1V8"
+S13="BattleCry1V9"
+S14="BattleCry1V10"
+
+
+[SG1081] // WARLORDZMULTIPLAYER_BATTLECRY2			
+Pri=300
+DIR="GRUNTZ_WARLORDZGRUNTMP"
+S1="BattleCry2A"
+S2="BattleCry2B"
+S3="BattleCry2C"
+S4="BattleCry2D"
+S5="BattleCry2E"
+S6="BattleCry2V1"
+S7="BattleCry2V2"
+S8="BattleCry2V3"
+S9="BattleCry2V4"
+S10="BattleCry2V5"
+S11="BattleCry2V6"
+S12="BattleCry2V7"
+S13="BattleCry2V8"
+S14="BattleCry2V9"
+S15="BattleCry2V10"
+
+[SG1082] // WARLORDZMULTIPLAYER_BATTLECRY3			
+Pri=300
+DIR="GRUNTZ_WARLORDZGRUNTMP"
+S1="BattleCry3A"
+S2="BattleCry3B"
+S3="BattleCry3C"
+S4="BattleCry3D"
+S5="BattleCry3V1"
+S6="BattleCry3V2"
+S7="BattleCry3V3"
+S8="BattleCry3V4"
+S9="BattleCry3V5"
+S10="BattleCry3V6"
+S11="BattleCry3V7"
+S12="BattleCry3V8"
+S13="BattleCry3V9"
+S14="BattleCry3V10"
+
+[SG1084] // WARLORDZMULTIPLAYER_IDLE2				
+Pri=300
+DIR="GRUNTZ_WARLORDZGRUNTMP"
+S1="Idle2A"
+S2="Idle2B"
+S3="Idle2C"
+S4="Idle2E"
+S5="Idle2V1"
+S6="Idle2V2"
+S7="Idle2V3"
+S8="Idle2V4"
+S9="Idle2V5"
+S10="Idle2V6"
+S11="Idle2V7"
+S12="Idle2V8"
+S13="Idle2V9"
+S14="Idle2V10"
+
+[SG1085] // WARLORDZMULTIPLAYER_IDLE3				
+Pri=300
+DIR="GRUNTZ_WARLORDZGRUNTMP"
+S1="Idle3A"
+S2="Idle3B"
+S3="Idle3C"
+S4="Idle3D"
+S5="Idle3V1"
+S6="Idle3V2"
+S7="Idle3V3"
+S8="Idle3V4"
+S9="Idle3V5"
+S10="Idle3V6"
+S11="Idle3V7"
+S12="Idle3V8"
+S13="Idle3V9"
+S14="Idle3V10"
+
+[SG1086] // WARLORDZMULTIPLAYER_IDLE4				
+Pri=300
+DIR="GRUNTZ_WARLORDZGRUNTMP"
+S1="Idle4A"
+S2="Idle4B"
+S3="Idle4C"
+S4="Idle4D"
+S5="Idle4V1"
+S6="Idle4V2"
+S7="Idle4V3"
+S8="Idle4V4"
+S9="Idle4V5"
+S10="Idle4V6"
+S11="Idle4V7"
+S12="Idle4V8"
+S13="Idle4V9"
+S14="Idle4V10"
+
+[SG1087] // WARLORDZMULTIPLAYER_JOY				
+Pri=400
+DIR="GRUNTZ_WARLORDZGRUNTMP"
+S1="JoyA"
+S2="JoyB"
+S3="JoyC"
+S4="JoyD"
+S5="JoyE"
+S6="JoyF"
+S7="JoyG"
+S8="JoyV1"
+S9="JoyV2"
+S10="JoyV3"
+S11="JoyV4"
+S12="JoyV5"
+S13="JoyV6"
+S14="JoyV7"
+S15="JoyV8"
+S16="JoyV9"
+S17="JoyV10"
+
+[SG1088] // WARLORDZMULTIPLAYER_PANIC
+Pri=400
+DIR="GRUNTZ_WARLORDZGRUNTMP"
+S1="PanicA"
+S2="PanicB"
+S3="PanicC"
+S4="PanicD"
+S5="PanicE"
+S6="PanicV1"
+S7="PanicV2"
+S8="PanicV3"
+S9="PanicV4"
+S10="PanicV5"
+S11="PanicV6"
+S12="PanicV7"
+S13="PanicV8"
+S14="PanicV9"
+S15="PanicV10"
+
+[SG1089] // BOOTY SOUNDZ
+DIR="BOOTY"
+S1="Bad1"
+S2="BootyV1"
+S3="BootyV2"
+S4="BootyV3"
+S5="BootyV4"
+S6="BootyV5"
+S7="BootyV6"
+S8="BootyV7"
+S9="BootyV8"
+S10="BootyV9"
+S11="BootyV10"
+
+[SG1090] // DEATHZKING
+Pri=500
+DIR="DEATHKING"
+S1="Death1"
+S2="Death2"
+S3="Death3"
+S4="Death4"
+S5="Death5"
+S6="Death6"
+S7="Death7"
+S8="Death8"
+S9="Death9"
+S10="Death10"
+S11="Death11"
+S12="Death12"
+S13="Death13"
+S14="Death14"
+
+[SG1091] // DEATHNAPOLEAN
+Pri=500
+DIR="DEATHNAPOLEAN"
+S1="Death1"
+S2="Death2"
+S3="Death3"
+S4="Death4"
+S5="Death5"
+S6="Death6"
+S7="Death7"
+S8="Death8"
+S9="Death9"
+S10="Death10"
+S11="Death11"
+S12="Death12"
+S13="Death13"
+S14="Death14"
+
+[SG1092] // DEATHZPATTON
+Pri=500
+DIR="DEATHPATTON"
+S1="Death1"
+S2="Death2"
+S3="Death3"
+S4="Death4"
+S5="Death5"
+S6="Death6"
+S7="Death7"
+S8="Death8"
+S9="Death9"
+S10="Death10"
+S11="Death11"
+S12="Death12"
+S13="Death13"
+S14="Death14"
+
+[SG1093] // DEATHZVIKING
+Pri=500
+DIR="DEATHVIKING"
+S1="Death1"
+S2="Death2"
+S3="Death3"
+S4="Death4"
+S5="Death5"
+S6="Death6"
+S7="Death7"
+S8="Death8"
+S9="Death9"
+S10="Death10"
+S11="Death11"
+S12="Death12"
+S13="Death13"
+S14="Death14"   
